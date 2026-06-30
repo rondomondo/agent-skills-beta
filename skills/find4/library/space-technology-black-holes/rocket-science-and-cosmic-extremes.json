@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T10:00:00Z",
+    "source": "stdin",
+    "suggested_name": "space-technology-black-holes.json",
+    "modified_at": "2026-06-27T15:02:16.284355",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "ded23b"
+      ],
+      "group_set_ids": [
+        "667855",
+        "67825f"
+      ],
+      "group_item_ids": [
+        "900b8a",
+        "875c9f",
+        "7068b2",
+        "0e385b",
+        "4db816",
+        "6705d2",
+        "0914f3",
+        "c75ea4"
+      ]
+    },
+    "id": "bRxKDJLJi3k23u3B",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T15:02:22.458317+00:00",
+      "parent_id": "bRxKDJLJi3k23u3B",
+      "parent_file": "output/games/space-technology-black-holes.json",
+      "theme": "Rocket Science and Cosmic Extremes",
+      "slug": "rocket-science-and-cosmic-extremes"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Rocket Science and Cosmic Extremes",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ION THRUSTER",
+              "HALL-EFFECT",
+              "SOLAR SAIL",
+              "PLASMA DRIVE"
+            ],
+            "category": "Advanced Propulsion Types",
+            "color": "teal",
+            "url": "https://www.nasa.gov/directorates/spacetech/game_changing_development/projects/NEXT-C",
+            "description": "Next-generation spacecraft propulsion technologies beyond chemical rockets",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/",
+              "https://www.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "900b8a",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "STELLAR",
+              "SUPERMASSIVE",
+              "PRIMORDIAL",
+              "INTERMEDIATE-MASS"
+            ],
+            "category": "Black Hole Types by Mass",
+            "color": "red",
+            "url": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-a-black-hole-k4.html",
+            "description": "Classification of black holes based on their formation mechanism and mass range",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.org/",
+              "https://hubblesite.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "875c9f",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "TELEMETRY",
+              "PAYLOAD FAIRING",
+              "ADCS",
+              "RTG"
+            ],
+            "category": "Spacecraft Subsystems",
+            "color": "orange",
+            "url": "https://www.nasa.gov/smallsat-institute/ssc/spacecraft-design/",
+            "description": "Core engineering subsystems found on modern spacecraft",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Operations/",
+              "https://www.jpl.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "7068b2",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "BEKENSTEIN ENTROPY",
+              "SCHWARZSCHILD RADIUS",
+              "LORENTZ FACTOR",
+              "MATCHED FILTERING"
+            ],
+            "category": "Black Hole Mathematics",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Bekenstein-Hawking_entropy",
+            "description": "Key mathematical quantities and techniques in black hole science and gravitational wave astronomy",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.ligo.caltech.edu/page/gw-sources",
+              "https://arxiv.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0e385b",
+            "group_set_id": "667855"
+          }
+        ],
+        [
+          {
+            "words": [
+              "VOYAGER 1",
+              "NEW HORIZONS",
+              "CASSINI",
+              "PARKER SOLAR PROBE"
+            ],
+            "category": "Deep Space Probes",
+            "color": "blue",
+            "url": "https://voyager.jpl.nasa.gov/",
+            "description": "Robotic spacecraft sent to explore the outer solar system and interstellar space",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://pluto.jhuapl.edu/",
+              "https://parkersolarprobe.jhuapl.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "4db816",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "NASA",
+              "ESA",
+              "ROSCOSMOS",
+              "ISRO"
+            ],
+            "category": "Space Agencies",
+            "color": "green",
+            "url": "https://www.nasa.gov/",
+            "description": "National government agencies responsible for space exploration and research",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.int/",
+              "https://www.isro.gov.in/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "6705d2",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "GW150914",
+              "BINARY MERGER",
+              "CHIRP SIGNAL",
+              "RINGDOWN"
+            ],
+            "category": "Gravitational Wave Events",
+            "color": "indigo",
+            "url": "https://www.ligo.caltech.edu/detection",
+            "description": "Stages and signatures of a gravitational wave event from a binary black hole coalescence",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://gwosc.org/",
+              "https://www.ligo.caltech.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0914f3",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "SPACEX",
+              "BLUE ORIGIN",
+              "ROCKET LAB",
+              "AXIOM SPACE"
+            ],
+            "category": "Commercial Space Companies",
+            "color": "yellow",
+            "url": "https://www.spacex.com/",
+            "description": "Private companies driving the new commercial space economy",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.blueorigin.com/",
+              "https://www.rocketlabusa.com/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "c75ea4",
+            "group_set_id": "67825f"
+          }
+        ]
+      ],
+      "game_set_id": "ded23b"
+    }
+  ]
+}

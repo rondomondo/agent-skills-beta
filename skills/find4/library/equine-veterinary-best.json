@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-best.json",
+    "modified_at": "2026-06-28T01:04:30.510220",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "group_set_ids": [
+        "4e589c",
+        "b847c9",
+        "db843c",
+        "8f1c63"
+      ],
+      "game_set_ids": [
+        "cd58ff",
+        "971e2b"
+      ],
+      "group_item_ids": [
+        "248cba",
+        "01de1e",
+        "396abe",
+        "0dd8a0",
+        "c8ed30",
+        "c8158c",
+        "4ed567",
+        "d58307",
+        "2c5872",
+        "68e12e",
+        "776715",
+        "49a043",
+        "a275f5",
+        "7d8855",
+        "cdbb55",
+        "85b15c"
+      ]
+    },
+    "id": "Qt-d2MSlbkpHIE8X"
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ULTRASONOGRAPHY",
+              "RADIOGRAPHY",
+              "ENDOSCOPY",
+              "THERMOGRAPHY"
+            ],
+            "category": "Diagnostic Imaging Modalities",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/lameness-diagnosis",
+            "description": "Key imaging technologies used by elite equine vets to visualise soft tissue, bone, airways and abdominal organs",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "248cba",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "FLEXION",
+              "NERVE-BLOCK",
+              "TROT-UP",
+              "FORCE-PLATE"
+            ],
+            "category": "Lameness Evaluation Tools",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/lameness",
+            "description": "Systematic methods used to localise and quantify gait abnormalities in horses, from hands-on flexion tests to inertial sensor technology",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://lameness-locator.com"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "01de1e",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "LAPAROTOMY",
+              "ARTHROSCOPY",
+              "HOBDAY",
+              "CASTRATION"
+            ],
+            "category": "Core Surgical Procedures",
+            "color": "green",
+            "url": "https://www.beva.org.uk/education/surgery",
+            "description": "Fundamental equine surgical competencies ranging from emergency colic surgery to elective orthopaedic and airway procedures",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/colic"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "396abe",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "PPID",
+              "EMS",
+              "RAO",
+              "LYMPHOMA"
+            ],
+            "category": "Complex Medical Conditions",
+            "color": "yellow",
+            "url": "https://www.aaep.org/horsehealth/equine-cushings-disease-ppid",
+            "description": "Chronic and systemic diseases requiring deep internal medicine knowledge; PPID (Cushing's), metabolic syndrome, heaves, and neoplasia",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ker.com/equinews/equine-metabolic-syndrome/"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "0dd8a0",
+            "group_set_id": "4e589c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BSE",
+              "EMBRYO-TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION"
+            ],
+            "category": "Reproductive Technologies",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/reproduction",
+            "description": "Advanced assisted reproduction techniques from breeding soundness evaluation through to embryo and oocyte transfer programs",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/reproduction"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8ed30",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "TRIAMCINOLONE",
+              "HYALURONATE",
+              "PROSTRIDE",
+              "PRP"
+            ],
+            "category": "Intra-articular Medications",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/joint-injections",
+            "description": "Therapeutic agents injected directly into joints; range from corticosteroids to biologic therapies, each with different evidence bases and competition withdrawal profiles",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8158c",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "EOTRH",
+              "WOLF-TOOTH",
+              "POWER-FLOAT",
+              "DENTAL-RADIOGRAPHY"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "orange",
+            "url": "https://www.beva.org.uk/education/dentistry",
+            "description": "Key equine dental skills: identifying pathology like EOTRH in aged horses, performing extractions, and using power instruments and imaging for accurate diagnosis",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/dental-care"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "4ed567",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "DETOMIDINE",
+              "ROMIFIDINE",
+              "BUTORPHANOL",
+              "ACEPROMAZINE"
+            ],
+            "category": "Chemical Restraint Agents",
+            "color": "indigo",
+            "url": "https://www.merckvetmanual.com/pharmacology/sedatives",
+            "description": "Sedative, analgesic, and tranquilliser drugs combined by equine vets for standing sedation and field anaesthesia procedures",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/sedation"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "d58307",
+            "group_set_id": "b847c9"
+          }
+        ]
+      ],
+      "game_set_id": "cd58ff"
+    },
+    {
+      "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "PROGNOSIS",
+              "TRANSPARENCY",
+              "TRUST",
+              "EMPATHY"
+            ],
+            "category": "Client Communication Qualities",
+            "color": "yellow",
+            "url": "https://www.beva.org.uk/education/professional-skills",
+            "description": "Interpersonal and communication competencies that distinguish exceptional equine vets when delivering difficult news under pressure",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/client-communication"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "2c5872",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "COLIC",
+              "CHOKE",
+              "LAMINITIS",
+              "DYSTOCIA"
+            ],
+            "category": "Equine Emergency Presentations",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/colic",
+            "description": "The most time-critical field emergencies requiring rapid triage and decisive intervention; delays cost lives and viability",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/emergency-care"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "68e12e",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "BEVA",
+              "AAEP",
+              "EVJ",
+              "CPD"
+            ],
+            "category": "Professional Development Resources",
+            "color": "green",
+            "url": "https://www.beva.org.uk",
+            "description": "Key professional organisations and publications that top equine vets use to stay current with evidence-based practice and emerging therapies",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org",
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "776715",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "STEM-CELL",
+              "SHOCKWAVE",
+              "PEMF",
+              "PLATELET-RICH-PLASMA"
+            ],
+            "category": "Emerging Regenerative Therapies",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/regenerative-medicine",
+            "description": "Novel biologic and physical therapies with growing evidence bases; the best vets critically appraise RCT data vs anecdote before adoption",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/regenerative"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "49a043",
+            "group_set_id": "db843c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "WITHDRAWAL",
+              "FEI-RULES",
+              "NSAID",
+              "OFF-LABEL"
+            ],
+            "category": "Competition Horse Drug Compliance",
+            "color": "orange",
+            "url": "https://www.fei.org/fei/cleansport/ad",
+            "description": "Regulatory and pharmacological knowledge critical for vets treating competition horses; getting withdrawal times wrong can end an athlete's career",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.bha.co.uk/horse-racing/anti-doping/"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "a275f5",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "EAR-POSITION",
+              "TAIL-WRINGING",
+              "WEIGHT-SHIFTING",
+              "SKIN-TWITCHING"
+            ],
+            "category": "Horse Body Language Signals",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/horse-behavior",
+            "description": "Behavioural cues that skilled vets read to anticipate stress, pain, or aggression before a horse kicks, rears, or bolts during examination",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/horsemanship"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "7d8855",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "SEPTICAEMIA",
+              "FLUID-THERAPY",
+              "ENTERAL-NUTRITION",
+              "NEONATAL-FOAL"
+            ],
+            "category": "Sick Foal Critical Care",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/neonatal-foal",
+            "description": "Intensive care management of the compromised newborn foal requires a specialist skillset distinct from adult equine medicine",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/neonatology"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "cdbb55",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "INVOICING",
+              "SCHEDULING",
+              "MENTORSHIP",
+              "RECORD-KEEPING"
+            ],
+            "category": "Practice Management Competencies",
+            "color": "indigo",
+            "url": "https://www.beva.org.uk/education/practice-management",
+            "description": "Business and operational skills that separate thriving equine practices from struggling ones; technical skill alone does not build a sustainable career",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/practice-management"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "85b15c",
+            "group_set_id": "8f1c63"
+          }
+        ]
+      ],
+      "game_set_id": "971e2b"
+    }
+  ]
+}

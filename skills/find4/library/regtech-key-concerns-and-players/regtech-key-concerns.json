@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-29T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "regtech-key-concerns-and-players.json",
+    "modified_at": "2026-06-29T21:23:15.312705",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "4703ec"
+      ],
+      "group_set_ids": [
+        "08d9b0",
+        "bc569b"
+      ],
+      "group_item_ids": [
+        "8b25a5",
+        "a4f36a",
+        "4261dd",
+        "e40ec9",
+        "6feedc",
+        "0f71d8",
+        "b0017e",
+        "62f54b"
+      ]
+    },
+    "id": "-2m33h7tu7vo28hv",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-29T21:23:21.497687+00:00",
+      "parent_id": "-2m33h7tu7vo28hv",
+      "parent_file": "/home/claude/output/games/regtech-key-concerns-and-players.json",
+      "theme": "RegTech Key Concerns",
+      "slug": "regtech-key-concerns"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "RegTech Key Concerns",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "AML",
+              "SAR",
+              "CDD",
+              "FATF"
+            ],
+            "category": "Anti-Money Laundering Essentials",
+            "color": "red",
+            "url": "https://www.fatf-gafi.org/en/topics/aml-cft.html",
+            "description": "Core concepts in anti-money laundering compliance: AML frameworks, Suspicious Activity Reports, Customer Due Diligence, and FATF global standards",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "8b25a5",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "KYC",
+              "EDD",
+              "UBO",
+              "PEP"
+            ],
+            "category": "Know Your Customer Deep Dive",
+            "color": "blue",
+            "url": "https://www.wolfsberg-principles.com/standards/kyc-principles",
+            "description": "KYC pillars: Know Your Customer onboarding, Enhanced Due Diligence for high-risk clients, Ultimate Beneficial Owner identification, and Politically Exposed Persons screening",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.bis.org/bcbs/publ/d353.pdf"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "a4f36a",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "GDPR",
+              "SCA",
+              "DORA",
+              "MiCA"
+            ],
+            "category": "EU Regulatory Frameworks",
+            "color": "green",
+            "url": "https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation_en",
+            "description": "Major EU regulatory regimes: GDPR for data privacy, Strong Customer Authentication under PSD2, DORA for digital operational resilience, and MiCA for crypto-assets",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "4261dd",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "OFAC",
+              "SANCTIONS",
+              "SCREENING",
+              "WATCHLIST"
+            ],
+            "category": "Sanctions Compliance",
+            "color": "yellow",
+            "url": "https://ofac.treasury.gov/",
+            "description": "Sanctions compliance components: OFAC lists, broader sanctions regimes, automated screening processes, and watchlist databases used to block prohibited transactions",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.hm-treasury.gov.uk/fin_crime_sanctions.htm"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "e40ec9",
+            "group_set_id": "08d9b0"
+          }
+        ],
+        [
+          {
+            "words": [
+              "COREP",
+              "FINREP",
+              "XBRL",
+              "NSFR"
+            ],
+            "category": "Regulatory Reporting Formats",
+            "color": "purple",
+            "url": "https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks",
+            "description": "Bank regulatory reporting standards: COREP for capital adequacy, FINREP for financial reporting, XBRL for structured data submission, and NSFR for stable funding ratios",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.bis.org/bcbs/publ/d424.htm"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "6feedc",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SPOOFING",
+              "LAYERING",
+              "SURVEILLANCE",
+              "INSIDER"
+            ],
+            "category": "Market Abuse & Trade Surveillance",
+            "color": "teal",
+            "url": "https://www.esma.europa.eu/regulation/trading/market-abuse",
+            "description": "Market conduct violations and detection methods: spoofing and layering manipulations, continuous trade surveillance systems, and insider trading monitoring under MAR/MiFID II",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.sec.gov/divisions/enforce/market-manipulation.shtml"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "0f71d8",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SFDR",
+              "TCFD",
+              "CSRD",
+              "GREENWASHING"
+            ],
+            "category": "ESG & Sustainability Compliance",
+            "color": "orange",
+            "url": "https://finance.ec.europa.eu/sustainable-finance/disclosures/sustainability-related-disclosure-financial-services-sector_en",
+            "description": "ESG regulatory obligations: SFDR for sustainable finance disclosure, TCFD for climate risk reporting, CSRD for corporate sustainability, and prevention of greenwashing",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.fsb-tcfd.org/"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "b0017e",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SR11-7",
+              "EXPLAINABILITY",
+              "BIAS",
+              "MODEL RISK"
+            ],
+            "category": "AI Governance in Finance",
+            "color": "indigo",
+            "url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm",
+            "description": "AI model risk management concerns: SR 11-7 supervisory guidance, explainability requirements for decisions, bias detection in credit/fraud models, and model validation risk",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.eba.europa.eu/regulation-and-policy/innovation-and-fintech/machine-learning-for-irb-models"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "62f54b",
+            "group_set_id": "bc569b"
+          }
+        ]
+      ],
+      "game_set_id": "4703ec"
+    }
+  ]
+}

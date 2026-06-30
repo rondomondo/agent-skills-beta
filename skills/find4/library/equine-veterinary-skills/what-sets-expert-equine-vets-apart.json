@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-skills.json",
+    "modified_at": "2026-06-27T23:46:07.982531",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "ed65a3"
+      ],
+      "group_set_ids": [
+        "1c0555",
+        "f56788"
+      ],
+      "group_item_ids": [
+        "ce0fcf",
+        "0dcb66",
+        "ca7959",
+        "28a921",
+        "ee3b38",
+        "5632c3",
+        "911079",
+        "5017c4"
+      ]
+    },
+    "id": "wCkDJANKiegVlA11",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T23:46:15.781349+00:00",
+      "parent_id": "wCkDJANKiegVlA11",
+      "parent_file": "/home/claude/output/games/equine-veterinary-skills.json",
+      "theme": "What Sets Expert Equine Vets Apart",
+      "slug": "what-sets-expert-equine-vets-apart"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "What Sets Expert Equine Vets Apart",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ETHOLOGY",
+              "DESENSITISE",
+              "RESTRAINT",
+              "APPROACH"
+            ],
+            "category": "Horsemanship and Handling Skills",
+            "color": "red",
+            "url": "https://www.bhs.org.uk/horse-care-and-welfare/horse-behaviour",
+            "description": "Non-clinical skills involving reading and safely managing equine behaviour",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.equinebehaviorconference.org",
+              "https://www.ivis.org"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ce0fcf",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "BEVA",
+              "AAEP",
+              "EVJ",
+              "WEVA"
+            ],
+            "category": "Professional Bodies and Leading Journals",
+            "color": "blue",
+            "url": "https://www.beva.org.uk",
+            "description": "Key organisations and publications driving equine veterinary continuing education",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org",
+              "https://onlinelibrary.wiley.com/journal/20423306"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "0dcb66",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "PRP",
+              "IRAP",
+              "MSC",
+              "STEM-CELL"
+            ],
+            "category": "Regenerative Medicine Therapies",
+            "color": "green",
+            "url": "https://www.sciencedirect.com/journal/the-veterinary-journal",
+            "description": "Emerging biologic treatments used to support tendon, ligament and joint healing in horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://pubmed.ncbi.nlm.nih.gov",
+              "https://www.ivis.org"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ca7959",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "PROGNOSIS",
+              "EMPATHY",
+              "AUTHORITY",
+              "CLARITY"
+            ],
+            "category": "Client Communication Under Pressure",
+            "color": "yellow",
+            "url": "https://rcvs.org.uk/setting-standards/assuring-our-standards/professional-conduct",
+            "description": "Interpersonal competencies that distinguish exceptional equine practitioners in high-stakes conversations",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.rcvs.org.uk",
+              "https://bvra.co.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "28a921",
+            "group_set_id": "1c0555"
+          }
+        ],
+        [
+          {
+            "words": [
+              "DETOMIDINE",
+              "BUTORPHANOL",
+              "PHENYLBUTAZONE",
+              "FLUNIXIN"
+            ],
+            "category": "Core Equine Pharmacology Agents",
+            "color": "purple",
+            "url": "https://www.vmd.defra.gov.uk/productinformationdatabase",
+            "description": "Commonly used sedatives, opioids, and NSAIDs in equine clinical practice",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/controlled-substances",
+              "https://beva.org.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ee3b38",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "WITHDRAWAL",
+              "FEI",
+              "COMPOUNDING",
+              "DOPING"
+            ],
+            "category": "Regulatory and Anti-Doping Pharmacology",
+            "color": "teal",
+            "url": "https://inside.fei.org/fei/cleansport/horses",
+            "description": "Rules and constraints around controlled substances and drug use in competition horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk",
+              "https://www.rcvs.org.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "5632c3",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "BIOMECHANICS",
+              "GAIT-ANALYSIS",
+              "KINETICS",
+              "KINEMATICA"
+            ],
+            "category": "Locomotion Science and Gait Analytics",
+            "color": "orange",
+            "url": "https://onlinelibrary.wiley.com/journal/20423306",
+            "description": "Scientific understanding of how horses move, enabling objective lameness assessment",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://equinegaitanalysis.com",
+              "https://www.sciencedirect.com/journal/the-veterinary-journal"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "911079",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "FEE-SCHEDULE",
+              "INSURANCE",
+              "REFERRAL",
+              "RETENTION"
+            ],
+            "category": "Equine Practice Business Management",
+            "color": "indigo",
+            "url": "https://www.beva.org.uk/Business-Resources",
+            "description": "Commercial and operational skills that sustain a successful equine veterinary practice",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.rcvs.org.uk/setting-standards",
+              "https://www.aaep.org/info/practice-management"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "5017c4",
+            "group_set_id": "f56788"
+          }
+        ]
+      ],
+      "game_set_id": "ed65a3"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find4 &mdash; bpftrace One-Liners &amp; Internals</title>
+
+    <meta name="description" content="A Intermediate-level Find4 word-grouping game on &#x27;bpftrace One-Liners &amp; Internals&#x27;. 2 rounds, 32 words. Find the hidden connections between groups of 4.">
+    <meta name="keywords" content="bpftrace One-Liners &amp; Internals, bpftrace Probe Type Aliases, bpftrace Builtin Variables, bpftrace Map Functions, bpftrace Stack &amp; Timing Probes, eBPF C Helper Functions, Modern eBPF Portability, eBPF Beyond Observability, More BCC Single-Purpose Tools">
+    <meta name="author" content="Find4">
+    <meta name="theme-color" content="#0f6e56">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://find4.org/#game=1Zh9b9u6FYe_CuELDClmxS-Jk9j_OY7SGnFiI3bveu9WGJRE2ZxlUSOpOG7R777foSTbTdoubVdgA4qaoc7hoQ4fnhd9rK2F5RG3vNb7WFuIVGhuRTTnttartZvtM6_Z8drNWbPZc__-rNVrRuU6FHi-tDYzvUZjs9kcB1qkEU8XWiwWx6FaN0SQxcdLu05II18shKF1U74mzUSm-aNHIp7VPJTpwrNKJeb4n0alUFirSMbyS_vo9lrd3knruNNsNTvt3W7mMvquDVmRQT6WKU_kBzHfOaFek9EcKtJYvXUu0SrP5kZYWDC13t9rZ80ovjiBYLd70oloBxdRV7TOMOCBOGvy2vt6bYHXPFQKTuNYkIhoxUG3EHELSyvWlVB4zoOoA6GAn3XCEIMwbrdPLjA4O-1exDToBGeBs97unImuMxp1Lk4iehSfdoMWBidhHISnGJyHzYAHtOD5SafZxaAZt7sBCXfPw_iCZkQzbHbIVhCKbkjq5-L87KJVe_-JfAEnTaPtH77w__WmtfHnqj-sfdq_H-37Y80uhTtVOJhOU7BxKryRBEuG_YUNUys0_Gxq9b03SRGaG6WLd7-Z3I8vfUjc3Puzavy2Gszu-wN_Mh7ezchzIQhdKDqevcWJVoFgs20mWD-R3AiyFqpEaZJKcoE_c528mJHfqpUzrRaar9dAFEtEwoRaZlaC0gPrmbNuyTovrPfYyk02VkymYClfi9QatoInRMLiPA1pDYZJva2zlRa2FNfflIdcrlN2FPIMA-yJZh548qrO8mKBnMVKs9wI7SXiAbqlieJllExtwzoRY3mQCPqxMqwMuTUM-0febrZO8ZeIhT5QNUw9YGJVim2WQguayJQxEqvRzVrJJJk70_CQO_u1iCSOzLEaSXoPnsyLa-vOvjqRhbTLPHDnINWDNEo3Kg83gkQFjTXHvdWNSIWm4bYmUtz8RS4jcbyOCI3vJbG8ftDYXZrDC4_58nJ_qh_AOhjf3kJyMrwiNt3_oPb3_uhrdF7mMrEyZb9zLcnrh3ACPpH-Cjp9Y3D2kidst4-A9uFhIw_VRhh_4DJxJGC64Jg71oAwbK6ZNAxepUc4LtOgOZ5GjAJ5nWUyeiLAhleAbT9tl1rwyM0WqLKCXVE8LoHGfC6Yit3c_gKIaI_-kUqT7efb3V-bvBqVBL96RuIlYnoKDv67FNrcKngymatUzBPH2U-TuIvaLyDxzXA6g-So_B2M397R73TWn02_BuMtz9h16dVDEJUGa782Tq555mUqyxPEHMQuvqAVuTve6pyB3RLJ9-iVgzUCoIguG0QzFXtt98jZqbPkqRi5n-u9CNvgJJl4zBIZSsuwMxzdY4NSfx1o5ylpu1_DAAn9IMQprIRt1l1gNJDQIiRvF5LsryAQJdJCYGSVBc4US3kB8P9x-NtVCC-A7gZ4DW4oP1cD5Onr4YgyNVK0f_-NSDi1PFxhLzNJpBRp-xBCmUZyoX4Uwq-TZ5xdCly2sIwoxAOZ4Dxcsi6e70JTmQ6LWbeCQYZ9IuSSrMn2y1eCuAuxTERv-aF3x2JJsiCck2kkSx5qpEsUCgkbTN4aBxAGpRb2VicOhQZSPbNbIBNaoigOobZlsVZrLCmcHulr5Gft7hT-EI_SPkOxHz1w4BL9b2O4q0-_guH7-mHReDm5no_Gr9sjKND4Zja89eev_dn8blpOuQpyfu_3r8oJV0piGqDePIFU4DkbsDcigbO_GCK189_3oRmG3wqNI7Wp6rTC-tJZd3BFlOMuBwNWLgBOsex8RRjNF3BNSvEpFjZcUiJHSk6VQbQqIEe_xdeIY6TikuKcEjEUDI8FGApVJvekr8UaTgBTCICUg2kzDupigUQt2okLl-sst2Xu_lJcRjgOV8Ji55F4LHQdAtgCoF5hiY2WtEAkghy05hbrMTJaSEmU0EflM-T753ncf4R77A9RHIa_HuBdX_UE4LI1_CyOXs6uXc727ilyjoaXxOeA0veNP_Jn47snfN6qCHYLUCa47kX82h7waQVPXgYoHLFooK9ueq2W1zylK-6FytPCC2zsJTI4aJY_J_ZwF9l-FwUtPYaXYkf0zPVi10qvuX2FJiSE2o421ynJNHZPsWydOS-wowH4QuSEv-F014WcsPs8ZT6S7ta1G69Ygu4RtBtcJ0gGaOEBroZQGVhLG9AwdH1RKbi3wd0qS9Iw13CHLdsb7e4ZTjSmg3b9TYRqRpDjIzbZ2qVytxAVwUrANpZkXKNKRunn7T6YYPWN5pm7uhSQnXfKa_ujDKd8pbdypdyBocWypjwmnNKOW89x2_g5ancfAV5A7burCVE7HA3fUhN0dTWezm-Hs-Hr_mwIZEGvP0CDNPlScL0UW4pO48BQenuGb5brLPnuClThvfUzTJ09BFGka0P5N7cGfqI06qgjvsovTz2GV2JH4h0OHfhcccvZhNslUVv0SEu5WCLRC0eKV7XK3AW6su1xaXuAF8rXVUXanww9viFUEJItp3NgqbBw5Mol6uIO1YubJMuIT-ygikV8vrpS08pIpBUiOVUviO8Ug72SrwdJt0rEMUpcQtpsDVUIqBkSnDaZca0-NAP1WOSfHywLQvdux1I1IFpNJpv0GK_U6KP2COGpxul5p3l68pM07r5EvYDG67d3g1F_5t8N_oCC_252Oh2N_-bfU7Yfzvzp8E-KrZf96RuqAUbDO_9ZUMUBUZKdunjiTcAgsiib0efIAza3IknU5hmbX84zv9lS-3Mm-zsPO4tFBPOy0qLT6blGCP0R7vYWWZkbV2pWE-iQebqtQlz5oWfXO4GlR3tqEsrLZTFKJAhQAecylSFyBYhw1CyVC1J7bpYqiZCrKS_LDyhml2qDPr4xZu7PiL6FyiB3bVqwrYiHAjeuuafGqzJXfh4wLsS7AoZwRHROCUbSwPJwpfnxBv0_hQN4xlH2k1148RX0qxC-__wrL0Wc4tPup_ef_g0=">
+    <meta property="og:title" content="bpftrace One-Liners &amp; Internals">
+    <meta property="og:description" content="Test your knowledge on bpftrace One-Liners &amp; Internals. 2 rounds, 32 words.">
+    <meta property="og:image" content="https://find4.org/preview-image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="bpftrace One-Liners &amp; Internals">
+    <meta name="twitter:description" content="Intermediate-level challenge covering bpftrace One-Liners &amp; Internals.">
+    <meta name="twitter:image" content="https://find4.org/preview-image.png">
+
+    <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  "name": "bpftrace One-Liners & Internals",
+  "educationalLevel": "Intermediate",
+  "abstract": "Covers concepts including: bpftrace Probe Type Aliases, bpftrace Builtin Variables, bpftrace Map Functions, bpftrace Stack & Timing Probes."
+}
+    </script>
+
+    <style>
+        body{font-family:system-ui,-apple-system,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;background:#f5f5f3;color:#111;}
+        .f4-game{background:#fff;border:0.5px solid rgba(0,0,0,0.3);border-radius:12px;padding:1rem 1.25rem;margin-bottom:48px;box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1);}
+        .f4-game-header{display:flex;align-items:center;gap:10px;margin-bottom:1rem;flex-wrap:wrap;}
+        .f4-game-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:20px;}
+        .f4-game-title-block{flex:1;min-width:0;}
+        .f4-game-title{font-size:15px;font-weight:500;margin:0;color:#111;}
+        .f4-game-meta{font-size:12px;color:#666;margin:0;}
+        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;background:#0f6e56;color:#fff;border-radius:10px;text-decoration:none;font-size:13px;font-weight:500;margin-left:auto;transition:background 0.2s;}
+        .play-btn:hover{background:#085041;}
+        .f4-groups{display:flex;flex-direction:column;gap:5px;}
+        .f4-round{font-size:11px;font-weight:500;color:#888;padding:8px 0 3px;text-transform:uppercase;letter-spacing:0.05em;}
+        .f4-group{display:grid;grid-template-columns:13px 1fr 90px 2fr;align-items:start;gap:8px;padding:8px 10px;border-radius:8px;border:0.5px solid #e0e0de;background:#fafaf9;}
+        .f4-dot{width:11px;height:11px;border-radius:50%;flex-shrink:0;margin-top:3px;}
+        .f4-cat{font-size:13px;font-weight:500;line-height:1.3;}
+        .f4-skill{font-size:11px;padding:2px 7px;border-radius:20px;text-align:center;white-space:nowrap;}
+        .f4-words{font-size:11px;color:#666;line-height:1.5;word-break:break-word;}
+        .sk-b{background:#e1f5ee;color:#085041;}.sk-i{background:#e6f1fb;color:#0c447c;}.sk-a{background:#faeeda;color:#633806;}.sk-e{background:#fcebeb;color:#791f1f;}
+        .dot-red{background:#e24b4a;}.dot-green{background:#639922;}.dot-blue{background:#378add;}.dot-yellow{background:#ba7517;}
+        .dot-purple{background:#7f77dd;}.dot-teal{background:#1d9e75;}.dot-orange{background:#d85a30;}.dot-indigo{background:#534ab7;}
+    </style>
+</head>
+<body>
+<div class="f4-game">
+  <div class="f4-game-header">
+    <div class="f4-game-icon" style="background:#eeedfe;" aria-hidden="true">&#x1F9E9;</div>
+    <div class="f4-game-title-block">
+      <h1 class="f4-game-title">bpftrace One-Liners &amp; Internals</h1>
+      <p class="f4-game-meta">2 rounds &middot; 32 words &middot; Intermediate level</p>
+    </div>
+    <a class="play-btn" href="https://find4.org/#game=1Zh9b9u6FYe_CuELDClmxS-Jk9j_OY7SGnFiI3bveu9WGJRE2ZxlUSOpOG7R777foSTbTdoubVdgA4qaoc7hoQ4fnhd9rK2F5RG3vNb7WFuIVGhuRTTnttartZvtM6_Z8drNWbPZc__-rNVrRuU6FHi-tDYzvUZjs9kcB1qkEU8XWiwWx6FaN0SQxcdLu05II18shKF1U74mzUSm-aNHIp7VPJTpwrNKJeb4n0alUFirSMbyS_vo9lrd3knruNNsNTvt3W7mMvquDVmRQT6WKU_kBzHfOaFek9EcKtJYvXUu0SrP5kZYWDC13t9rZ80ovjiBYLd70oloBxdRV7TOMOCBOGvy2vt6bYHXPFQKTuNYkIhoxUG3EHELSyvWlVB4zoOoA6GAn3XCEIMwbrdPLjA4O-1exDToBGeBs97unImuMxp1Lk4iehSfdoMWBidhHISnGJyHzYAHtOD5SafZxaAZt7sBCXfPw_iCZkQzbHbIVhCKbkjq5-L87KJVe_-JfAEnTaPtH77w__WmtfHnqj-sfdq_H-37Y80uhTtVOJhOU7BxKryRBEuG_YUNUys0_Gxq9b03SRGaG6WLd7-Z3I8vfUjc3Puzavy2Gszu-wN_Mh7ezchzIQhdKDqevcWJVoFgs20mWD-R3AiyFqpEaZJKcoE_c528mJHfqpUzrRaar9dAFEtEwoRaZlaC0gPrmbNuyTovrPfYyk02VkymYClfi9QatoInRMLiPA1pDYZJva2zlRa2FNfflIdcrlN2FPIMA-yJZh548qrO8mKBnMVKs9wI7SXiAbqlieJllExtwzoRY3mQCPqxMqwMuTUM-0febrZO8ZeIhT5QNUw9YGJVim2WQguayJQxEqvRzVrJJJk70_CQO_u1iCSOzLEaSXoPnsyLa-vOvjqRhbTLPHDnINWDNEo3Kg83gkQFjTXHvdWNSIWm4bYmUtz8RS4jcbyOCI3vJbG8ftDYXZrDC4_58nJ_qh_AOhjf3kJyMrwiNt3_oPb3_uhrdF7mMrEyZb9zLcnrh3ACPpH-Cjp9Y3D2kidst4-A9uFhIw_VRhh_4DJxJGC64Jg71oAwbK6ZNAxepUc4LtOgOZ5GjAJ5nWUyeiLAhleAbT9tl1rwyM0WqLKCXVE8LoHGfC6Yit3c_gKIaI_-kUqT7efb3V-bvBqVBL96RuIlYnoKDv67FNrcKngymatUzBPH2U-TuIvaLyDxzXA6g-So_B2M397R73TWn02_BuMtz9h16dVDEJUGa782Tq555mUqyxPEHMQuvqAVuTve6pyB3RLJ9-iVgzUCoIguG0QzFXtt98jZqbPkqRi5n-u9CNvgJJl4zBIZSsuwMxzdY4NSfx1o5ylpu1_DAAn9IMQprIRt1l1gNJDQIiRvF5LsryAQJdJCYGSVBc4US3kB8P9x-NtVCC-A7gZ4DW4oP1cD5Onr4YgyNVK0f_-NSDi1PFxhLzNJpBRp-xBCmUZyoX4Uwq-TZ5xdCly2sIwoxAOZ4Dxcsi6e70JTmQ6LWbeCQYZ9IuSSrMn2y1eCuAuxTERv-aF3x2JJsiCck2kkSx5qpEsUCgkbTN4aBxAGpRb2VicOhQZSPbNbIBNaoigOobZlsVZrLCmcHulr5Gft7hT-EI_SPkOxHz1w4BL9b2O4q0-_guH7-mHReDm5no_Gr9sjKND4Zja89eev_dn8blpOuQpyfu_3r8oJV0piGqDePIFU4DkbsDcigbO_GCK189_3oRmG3wqNI7Wp6rTC-tJZd3BFlOMuBwNWLgBOsex8RRjNF3BNSvEpFjZcUiJHSk6VQbQqIEe_xdeIY6TikuKcEjEUDI8FGApVJvekr8UaTgBTCICUg2kzDupigUQt2okLl-sst2Xu_lJcRjgOV8Ji55F4LHQdAtgCoF5hiY2WtEAkghy05hbrMTJaSEmU0EflM-T753ncf4R77A9RHIa_HuBdX_UE4LI1_CyOXs6uXc727ilyjoaXxOeA0veNP_Jn47snfN6qCHYLUCa47kX82h7waQVPXgYoHLFooK9ueq2W1zylK-6FytPCC2zsJTI4aJY_J_ZwF9l-FwUtPYaXYkf0zPVi10qvuX2FJiSE2o421ynJNHZPsWydOS-wowH4QuSEv-F014WcsPs8ZT6S7ta1G69Ygu4RtBtcJ0gGaOEBroZQGVhLG9AwdH1RKbi3wd0qS9Iw13CHLdsb7e4ZTjSmg3b9TYRqRpDjIzbZ2qVytxAVwUrANpZkXKNKRunn7T6YYPWN5pm7uhSQnXfKa_ujDKd8pbdypdyBocWypjwmnNKOW89x2_g5ancfAV5A7burCVE7HA3fUhN0dTWezm-Hs-Hr_mwIZEGvP0CDNPlScL0UW4pO48BQenuGb5brLPnuClThvfUzTJ09BFGka0P5N7cGfqI06qgjvsovTz2GV2JH4h0OHfhcccvZhNslUVv0SEu5WCLRC0eKV7XK3AW6su1xaXuAF8rXVUXanww9viFUEJItp3NgqbBw5Mol6uIO1YubJMuIT-ygikV8vrpS08pIpBUiOVUviO8Ug72SrwdJt0rEMUpcQtpsDVUIqBkSnDaZca0-NAP1WOSfHywLQvdux1I1IFpNJpv0GK_U6KP2COGpxul5p3l68pM07r5EvYDG67d3g1F_5t8N_oCC_252Oh2N_-bfU7Yfzvzp8E-KrZf96RuqAUbDO_9ZUMUBUZKdunjiTcAgsiib0efIAza3IknU5hmbX84zv9lS-3Mm-zsPO4tFBPOy0qLT6blGCP0R7vYWWZkbV2pWE-iQebqtQlz5oWfXO4GlR3tqEsrLZTFKJAhQAecylSFyBYhw1CyVC1J7bpYqiZCrKS_LDyhml2qDPr4xZu7PiL6FyiB3bVqwrYiHAjeuuafGqzJXfh4wLsS7AoZwRHROCUbSwPJwpfnxBv0_hQN4xlH2k1148RX0qxC-__wrL0Wc4tPup_ef_g0=" target="_blank" rel="noopener">
+        <span>&#9654;</span> Play on find4.org
+    </a>
+  </div>
+
+  <div class="f4-groups">
+    <h2 class="f4-round">Round 1</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-blue" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">bpftrace Probe Type Aliases</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">KPROBE &middot; KRETPROBE &middot; UPROBE &middot; TRACEPOINT</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-green" role="img" aria-label="Beginner Level Category"></div>
+        <div class="f4-cat">bpftrace Builtin Variables</div>
+        <span class="f4-skill sk-b">Beginner</span>
+        <div class="f4-words">COMM &middot; PID &middot; TID &middot; RETVAL</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-orange" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">bpftrace Map Functions</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">HIST &middot; LHIST &middot; COUNT &middot; STATS</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-indigo" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">bpftrace Stack &amp; Timing Probes</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">KSTACK &middot; USTACK &middot; PROFILE &middot; INTERVAL</div>
+    </div>
+    <h2 class="f4-round">Round 2</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-red" role="img" aria-label="Expert Level Category"></div>
+        <div class="f4-cat">eBPF C Helper Functions</div>
+        <span class="f4-skill sk-e">Expert</span>
+        <div class="f4-words">BPF_LOG2L &middot; BPF_KTIME_GET_NS &middot; BPF_PROBE_READ &middot; BPF_TRACE_PRINTK</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-teal" role="img" aria-label="Expert Level Category"></div>
+        <div class="f4-cat">Modern eBPF Portability</div>
+        <span class="f4-skill sk-e">Expert</span>
+        <div class="f4-words">BTF &middot; CO-RE &middot; LIBBPF_C &middot; SKELETON</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-purple" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">eBPF Beyond Observability</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">XDP &middot; CILIUM &middot; DDOS_MITIGATION &middot; SECCOMP</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-yellow" role="img" aria-label="Beginner Level Category"></div>
+        <div class="f4-cat">More BCC Single-Purpose Tools</div>
+        <span class="f4-skill sk-b">Beginner</span>
+        <div class="f4-words">FUNCLATENCY &middot; EXT4SLOWER &middot; BITESIZE &middot; BASHREADLINE</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

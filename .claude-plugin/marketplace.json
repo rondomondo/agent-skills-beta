@@ -1,0 +1,19 @@
+{
+  "name": "agent-skills-beta",
+  "owner": {
+    "name": "David Kierans"
+  },
+  "metadata": {
+    "description": "Practical Claude Code skills for SRE and AI coding workflows: inspect running containers and sandboxes, scaffold production-ready Python projects, and more."
+  },
+  "plugins": [
+    {
+      "name": "agent-skills-beta",
+      "source": {
+        "source": "github",
+        "repo": "rondomondo/agent-skills-beta"
+      },
+      "description": "Practical Claude Code skills for SRE and AI coding workflows: inspect running containers and sandboxes, scaffold production-ready Python projects, and more."
+    }
+  ]
+}

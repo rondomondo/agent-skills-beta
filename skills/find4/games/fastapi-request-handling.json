@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "fastapi-pydantic-ai.json",
+    "modified_at": "2026-06-27T20:03:42.166070",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "828ddf"
+      ],
+      "group_set_ids": [
+        "d6a060",
+        "b90cf7"
+      ],
+      "group_item_ids": [
+        "129f6c",
+        "5335f5",
+        "e37cda",
+        "9a1c5a",
+        "5b1228",
+        "6ebad0",
+        "b9701b",
+        "de4874"
+      ]
+    },
+    "id": "6o_vpLl87azR4zfc",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T20:03:59.317452+00:00",
+      "parent_id": "6o_vpLl87azR4zfc",
+      "parent_file": "output/tmp/find4_final.json",
+      "theme": "FastAPI Request Handling",
+      "slug": "fastapi-request-handling"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "FastAPI Request Handling",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DEPENDS",
+              "APIKEY",
+              "OAUTH2",
+              "HTTPBEARER"
+            ],
+            "category": "FastAPI Security / Auth primitives",
+            "color": "red",
+            "url": "https://fastapi.tiangolo.com/tutorial/security/",
+            "description": "FastAPI security utilities for authentication and authorization",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/dependencies/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "129f6c",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "PATHPARAM",
+              "QUERYPARAM",
+              "REQUESTBODY",
+              "FORMPARAM"
+            ],
+            "category": "FastAPI parameter sources",
+            "color": "blue",
+            "url": "https://fastapi.tiangolo.com/tutorial/query-params/",
+            "description": "Where FastAPI reads incoming data — path, query string, JSON body, or form fields",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/body/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "5335f5",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "UPLOADFILE",
+              "FILE",
+              "FORM",
+              "SPOOLEDTMPFILE"
+            ],
+            "category": "FastAPI file / multipart upload",
+            "color": "green",
+            "url": "https://fastapi.tiangolo.com/tutorial/request-files/",
+            "description": "Primitives for handling file and multipart/form-data uploads in FastAPI",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/request-forms-and-files/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "e37cda",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "LIFESPAN",
+              "STARTUP",
+              "SHUTDOWN",
+              "ASYNCCONTEXTMANAGER"
+            ],
+            "category": "FastAPI app lifecycle hooks",
+            "color": "purple",
+            "url": "https://fastapi.tiangolo.com/advanced/events/",
+            "description": "Tools for running logic at application startup and shutdown in FastAPI",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://docs.python.org/3/library/contextlib.html#contextlib.asynccontextmanager"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "9a1c5a",
+            "group_set_id": "d6a060"
+          }
+        ],
+        [
+          {
+            "words": [
+              "JSONRESPONSE",
+              "STREAMINGRESPONSE",
+              "FILERESPONSE",
+              "HTMLRESPONSE"
+            ],
+            "category": "FastAPI response types",
+            "color": "yellow",
+            "url": "https://fastapi.tiangolo.com/advanced/custom-response/",
+            "description": "Concrete HTTP response classes available in FastAPI / Starlette",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.starlette.io/responses/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "5b1228",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "TESTCLIENT",
+              "HTTPX",
+              "ASYNCCLIENT",
+              "PYTEST"
+            ],
+            "category": "FastAPI testing tools",
+            "color": "teal",
+            "url": "https://fastapi.tiangolo.com/tutorial/testing/",
+            "description": "Libraries and clients used to test FastAPI applications",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.python-httpx.org/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "6ebad0",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "APIROUTER",
+              "INCLUDE_ROUTER",
+              "PREFIX",
+              "TAGS"
+            ],
+            "category": "FastAPI modular routing",
+            "color": "orange",
+            "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications/",
+            "description": "Primitives for splitting a FastAPI app into modular routers with prefixes and tags",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/reference/apirouter/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "b9701b",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "CORSM",
+              "GZIPM",
+              "TRUSTEDHOST",
+              "HTTPSREDIRECT"
+            ],
+            "category": "FastAPI / Starlette middleware",
+            "color": "indigo",
+            "url": "https://fastapi.tiangolo.com/tutorial/middleware/",
+            "description": "Common ASGI middleware that can be added to a FastAPI application",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.starlette.io/middleware/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "de4874",
+            "group_set_id": "b90cf7"
+          }
+        ]
+      ],
+      "game_set_id": "828ddf"
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T23:05:00Z",
+    "source": "stdin",
+    "suggested_name": "construction-management-business-skills.json",
+    "modified_at": "2026-06-27T23:02:11.285013",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "group_set_ids": [
+        "866b92",
+        "42daad",
+        "03d5e4",
+        "609edc"
+      ],
+      "game_set_ids": [
+        "60e6b3",
+        "cd251c"
+      ],
+      "group_item_ids": [
+        "2da9b2",
+        "e0a956",
+        "4ef367",
+        "8f2978",
+        "653105",
+        "88a4a3",
+        "0dc18d",
+        "c0af13",
+        "4e56e0",
+        "cd0944",
+        "980d91",
+        "ea9ed2",
+        "c3d735",
+        "b7c5f5",
+        "402d4e",
+        "5e2050"
+      ]
+    },
+    "id": "XDBrcar4AupFd_qx"
+  },
+  "game_sets": [
+    {
+      "theme": "Construction Project Management and Contracts",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "CPM",
+              "FLOAT",
+              "MILESTONE",
+              "LOOKAHEAD"
+            ],
+            "category": "Schedule Management Concepts",
+            "color": "blue",
+            "url": "https://www.pmi.org/learning/library/critical-path-method-scheduling-9746",
+            "description": "Core scheduling tools and concepts used to plan and control construction timelines",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.procore.com/jobsite/critical-path-method/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "2da9b2",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "EVM",
+              "WBS",
+              "BASELINE",
+              "VARIANCE"
+            ],
+            "category": "Project Cost Control Tools",
+            "color": "green",
+            "url": "https://www.pmi.org/learning/library/earned-value-management-systems-7563",
+            "description": "Earned value and scope management techniques for tracking project performance against plan",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.cips.org/knowledge/procurement-topics-and-skills/project-procurement/earned-value/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "e0a956",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "FIDIC",
+              "NEC",
+              "JCT",
+              "AS4000"
+            ],
+            "category": "Standard Construction Contract Forms",
+            "color": "orange",
+            "url": "https://fidic.org/",
+            "description": "Internationally and nationally recognised standard form contracts governing construction projects",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.neccontract.com/",
+              "https://www.jctltd.co.uk/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "4ef367",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "ADJUDICATION",
+              "ARBITRATION",
+              "MEDIATION",
+              "LITIGATION"
+            ],
+            "category": "Construction Dispute Resolution Methods",
+            "color": "red",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/dispute-resolution/",
+            "description": "Escalating methods for resolving commercial and contractual disputes on construction projects",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.techassist.co.uk/construction-adjudication/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "8f2978",
+            "group_set_id": "866b92"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BOQ",
+              "TAKE-OFF",
+              "LEVELLING",
+              "MARGIN"
+            ],
+            "category": "Estimating and Tender Process",
+            "color": "teal",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/new-rules-of-measurement/",
+            "description": "Quantity surveying and bid preparation fundamentals for pricing construction work competitively",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.ciob.org/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "653105",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "GMP",
+              "LUMP-SUM",
+              "COST-PLUS",
+              "UNIT-PRICE"
+            ],
+            "category": "Construction Contract Pricing Types",
+            "color": "purple",
+            "url": "https://www.levelset.com/blog/types-of-construction-contracts/",
+            "description": "The main commercial pricing structures used to define how a contractor is compensated for work",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://constructionblog.autodesk.com/types-of-construction-contracts/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "88a4a3",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "RETENTION",
+              "NOVATION",
+              "BOND",
+              "INDEMNITY"
+            ],
+            "category": "Contract Security and Risk Instruments",
+            "color": "yellow",
+            "url": "https://www.designingbuildings.co.uk/wiki/Retention_in_construction_contracts",
+            "description": "Financial and legal mechanisms used to protect parties and manage risk in construction contracts",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.pinsentmasons.com/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "0dc18d",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "VARIATION",
+              "EOT",
+              "CLAIM",
+              "INSTRUCTION"
+            ],
+            "category": "Contract Change Management Terms",
+            "color": "indigo",
+            "url": "https://www.designingbuildings.co.uk/wiki/Variation_in_construction_contracts",
+            "description": "The core mechanisms for managing changes, delays and commercial claims under a construction contract",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fenwickelliott.com/research-insight/annual-review/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "c0af13",
+            "group_set_id": "42daad"
+          }
+        ]
+      ],
+      "game_set_id": "60e6b3"
+    },
+    {
+      "theme": "Construction Business and Site Delivery",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "WIP",
+              "EBIT",
+              "S-CURVE",
+              "GEARING"
+            ],
+            "category": "Construction Business Financial Metrics",
+            "color": "green",
+            "url": "https://www.masterbuildersaustralia.com.au/",
+            "description": "Key financial indicators used by construction companies to measure profitability, cash flow and balance sheet health",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.constructionmanagermagazine.com/finance/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "4e56e0",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "PIPELINE",
+              "GO-NO-GO",
+              "BID-STRATEGY",
+              "KEY-ACCOUNT"
+            ],
+            "category": "Business Development and Tendering",
+            "color": "blue",
+            "url": "https://www.ciob.org/industry/procurement-tendering",
+            "description": "Commercial and strategic decisions involved in winning new construction work and managing client relationships",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.constructionmanagermagazine.com/business-development/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "cd0944",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "EBA",
+              "AWARD",
+              "IR-STRATEGY",
+              "TOOLBOX"
+            ],
+            "category": "Workforce and Labour Relations",
+            "color": "orange",
+            "url": "https://www.fwc.gov.au/",
+            "description": "Enterprise agreements, industry awards, and site-level practices for managing construction workforce compliance",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.masterbuilders.com.au/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "980d91",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "PREFAB",
+              "MODULAR",
+              "BUILDABILITY",
+              "SEQUENCING"
+            ],
+            "category": "Construction Methods and Delivery Thinking",
+            "color": "purple",
+            "url": "https://www.buildoffsite.com/",
+            "description": "Approaches to improve how a building is designed and delivered on site including off-site manufacturing and trade sequencing",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.autodesk.com/solutions/prefabrication-construction"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "ea9ed2",
+            "group_set_id": "03d5e4"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BIM",
+              "PROCORE",
+              "ACONEX",
+              "DIGITAL-TWIN"
+            ],
+            "category": "Construction Technology Platforms",
+            "color": "teal",
+            "url": "https://www.autodesk.com/solutions/bim",
+            "description": "Digital tools and platforms used for project coordination, document management and model-based project controls",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://procore.com",
+              "https://www.oracle.com/au/industries/construction-engineering/aconex/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "c3d735",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "NCC",
+              "DA",
+              "WHS",
+              "CDM"
+            ],
+            "category": "Regulatory and Compliance Frameworks",
+            "color": "red",
+            "url": "https://www.abcb.gov.au/ncc",
+            "description": "Key legislation and regulatory codes governing safety, planning approvals and building compliance in construction",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.safeworkaustralia.gov.au/",
+              "https://www.hse.gov.uk/construction/cdm/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "b7c5f5",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "LAYDOWN",
+              "HOARDING",
+              "DEWATERING",
+              "SHORING"
+            ],
+            "category": "Site Logistics and Temporary Works",
+            "color": "yellow",
+            "url": "https://www.ciria.org/",
+            "description": "Physical site management elements covering temporary infrastructure, access, and enabling works before permanent construction",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.designingbuildings.co.uk/wiki/Temporary_works"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "402d4e",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "DESIGN-BUILD",
+              "IPD",
+              "CM-AT-RISK",
+              "ALLIANCE"
+            ],
+            "category": "Project Delivery Models",
+            "color": "indigo",
+            "url": "https://www.constructionexec.com/article/project-delivery-methods",
+            "description": "The contractual structures that define how design, construction and risk are allocated between client, designer and contractor",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.agc.org/learn/construction-technology/project-delivery-methods"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "5e2050",
+            "group_set_id": "609edc"
+          }
+        ]
+      ],
+      "game_set_id": "cd251c"
+    }
+  ]
+}

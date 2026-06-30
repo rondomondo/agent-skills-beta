@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find4 &mdash; Python Async and Go Goroutine Concurrency Internals</title>
+
+    <meta name="description" content="A Intermediate-level Find4 word-grouping game on &#x27;Python Async and Go Goroutine Concurrency Internals&#x27;. 2 rounds, 32 words. Find the hidden connections between groups of 4.">
+    <meta name="keywords" content="Python Async and Go Goroutine Concurrency Internals, Python asyncio Core Primitives, Go Concurrency Primitives, Shared-State Synchronisation, Python Concurrency Workarounds and Alternatives, Go Runtime Scheduler Internals, asyncio Task Coordination, Go Goroutine Stack Management, Mixing Async and Sync Python Code">
+    <meta name="author" content="Find4">
+    <meta name="theme-color" content="#0f6e56">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://find4.org/#game=vVhtb-I6Fv4rFvNh5-oCAfo6fGNolqICQZBuZ_duhUxigi9OnGs7peyo_33PcUJIS7uqZjorVdRx_HJeHj_Pcb7XYmZoSA2tdb_XIpYwRQ0LF9TUurVOq3PeaJ03Ohd-q9W1f_-q1WtaZipg8F6bkCfYkUUR0zgtoXH-girBjGGNFYV2yhtU75KgEUklM8MTppt_aolTYxnyFX9lw0672z7vnlw0Ly_Oz0475bYLHlZ3NiyFxxVPqOD_YYvSmXqNhwvFIq6N2lnXwLKFZgbm61r3j9oJY2dhu3Zfr0VgU1p9dXpBT9otWCI879BlZQw3LN4P-kLbq1YAg9onQcja0Lg4XbYvL6BBAxa20OLLdufscgmN8zManp_h4A4LTnFwq3WxbJ_X7p_QUPDA867_-Xjl-8l0uP7r8WaDvqWCg03JSqL9SgobWewsX74etNNO88uXy07r7HebMhidUsUSs3hrp-L1itstIENpZhwTpw7ENTxd2OjuE2bWzKZ4ujNrmZAe5pXQJCQDCX9FeklfJkGmYNVgR4aJYQpW0Gi2yCKYnNrJBShgMgDjgI1GcJjc4OXkJwjVPomYge8_aUqZdlwMVttKlWfW_Yc78UeeN4VBfW_m3frDiQvt3l1v6Pe-jrDt9-Y3iIsADgsYvjtYYX3iErZVjEwVj7nhDww3DKSQCgYuRcbgMVMCHtbGpLrrOKEMdDMPS1OqyDlxBF8qqnZOsWCDPUCOhJRpc21igehkOlA8NRzy0q35a0ZWWRJChBJDBVlmXMAZichSyGCjiVztTesSCByxyxFcj-hgzcJMMFUnQRk2ufyTBUbX7eDelnJDl4KRVEkjwZO6DbRP9YZsFU1Tpmx6N1yIhYC10Tcb7ZiFHIKExyIMORpLxSI_yjba7w-Agc1y3-_rH5L74jjDKuVhrnIB9BdM8FSvwGNQgUT_ujeZuCNozd2R2_ehgSAZwIjpC3gM5DNrXkWGYVQcISOSzZA9OAZC5lROhtM-gsBA_k2ThOKqpDKSAMcy0SWCR2uzZfhLDkQMCd6lLCTBmiYJE5qspILZcZwlHMyHletEMwFYsG_iTBieCvYI0MoxcAfQGGDY7HvMw1rJhGs79-cwUbgO0HDYagUmgGeLSH6qOAdrvBgNeI-clKdMoHsfj5WS79-BlfGt736z6Bj3ptfeDDEz8vo3llkmV0N_6E1e4GS-BjIOG3MDXWR-FM09VGDMD3AI_nudPkZy27A5ghO-R6ZNKB54jDwwibamEW1N4wlZSrMu-e5z0WiOgG7qZM5imq6BA-sY2DzJv-2D_tnaMc4Me6xbxDRxzG9HYOmFDzQJrKf_GyjpJmoW6cflPj7ppba_hyCGSAiDmetORi5SwsAqCqrGbOi9rhpVO-6k2lDYJgm1NbgnrF0vyUIqmkTHQrLlG14FQSx54gyEXFJhHUwVg19M0qsSAsbbTa1EBFLvoMKK4YkCZyi2JblhhBvy76zTap9iL0ug1iMxDxSQ9FoxGgKrRLnAxDLZsF0jpSZYl5ThK45UBaVZFpgM4V6lK3rwlxi5B9iPg2O73TZza2xAKoxhwI4m2gve2sPDpfPx2CnLwTewc1__45m8jHvfpjOvP0fe6F-7V7cjdwbtcVV47rzZzdx3e6PhZHAsNLMsMTwG-tgL-zP79gCC2o5H8i290SpwVL6OAxwQNO3Q54C5llsLFNiyGFrWEroiMV1ycIp4c5JjBEQG5uT1xbg7IYPGuDE91CK5auV4geBsGhrVEWmIAs60RmKCRGugqL8ylrHj8sN9hKrEvAseVIU0EXSpm6B8uYIAuC-d1qVTGAQbQy2KdSoUy6b9i-qQ8sLwAirFReQ5zfT8awuM-fXQHV0hvQzHLiAExaU36UNZ8hwYe6a2RVtfwjo8eSkraaZA3H9AWcri7NNeByIKsVHHmIH6o1CavUEQI7jM8EJwYprQCPNsY2AL15IdDMF9AFD54iAea85ESFZKxiRAOhCiqFkQjRB9nAsyY_JloUrNEdWvjHWVgm2h_Akxy_-3KrYMVO7Dx4OpvHS-A0xzv9e_mU9HQ0SPfYAa9g7aU5Cx8dT29v7uTr0hCNkR3xxsg7Il2JCxjTVeRCrQskLxFttgiUd1_EnjfP0q0Rz4BCsQZciWQ_kBHTuSzyKfOzdf8xoDPN6SB07zNw17WYYKl8EovOPIFL9yoL7gYLqvWWWGrMJYbLclIHmaruDKAwpqNBY84Gq72T79_UepJgKLs6XlmEgKkG_453Ctgb2cduvL2eUvqFb3HxzeAQL3m9u_9T3kFP965vaupp6HpczsdrIYThaV11-xiD2WnjHHa0HFZKxfSVnihKwChx0cP7n96XtweYpsD6jQgicL9siCzMhj8vmqeGi5hZYm2usxdgVgX5e8tkyd-FaxplIKt-yb5vrzvNPiKdmBPUYuCp1DUpOrlZDU3sf709vG0hZR0C9YRDGDjmdF7ufIJ9_4RT3DEkfbq7tTlGa_SLqKD1pvAu3-vl79Bgdvii9wT_dP_wU=">
+    <meta property="og:title" content="Python Async and Go Goroutine Concurrency Internals">
+    <meta property="og:description" content="Test your knowledge on Python Async and Go Goroutine Concurrency Internals. 2 rounds, 32 words.">
+    <meta property="og:image" content="https://find4.org/preview-image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Python Async and Go Goroutine Concurrency Internals">
+    <meta name="twitter:description" content="Intermediate-level challenge covering Python Async and Go Goroutine Concurrency Internals.">
+    <meta name="twitter:image" content="https://find4.org/preview-image.png">
+
+    <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  "name": "Python Async and Go Goroutine Concurrency Internals",
+  "educationalLevel": "Intermediate",
+  "abstract": "Covers concepts including: Python asyncio Core Primitives, Go Concurrency Primitives, Shared-State Synchronisation, Python Concurrency Workarounds and Alternatives."
+}
+    </script>
+
+    <style>
+        body{font-family:system-ui,-apple-system,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;background:#f5f5f3;color:#111;}
+        .f4-game{background:#fff;border:0.5px solid rgba(0,0,0,0.15);border-radius:12px;padding:1rem 1.25rem;margin-bottom:48px;box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1);}
+        .f4-game-header{display:flex;align-items:center;gap:10px;margin-bottom:1rem;flex-wrap:wrap;}
+        .f4-game-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:20px;}
+        .f4-game-title-block{flex:1;min-width:0;}
+        .f4-game-title{font-size:15px;font-weight:500;margin:0;color:#111;}
+        .f4-game-meta{font-size:12px;color:#666;margin:0;}
+        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;background:#0f6e56;color:#fff;border-radius:10px;text-decoration:none;font-size:13px;font-weight:500;margin-left:auto;transition:background 0.2s;}
+        .play-btn:hover{background:#085041;}
+        .f4-groups{display:flex;flex-direction:column;gap:5px;}
+        .f4-round{font-size:11px;font-weight:500;color:#888;padding:8px 0 3px;text-transform:uppercase;letter-spacing:0.05em;}
+        .f4-group{display:grid;grid-template-columns:13px 1fr 90px 2fr;align-items:start;gap:8px;padding:8px 10px;border-radius:8px;border:0.5px solid #e0e0de;background:#fafaf9;}
+        .f4-dot{width:11px;height:11px;border-radius:50%;flex-shrink:0;margin-top:3px;}
+        .f4-cat{font-size:13px;font-weight:500;line-height:1.3;}
+        .f4-skill{font-size:11px;padding:2px 7px;border-radius:20px;text-align:center;white-space:nowrap;}
+        .f4-words{font-size:11px;color:#666;line-height:1.5;word-break:break-word;}
+        .sk-b{background:#e1f5ee;color:#085041;}.sk-i{background:#e6f1fb;color:#0c447c;}.sk-a{background:#faeeda;color:#633806;}.sk-e{background:#fcebeb;color:#791f1f;}
+        .dot-red{background:#e24b4a;}.dot-green{background:#639922;}.dot-blue{background:#378add;}.dot-yellow{background:#ba7517;}
+        .dot-purple{background:#7f77dd;}.dot-teal{background:#1d9e75;}.dot-orange{background:#d85a30;}.dot-indigo{background:#534ab7;}
+        @media(prefers-color-scheme:dark){
+          body{background:#1a1a18;color:#e8e6e1;}
+          .f4-game{background:#2c2c2a;border-color:rgba(255,255,255,0.1);box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.4);}
+          .f4-game-title{color:#e8e6e1;}
+          .f4-game-meta{color:#888780;}
+          .f4-round{color:#888780;}
+          .f4-group{background:#222220;border-color:#3a3a38;}
+          .f4-cat{color:#e8e6e1;}
+          .f4-words{color:#888780;}
+          .sk-b{background:#04342c;color:#9fe1cb;}.sk-i{background:#042c53;color:#b5d4f4;}.sk-a{background:#412402;color:#fac775;}.sk-e{background:#501313;color:#f7c1c1;}
+        }
+    </style>
+</head>
+<body>
+<div class="f4-game f4-capture">
+  <div class="f4-game-header">
+    <div class="f4-game-icon" style="background:#eeedfe;" aria-hidden="true">&#x1F9E9;</div>
+    <div class="f4-game-title-block">
+      <h1 class="f4-game-title">Python Async and Go Goroutine Concurrency Internals</h1>
+      <p class="f4-game-meta">2 rounds &middot; 32 words &middot; Intermediate level</p>
+    </div>
+    <a class="play-btn" href="https://find4.org/#game=vVhtb-I6Fv4rFvNh5-oCAfo6fGNolqICQZBuZ_duhUxigi9OnGs7peyo_33PcUJIS7uqZjorVdRx_HJeHj_Pcb7XYmZoSA2tdb_XIpYwRQ0LF9TUurVOq3PeaJ03Ohd-q9W1f_-q1WtaZipg8F6bkCfYkUUR0zgtoXH-girBjGGNFYV2yhtU75KgEUklM8MTppt_aolTYxnyFX9lw0672z7vnlw0Ly_Oz0475bYLHlZ3NiyFxxVPqOD_YYvSmXqNhwvFIq6N2lnXwLKFZgbm61r3j9oJY2dhu3Zfr0VgU1p9dXpBT9otWCI879BlZQw3LN4P-kLbq1YAg9onQcja0Lg4XbYvL6BBAxa20OLLdufscgmN8zManp_h4A4LTnFwq3WxbJ_X7p_QUPDA867_-Xjl-8l0uP7r8WaDvqWCg03JSqL9SgobWewsX74etNNO88uXy07r7HebMhidUsUSs3hrp-L1itstIENpZhwTpw7ENTxd2OjuE2bWzKZ4ujNrmZAe5pXQJCQDCX9FeklfJkGmYNVgR4aJYQpW0Gi2yCKYnNrJBShgMgDjgI1GcJjc4OXkJwjVPomYge8_aUqZdlwMVttKlWfW_Yc78UeeN4VBfW_m3frDiQvt3l1v6Pe-jrDt9-Y3iIsADgsYvjtYYX3iErZVjEwVj7nhDww3DKSQCgYuRcbgMVMCHtbGpLrrOKEMdDMPS1OqyDlxBF8qqnZOsWCDPUCOhJRpc21igehkOlA8NRzy0q35a0ZWWRJChBJDBVlmXMAZichSyGCjiVztTesSCByxyxFcj-hgzcJMMFUnQRk2ufyTBUbX7eDelnJDl4KRVEkjwZO6DbRP9YZsFU1Tpmx6N1yIhYC10Tcb7ZiFHIKExyIMORpLxSI_yjba7w-Agc1y3-_rH5L74jjDKuVhrnIB9BdM8FSvwGNQgUT_ujeZuCNozd2R2_ehgSAZwIjpC3gM5DNrXkWGYVQcISOSzZA9OAZC5lROhtM-gsBA_k2ThOKqpDKSAMcy0SWCR2uzZfhLDkQMCd6lLCTBmiYJE5qspILZcZwlHMyHletEMwFYsG_iTBieCvYI0MoxcAfQGGDY7HvMw1rJhGs79-cwUbgO0HDYagUmgGeLSH6qOAdrvBgNeI-clKdMoHsfj5WS79-BlfGt736z6Bj3ptfeDDEz8vo3llkmV0N_6E1e4GS-BjIOG3MDXWR-FM09VGDMD3AI_nudPkZy27A5ghO-R6ZNKB54jDwwibamEW1N4wlZSrMu-e5z0WiOgG7qZM5imq6BA-sY2DzJv-2D_tnaMc4Me6xbxDRxzG9HYOmFDzQJrKf_GyjpJmoW6cflPj7ppba_hyCGSAiDmetORi5SwsAqCqrGbOi9rhpVO-6k2lDYJgm1NbgnrF0vyUIqmkTHQrLlG14FQSx54gyEXFJhHUwVg19M0qsSAsbbTa1EBFLvoMKK4YkCZyi2JblhhBvy76zTap9iL0ug1iMxDxSQ9FoxGgKrRLnAxDLZsF0jpSZYl5ThK45UBaVZFpgM4V6lK3rwlxi5B9iPg2O73TZza2xAKoxhwI4m2gve2sPDpfPx2CnLwTewc1__45m8jHvfpjOvP0fe6F-7V7cjdwbtcVV47rzZzdx3e6PhZHAsNLMsMTwG-tgL-zP79gCC2o5H8i290SpwVL6OAxwQNO3Q54C5llsLFNiyGFrWEroiMV1ycIp4c5JjBEQG5uT1xbg7IYPGuDE91CK5auV4geBsGhrVEWmIAs60RmKCRGugqL8ylrHj8sN9hKrEvAseVIU0EXSpm6B8uYIAuC-d1qVTGAQbQy2KdSoUy6b9i-qQ8sLwAirFReQ5zfT8awuM-fXQHV0hvQzHLiAExaU36UNZ8hwYe6a2RVtfwjo8eSkraaZA3H9AWcri7NNeByIKsVHHmIH6o1CavUEQI7jM8EJwYprQCPNsY2AL15IdDMF9AFD54iAea85ESFZKxiRAOhCiqFkQjRB9nAsyY_JloUrNEdWvjHWVgm2h_Akxy_-3KrYMVO7Dx4OpvHS-A0xzv9e_mU9HQ0SPfYAa9g7aU5Cx8dT29v7uTr0hCNkR3xxsg7Il2JCxjTVeRCrQskLxFttgiUd1_EnjfP0q0Rz4BCsQZciWQ_kBHTuSzyKfOzdf8xoDPN6SB07zNw17WYYKl8EovOPIFL9yoL7gYLqvWWWGrMJYbLclIHmaruDKAwpqNBY84Gq72T79_UepJgKLs6XlmEgKkG_453Ctgb2cduvL2eUvqFb3HxzeAQL3m9u_9T3kFP965vaupp6HpczsdrIYThaV11-xiD2WnjHHa0HFZKxfSVnihKwChx0cP7n96XtweYpsD6jQgicL9siCzMhj8vmqeGi5hZYm2usxdgVgX5e8tkyd-FaxplIKt-yb5vrzvNPiKdmBPUYuCp1DUpOrlZDU3sf709vG0hZR0C9YRDGDjmdF7ufIJ9_4RT3DEkfbq7tTlGa_SLqKD1pvAu3-vl79Bgdvii9wT_dP_wU=" target="_blank" rel="noopener"><span>&#9654;</span> Play on find4.org</a>
+  </div>
+
+  <div class="f4-groups">
+    <h2 class="f4-round">Round 1</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-blue" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">Python asyncio Core Primitives</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">EVENTLOOP &middot; COROUTINE &middot; AWAITABLE &middot; TASK</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-teal" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">Go Concurrency Primitives</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">GOROUTINE &middot; CHANNEL &middot; SELECT &middot; WAITGROUP</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-red" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">Shared-State Synchronisation</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">MUTEX &middot; SEMAPHORE &middot; LOCK &middot; CONDITION</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-orange" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">Python Concurrency Workarounds and Alternatives</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">GIL &middot; GREENLET &middot; GEVENT &middot; TRIO</div>
+    </div>
+    <h2 class="f4-round">Round 2</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-indigo" role="img" aria-label="Expert Level Category"></div>
+        <div class="f4-cat">Go Runtime Scheduler Internals</div>
+        <span class="f4-skill sk-e">Expert</span>
+        <div class="f4-words">GOMAXPROCS &middot; SCHEDULER &middot; MGOROUTINE &middot; WORKSTEALING</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-purple" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">asyncio Task Coordination</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">GATHER &middot; SHIELD &middot; TIMEOUT &middot; CANCEL</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-green" role="img" aria-label="Expert Level Category"></div>
+        <div class="f4-cat">Go Goroutine Stack Management</div>
+        <span class="f4-skill sk-e">Expert</span>
+        <div class="f4-words">STACKSPLIT &middot; STACKGROW &middot; PREEMPT &middot; SAFEPOINT</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-yellow" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">Mixing Async and Sync Python Code</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">EXECUTOR &middot; THREADPOOL &middot; RUN_IN_EXECUTOR &middot; BLOCKING</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

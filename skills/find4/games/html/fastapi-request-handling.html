@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find4 &mdash; FastAPI Request Handling</title>
+
+    <meta name="description" content="A Intermediate-level Find4 word-grouping game on &#x27;FastAPI Request Handling&#x27;. 2 rounds, 32 words. Find the hidden connections between groups of 4.">
+    <meta name="keywords" content="FastAPI Request Handling, FastAPI Security / Auth primitives, FastAPI parameter sources, FastAPI file / multipart upload, FastAPI app lifecycle hooks, FastAPI response types, FastAPI testing tools, FastAPI modular routing, FastAPI / Starlette middleware">
+    <meta name="author" content="Find4">
+    <meta name="theme-color" content="#0f6e56">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://find4.org/#game=tZdtc-I2EMe_ioa-LGAgPCR55wMn0BKgtpm7XJthhCWMerLlSnIIucl378pgx9dAj3DtDDPoybsr_fRfSV8rEdWYYI0r118rIY2pxJqSBdaV60qr0erWGt1aq-c3GtfZ73OlWlEilQGFfqUJi01DGoZUmc9iHJmOFVYaJ6yWbAmONQtqmNX_VMKMjQRhK3bAQwvMX1y3W_Vmt9voNQo_C0bKrjRNjAMWY86e6aKIvlphZCFpyJSW22wuEMpCUQ3fq8r175XL1iUhq8pDtRJKkSblLtLFja7xuLxqBKve6ximaZQParauVt0ABnUuLjqrDhToRS8gxvMVbgYdU-gsm63WJRS6dInJzmKv0VxCgdD2Za9deXgxgcIMumLxmIz5ZQ8_u-3nlTGsEs4gpnglTPxS8GyNTWPReXjROlf1i2av3Wn9nDGC0QmWNNaLY5723SuWuRCpTlJt6SixYF1Je5Gtbg5Mr2nG9AaY2rMRculfKcBGQxwTzuLQxMbTsERd7kbU1vmIF5h0jsOs5ddTjBaUzBfwyUbIHYiBM3MmAw-GwJe_OvdQmNpzf9iCwtD3Zx8c23VcAzGArRwKsx0KRx4NUsn0FlnITvUaJZJFTLNHquDrQHAhYbCkBGqp5FBea52oa8vaT66uGY5DGFcPRGTpVAvJMLfU3qyVkVaBZIlmsHyvjvMRKNUMSDKq0EpIhCEIaiSCzXgE08-awOpz1mJW9wvjfMHpIzXxjGJNZUQJg7lBJyaEmXGYL3ZyyZbotKAJTWhMaBxAMJZZr5Op7HUBQwtVlEUF7XtJvVRL4Ga2P5zZrn0Hw3-bO-59XnEdqHr-h-nAwLyZune7nsMIYfPCXoJVQPmMX8kteUrfiQ6mKLe1zKh6i-_jmkqKcteSYqIQi8EALAcyiQf9kbYazTZEpddVlBlDkIKgu4p-8aYTtBRkW0WAGnBHCFIfJ-oN1Q-QuGLIvT9I1Pg6l2SR1k4gOZ-Np_bgZjR2DK_9H2CDP282nY6dgX83y9oPIzSJBxQYpVwzWHmN0oQLTEogQ0lp_E6Sed4x1g-gnBVSz5SXZ6ddMEZ4RTiWQVXL6O4CM8zzTfB_KrKYAfhXNYgpn8t5SIsD6gSk49GN483siUHo264_n5nScO4Pph9No-3dT_r96cR3Pvl39sS-PZpicZIgzlY02AawsGshvpQVmqQy4SdqFJNHHAeUWLDSsT6A1BeC72jKNI4NTC5CFiCsTRQ8z6pgWuo0ySCrdaqJ2MT_RtTe-_0uTSICVU-2kK_jupChdWFxtpRYbq1AwK540lCtr3XEfyrVsdrGwb4e4RiHIPvz-Bb3jiN8H6rlc9NkIxcYTyeek1F2HftuNLkttRnJlqpD_25cVA_DllQlIlYU6W3yTSbeUs7F5p2cg1RpEdVyo2-B90UcSMj9yBz0r84DjpUCXeNHzDhewrZ7pQt5xgP-nOpMnj-g3c1mU1e5qToTVu7_bIEW98V_ANzfQ78RqA8nZH88cib-_p7zqVBl3jq7N4OOkNIQi1GINpopgdIU83cm2r2pt3jG2e43dxsjtYAzI1uUKkrAbRYBKmWJXJ_qx7HsNFgzTU-ZEs8EUtzbTwACJt3p3Ic8WK2MJv3xfOAsioaZ69yMDCHfvvWOEIGnUMox5C64gO_CyZkICcv-3ovMksErTNbKC_vdQzB7VWTbApfJgHyAVzk-KhXasOzCTFfsaU9Y4_C_vsuAebhxQTawoGvn-VyYxdvrBJj9qeuZ68vt59HM_Pvu3POdwXDq5XLzXGcwcp3-MX2V0gyKGCGcbuCVVYIKTysWindCfbV0KBlGEZxutnc7KnlEeg3HX4BjtIRrDSE77eFDwjv_4HuTCstxnkdr_0A-SuvhoVp-00PP_kX_8vDyNw==">
+    <meta property="og:title" content="FastAPI Request Handling">
+    <meta property="og:description" content="Test your knowledge on FastAPI Request Handling. 2 rounds, 32 words.">
+    <meta property="og:image" content="https://find4.org/preview-image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FastAPI Request Handling">
+    <meta name="twitter:description" content="Intermediate-level challenge covering FastAPI Request Handling.">
+    <meta name="twitter:image" content="https://find4.org/preview-image.png">
+
+    <script type="application/ld+json">
+    {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  "name": "FastAPI Request Handling",
+  "educationalLevel": "Intermediate",
+  "abstract": "Covers concepts including: FastAPI Security / Auth primitives, FastAPI parameter sources, FastAPI file / multipart upload, FastAPI app lifecycle hooks."
+}
+    </script>
+
+    <style>
+        body{font-family:system-ui,-apple-system,sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem;background:#f5f5f3;color:#111;}
+        .f4-game{background:#fff;border:0.5px solid rgba(0,0,0,0.15);border-radius:12px;padding:1rem 1.25rem;margin-bottom:48px;box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1);}
+        .f4-game-header{display:flex;align-items:center;gap:10px;margin-bottom:1rem;flex-wrap:wrap;}
+        .f4-game-icon{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:20px;}
+        .f4-game-title-block{flex:1;min-width:0;}
+        .f4-game-title{font-size:15px;font-weight:500;margin:0;color:#111;}
+        .f4-game-meta{font-size:12px;color:#666;margin:0;}
+        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:8px 14px;background:#0f6e56;color:#fff;border-radius:10px;text-decoration:none;font-size:13px;font-weight:500;margin-left:auto;transition:background 0.2s;}
+        .play-btn:hover{background:#085041;}
+        .f4-groups{display:flex;flex-direction:column;gap:5px;}
+        .f4-round{font-size:11px;font-weight:500;color:#888;padding:8px 0 3px;text-transform:uppercase;letter-spacing:0.05em;}
+        .f4-group{display:grid;grid-template-columns:13px 1fr 90px 2fr;align-items:start;gap:8px;padding:8px 10px;border-radius:8px;border:0.5px solid #e0e0de;background:#fafaf9;}
+        .f4-dot{width:11px;height:11px;border-radius:50%;flex-shrink:0;margin-top:3px;}
+        .f4-cat{font-size:13px;font-weight:500;line-height:1.3;}
+        .f4-skill{font-size:11px;padding:2px 7px;border-radius:20px;text-align:center;white-space:nowrap;}
+        .f4-words{font-size:11px;color:#666;line-height:1.5;word-break:break-word;}
+        .sk-b{background:#e1f5ee;color:#085041;}.sk-i{background:#e6f1fb;color:#0c447c;}.sk-a{background:#faeeda;color:#633806;}.sk-e{background:#fcebeb;color:#791f1f;}
+        .dot-red{background:#e24b4a;}.dot-green{background:#639922;}.dot-blue{background:#378add;}.dot-yellow{background:#ba7517;}
+        .dot-purple{background:#7f77dd;}.dot-teal{background:#1d9e75;}.dot-orange{background:#d85a30;}.dot-indigo{background:#534ab7;}
+        @media(prefers-color-scheme:dark){
+          body{background:#1a1a18;color:#e8e6e1;}
+          .f4-game{background:#2c2c2a;border-color:rgba(255,255,255,0.1);box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.4);}
+          .f4-game-title{color:#e8e6e1;}
+          .f4-game-meta{color:#888780;}
+          .f4-round{color:#888780;}
+          .f4-group{background:#222220;border-color:#3a3a38;}
+          .f4-cat{color:#e8e6e1;}
+          .f4-words{color:#888780;}
+          .sk-b{background:#04342c;color:#9fe1cb;}.sk-i{background:#042c53;color:#b5d4f4;}.sk-a{background:#412402;color:#fac775;}.sk-e{background:#501313;color:#f7c1c1;}
+        }
+    </style>
+</head>
+<body>
+<div class="f4-game f4-capture">
+  <div class="f4-game-header">
+    <div class="f4-game-icon" style="background:#eeedfe;" aria-hidden="true">&#x1F9E9;</div>
+    <div class="f4-game-title-block">
+      <h1 class="f4-game-title">FastAPI Request Handling</h1>
+      <p class="f4-game-meta">2 rounds &middot; 32 words &middot; Intermediate level</p>
+    </div>
+    <a class="play-btn" href="https://find4.org/#game=tZdtc-I2EMe_ioa-LGAgPCR55wMn0BKgtpm7XJthhCWMerLlSnIIucl378pgx9dAj3DtDDPoybsr_fRfSV8rEdWYYI0r118rIY2pxJqSBdaV60qr0erWGt1aq-c3GtfZ73OlWlEilQGFfqUJi01DGoZUmc9iHJmOFVYaJ6yWbAmONQtqmNX_VMKMjQRhK3bAQwvMX1y3W_Vmt9voNQo_C0bKrjRNjAMWY86e6aKIvlphZCFpyJSW22wuEMpCUQ3fq8r175XL1iUhq8pDtRJKkSblLtLFja7xuLxqBKve6ximaZQParauVt0ABnUuLjqrDhToRS8gxvMVbgYdU-gsm63WJRS6dInJzmKv0VxCgdD2Za9deXgxgcIMumLxmIz5ZQ8_u-3nlTGsEs4gpnglTPxS8GyNTWPReXjROlf1i2av3Wn9nDGC0QmWNNaLY5723SuWuRCpTlJt6SixYF1Je5Gtbg5Mr2nG9AaY2rMRculfKcBGQxwTzuLQxMbTsERd7kbU1vmIF5h0jsOs5ddTjBaUzBfwyUbIHYiBM3MmAw-GwJe_OvdQmNpzf9iCwtD3Zx8c23VcAzGArRwKsx0KRx4NUsn0FlnITvUaJZJFTLNHquDrQHAhYbCkBGqp5FBea52oa8vaT66uGY5DGFcPRGTpVAvJMLfU3qyVkVaBZIlmsHyvjvMRKNUMSDKq0EpIhCEIaiSCzXgE08-awOpz1mJW9wvjfMHpIzXxjGJNZUQJg7lBJyaEmXGYL3ZyyZbotKAJTWhMaBxAMJZZr5Op7HUBQwtVlEUF7XtJvVRL4Ga2P5zZrn0Hw3-bO-59XnEdqHr-h-nAwLyZune7nsMIYfPCXoJVQPmMX8kteUrfiQ6mKLe1zKh6i-_jmkqKcteSYqIQi8EALAcyiQf9kbYazTZEpddVlBlDkIKgu4p-8aYTtBRkW0WAGnBHCFIfJ-oN1Q-QuGLIvT9I1Pg6l2SR1k4gOZ-Np_bgZjR2DK_9H2CDP282nY6dgX83y9oPIzSJBxQYpVwzWHmN0oQLTEogQ0lp_E6Sed4x1g-gnBVSz5SXZ6ddMEZ4RTiWQVXL6O4CM8zzTfB_KrKYAfhXNYgpn8t5SIsD6gSk49GN483siUHo264_n5nScO4Pph9No-3dT_r96cR3Pvl39sS-PZpicZIgzlY02AawsGshvpQVmqQy4SdqFJNHHAeUWLDSsT6A1BeC72jKNI4NTC5CFiCsTRQ8z6pgWuo0ySCrdaqJ2MT_RtTe-_0uTSICVU-2kK_jupChdWFxtpRYbq1AwK540lCtr3XEfyrVsdrGwb4e4RiHIPvz-Bb3jiN8H6rlc9NkIxcYTyeek1F2HftuNLkttRnJlqpD_25cVA_DllQlIlYU6W3yTSbeUs7F5p2cg1RpEdVyo2-B90UcSMj9yBz0r84DjpUCXeNHzDhewrZ7pQt5xgP-nOpMnj-g3c1mU1e5qToTVu7_bIEW98V_ANzfQ78RqA8nZH88cib-_p7zqVBl3jq7N4OOkNIQi1GINpopgdIU83cm2r2pt3jG2e43dxsjtYAzI1uUKkrAbRYBKmWJXJ_qx7HsNFgzTU-ZEs8EUtzbTwACJt3p3Ic8WK2MJv3xfOAsioaZ69yMDCHfvvWOEIGnUMox5C64gO_CyZkICcv-3ovMksErTNbKC_vdQzB7VWTbApfJgHyAVzk-KhXasOzCTFfsaU9Y4_C_vsuAebhxQTawoGvn-VyYxdvrBJj9qeuZ68vt59HM_Pvu3POdwXDq5XLzXGcwcp3-MX2V0gyKGCGcbuCVVYIKTysWindCfbV0KBlGEZxutnc7KnlEeg3HX4BjtIRrDSE77eFDwjv_4HuTCstxnkdr_0A-SuvhoVp-00PP_kX_8vDyNw==" target="_blank" rel="noopener"><span>&#9654;</span> Play on find4.org</a>
+  </div>
+
+  <div class="f4-groups">
+    <h2 class="f4-round">Round 1</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-red" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">FastAPI Security / Auth primitives</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">DEPENDS &middot; APIKEY &middot; OAUTH2 &middot; HTTPBEARER</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-blue" role="img" aria-label="Beginner Level Category"></div>
+        <div class="f4-cat">FastAPI parameter sources</div>
+        <span class="f4-skill sk-b">Beginner</span>
+        <div class="f4-words">PATHPARAM &middot; QUERYPARAM &middot; REQUESTBODY &middot; FORMPARAM</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-green" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">FastAPI file / multipart upload</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">UPLOADFILE &middot; FILE &middot; FORM &middot; SPOOLEDTMPFILE</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-purple" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">FastAPI app lifecycle hooks</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">LIFESPAN &middot; STARTUP &middot; SHUTDOWN &middot; ASYNCCONTEXTMANAGER</div>
+    </div>
+    <h2 class="f4-round">Round 2</h2>
+    <div class="f4-group">
+        <div class="f4-dot dot-yellow" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">FastAPI response types</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">JSONRESPONSE &middot; STREAMINGRESPONSE &middot; FILERESPONSE &middot; HTMLRESPONSE</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-teal" role="img" aria-label="Intermediate Level Category"></div>
+        <div class="f4-cat">FastAPI testing tools</div>
+        <span class="f4-skill sk-i">Intermediate</span>
+        <div class="f4-words">TESTCLIENT &middot; HTTPX &middot; ASYNCCLIENT &middot; PYTEST</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-orange" role="img" aria-label="Beginner Level Category"></div>
+        <div class="f4-cat">FastAPI modular routing</div>
+        <span class="f4-skill sk-b">Beginner</span>
+        <div class="f4-words">APIROUTER &middot; INCLUDE_ROUTER &middot; PREFIX &middot; TAGS</div>
+    </div>
+    <div class="f4-group">
+        <div class="f4-dot dot-indigo" role="img" aria-label="Advanced Level Category"></div>
+        <div class="f4-cat">FastAPI / Starlette middleware</div>
+        <span class="f4-skill sk-a">Advanced</span>
+        <div class="f4-words">CORSM &middot; GZIPM &middot; TRUSTEDHOST &middot; HTTPSREDIRECT</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

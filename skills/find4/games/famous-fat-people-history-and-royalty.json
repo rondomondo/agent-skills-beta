@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T10:00:00Z",
+    "source": "stdin",
+    "suggested_name": "famous-fat-people.json",
+    "modified_at": "2026-06-27T15:32:59.046255",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "3e6e54"
+      ],
+      "group_set_ids": [
+        "329366",
+        "8d087d"
+      ],
+      "group_item_ids": [
+        "03ba18",
+        "bb6897",
+        "0f0503",
+        "8daf55",
+        "871053",
+        "15646a",
+        "559d1e",
+        "7afe1f"
+      ]
+    },
+    "id": "A-JuPKqQ5B2ejutl",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T15:33:04.228806+00:00",
+      "parent_id": "A-JuPKqQ5B2ejutl",
+      "parent_file": "output/games/famous-fat-people.json",
+      "theme": "Famous Fat People: History & Royalty",
+      "slug": "famous-fat-people-history-and-royalty"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Famous Fat People: History & Royalty",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "TAFT",
+              "HENRY VIII",
+              "NERO",
+              "PHYSCON"
+            ],
+            "category": "Rulers Famous For Their Girth",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+            "description": "Heads of state historically noted for their immense size — a US president, an English king, a Roman emperor, and a Pharaoh nicknamed 'Fatty'",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Henry_VIII",
+              "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "03ba18",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "LOUIS THE FAT",
+              "SANCHO THE FAT",
+              "ADOLPH FREDRIK",
+              "DIAMOND JIM"
+            ],
+            "category": "Nicknames Earned at the Table",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+            "description": "A French king, a Portuguese king, a Swedish king who ate himself to death, and a Gilded Age financier — all famous for legendary appetites",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Sancho_I_of_Portugal",
+              "https://en.wikipedia.org/wiki/Diamond_Jim_Brady"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "bb6897",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "CHURCHILL",
+              "ORSON WELLES",
+              "MARLON BRANDO",
+              "MAMA CASS"
+            ],
+            "category": "20th-Century Icons Who Grew Large",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/Winston_Churchill",
+            "description": "A British PM, a genius filmmaker/actor, a Hollywood legend, and a pop singer — all became famous for both their talent and their size",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Marlon_Brando",
+              "https://en.wikipedia.org/wiki/Mama_Cass"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "0f0503",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "FATS DOMINO",
+              "FATS WALLER",
+              "BARRY WHITE",
+              "BIG MAMA THORNTON"
+            ],
+            "category": "Big Names in Music (Literally)",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Fats_Domino",
+            "description": "Musicians whose size was as legendary as their sound — two called 'Fats', a deep-voiced soul giant, and a blues powerhouse",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Fats_Waller",
+              "https://en.wikipedia.org/wiki/Big_Mama_Thornton"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "8daf55",
+            "group_set_id": "329366"
+          }
+        ],
+        [
+          {
+            "words": [
+              "ANDRE THE GIANT",
+              "YOKOZUNA",
+              "RIKISHI",
+              "KING KONG BUNDY"
+            ],
+            "category": "Massive Pro Wrestlers",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_the_Giant",
+            "description": "Four ring giants whose enormous frames were central to their personas — from a sumo-turned-WWE star to the original 8th Wonder of the World",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Yokozuna_(wrestler)",
+              "https://en.wikipedia.org/wiki/King_Kong_Bundy"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "871053",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "JOHN BELUSHI",
+              "CHRIS FARLEY",
+              "JOHN CANDY",
+              "LOUIE ANDERSON"
+            ],
+            "category": "Beloved Large Comedians",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/John_Belushi",
+            "description": "Four comedians who made audiences laugh while being famous for their large frames — two died young, all are icons",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Chris_Farley",
+              "https://en.wikipedia.org/wiki/John_Candy"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "15646a",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "HOMER SIMPSON",
+              "PETER GRIFFIN",
+              "FAT ALBERT",
+              "CARTMAN"
+            ],
+            "category": "Famous Fat Fictional Characters",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Homer_Simpson",
+            "description": "Animated characters beloved for being hilariously large — a nuclear safety inspector, a Rhode Island dad, a Philly kid, and a Colorado schemer",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Peter_Griffin",
+              "https://en.wikipedia.org/wiki/Eric_Cartman"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "559d1e",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "JABBA THE HUTT",
+              "BOSS HOGG",
+              "AUGUSTUS GLOOP",
+              "BIG SHOW"
+            ],
+            "category": "Pop Culture Heavyweights",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Jabba_the_Hutt",
+            "description": "Iconic large characters across sci-fi, TV, literature, and wrestling — a slug gangster, a corrupt sheriff, a greedy boy, and a 7-foot giant",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Boss_Hogg",
+              "https://en.wikipedia.org/wiki/Augustus_Gloop"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "7afe1f",
+            "group_set_id": "8d087d"
+          }
+        ]
+      ],
+      "game_set_id": "3e6e54"
+    }
+  ]
+}

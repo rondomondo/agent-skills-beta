@@ -1,0 +1,3010 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-29T21:25:22",
+    "library_version": "2026-06-29T21:25:22",
+    "trigger": "rondomondo via Publish find4 games to github - workflow call run 28403693358",
+    "source": "library/themes.json",
+    "game_set_count": 18,
+    "missing_count": 0,
+    "source_hashes": {
+      "cd251c": "02451d4bb156ca16ad8947eb8b22ee0bc796136a22fc1bf787a2486c214fc5ba",
+      "60e6b3": "c219217d7b16c138b8189592f448c3fe4d8f74ac147a52b26e6a99fbed1876ed",
+      "100afe": "bc801b8f8c0e0fdff36fec6da312a9c446760a34c330be1c2230549135d43863",
+      "a9e4db": "3aa49c1a4f15b142a7d21b6ea8e6b6319aca3927008eccd0c46325659f1c95d7",
+      "05e2ef": "cd6d87520d887c51435cce08f2b012eab269ff380b50309c838c89cddb577a25",
+      "cd58ff": "824ee5a932e6fc7a8ec85d398c2e8fba1aa7fc7ff8c7fd022bb83510f41deea2",
+      "971e2b": "17141387d99c91ff4117ffc0b604c28ddf98acb1c319bc1bebe73ffd7e231b2e",
+      "ec4483": "1d90d26b1043ee101953826201503a53bc45e98664cf24bc88018fb5b02f7cc9",
+      "3d2cf0": "ae419746c1b9cf6f63c7a2f841c7b571ebc6c3ac0e31546fb67d94cf9d7aa665",
+      "64d49f": "47bc872e9ec0b6a4edd9c0c0b09f0129cb9b524f926450bf1540dd18fa048716",
+      "3e6e54": "c018b1feb2d9e4f7ef1dc2dae68b1924a846db53ddbf794dd4e9ba5602ce0072",
+      "828ddf": "fccc342a6089ea3f0991dacaa6513312c285b5b1c3a2f5a5092370e8c46ee033",
+      "4703ec": "c3a6ef07ccdbe6b5ef3dedf6769d8ea144f3f1e144573e9ca9bdd78bd66f4d0e",
+      "07f914": "0bf2d353527140f2db6375702034b22fc10c65856bf5d6c528162b03a4fb0d50",
+      "ded23b": "3f3a1e8b4b8e9d23c6fc833e4a0e1db69b2ea3252c305b25b181d12f9f64fbcc",
+      "41e2af": "1b88e9292484038afce6be9786e8ca40067edf9c9ccbc0ebbfabe42626f7c71a",
+      "ed65a3": "12f8b814c7f57d7d8351cacfde611b691ec746d7b588b289a63f512278a2ade7",
+      "d68138": "5b67b913409a527d67274892f2a8c2050f496fb43b83a3f9bb0f0d2d14eec41c"
+    },
+    "content_hash": "566eadb22181563c544aacd03e7f3714a82b75208ca8a8367004f2fadfb9c657",
+    "metadata_fingerprint": "c0ece4d7a66bbdc3"
+  },
+  "game_sets": [
+    {
+      "theme": "Construction Business and Site Delivery",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "WIP",
+              "EBIT",
+              "S-CURVE",
+              "GEARING"
+            ],
+            "category": "Construction Business Financial Metrics",
+            "color": "green",
+            "url": "https://www.masterbuildersaustralia.com.au/",
+            "description": "Key financial indicators used by construction companies to measure profitability, cash flow and balance sheet health",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.constructionmanagermagazine.com/finance/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "4e56e0",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "PIPELINE",
+              "GO-NO-GO",
+              "BID-STRATEGY",
+              "KEY-ACCOUNT"
+            ],
+            "category": "Business Development and Tendering",
+            "color": "blue",
+            "url": "https://www.ciob.org/industry/procurement-tendering",
+            "description": "Commercial and strategic decisions involved in winning new construction work and managing client relationships",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.constructionmanagermagazine.com/business-development/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "cd0944",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "EBA",
+              "AWARD",
+              "IR-STRATEGY",
+              "TOOLBOX"
+            ],
+            "category": "Workforce and Labour Relations",
+            "color": "orange",
+            "url": "https://www.fwc.gov.au/",
+            "description": "Enterprise agreements, industry awards, and site-level practices for managing construction workforce compliance",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.masterbuilders.com.au/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "980d91",
+            "group_set_id": "03d5e4"
+          },
+          {
+            "words": [
+              "PREFAB",
+              "MODULAR",
+              "BUILDABILITY",
+              "SEQUENCING"
+            ],
+            "category": "Construction Methods and Delivery Thinking",
+            "color": "purple",
+            "url": "https://www.buildoffsite.com/",
+            "description": "Approaches to improve how a building is designed and delivered on site including off-site manufacturing and trade sequencing",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.autodesk.com/solutions/prefabrication-construction"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "ea9ed2",
+            "group_set_id": "03d5e4"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BIM",
+              "PROCORE",
+              "ACONEX",
+              "DIGITAL-TWIN"
+            ],
+            "category": "Construction Technology Platforms",
+            "color": "teal",
+            "url": "https://www.autodesk.com/solutions/bim",
+            "description": "Digital tools and platforms used for project coordination, document management and model-based project controls",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://procore.com",
+              "https://www.oracle.com/au/industries/construction-engineering/aconex/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "c3d735",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "NCC",
+              "DA",
+              "WHS",
+              "CDM"
+            ],
+            "category": "Regulatory and Compliance Frameworks",
+            "color": "red",
+            "url": "https://www.abcb.gov.au/ncc",
+            "description": "Key legislation and regulatory codes governing safety, planning approvals and building compliance in construction",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.safeworkaustralia.gov.au/",
+              "https://www.hse.gov.uk/construction/cdm/"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "b7c5f5",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "LAYDOWN",
+              "HOARDING",
+              "DEWATERING",
+              "SHORING"
+            ],
+            "category": "Site Logistics and Temporary Works",
+            "color": "yellow",
+            "url": "https://www.ciria.org/",
+            "description": "Physical site management elements covering temporary infrastructure, access, and enabling works before permanent construction",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.designingbuildings.co.uk/wiki/Temporary_works"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "402d4e",
+            "group_set_id": "609edc"
+          },
+          {
+            "words": [
+              "DESIGN-BUILD",
+              "IPD",
+              "CM-AT-RISK",
+              "ALLIANCE"
+            ],
+            "category": "Project Delivery Models",
+            "color": "indigo",
+            "url": "https://www.constructionexec.com/article/project-delivery-methods",
+            "description": "The contractual structures that define how design, construction and risk are allocated between client, designer and contractor",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.agc.org/learn/construction-technology/project-delivery-methods"
+            ],
+            "theme": "Construction Business and Site Delivery",
+            "group_item_id": "5e2050",
+            "group_set_id": "609edc"
+          }
+        ]
+      ],
+      "game_set_id": "cd251c"
+    },
+    {
+      "theme": "Construction Project Management and Contracts",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "CPM",
+              "FLOAT",
+              "MILESTONE",
+              "LOOKAHEAD"
+            ],
+            "category": "Schedule Management Concepts",
+            "color": "blue",
+            "url": "https://www.pmi.org/learning/library/critical-path-method-scheduling-9746",
+            "description": "Core scheduling tools and concepts used to plan and control construction timelines",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.procore.com/jobsite/critical-path-method/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "2da9b2",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "EVM",
+              "WBS",
+              "BASELINE",
+              "VARIANCE"
+            ],
+            "category": "Project Cost Control Tools",
+            "color": "green",
+            "url": "https://www.pmi.org/learning/library/earned-value-management-systems-7563",
+            "description": "Earned value and scope management techniques for tracking project performance against plan",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.cips.org/knowledge/procurement-topics-and-skills/project-procurement/earned-value/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "e0a956",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "FIDIC",
+              "NEC",
+              "JCT",
+              "AS4000"
+            ],
+            "category": "Standard Construction Contract Forms",
+            "color": "orange",
+            "url": "https://fidic.org/",
+            "description": "Internationally and nationally recognised standard form contracts governing construction projects",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.neccontract.com/",
+              "https://www.jctltd.co.uk/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "4ef367",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "ADJUDICATION",
+              "ARBITRATION",
+              "MEDIATION",
+              "LITIGATION"
+            ],
+            "category": "Construction Dispute Resolution Methods",
+            "color": "red",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/dispute-resolution/",
+            "description": "Escalating methods for resolving commercial and contractual disputes on construction projects",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.techassist.co.uk/construction-adjudication/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "8f2978",
+            "group_set_id": "866b92"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BOQ",
+              "TAKE-OFF",
+              "LEVELLING",
+              "MARGIN"
+            ],
+            "category": "Estimating and Tender Process",
+            "color": "teal",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/new-rules-of-measurement/",
+            "description": "Quantity surveying and bid preparation fundamentals for pricing construction work competitively",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.ciob.org/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "653105",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "GMP",
+              "LUMP-SUM",
+              "COST-PLUS",
+              "UNIT-PRICE"
+            ],
+            "category": "Construction Contract Pricing Types",
+            "color": "purple",
+            "url": "https://www.levelset.com/blog/types-of-construction-contracts/",
+            "description": "The main commercial pricing structures used to define how a contractor is compensated for work",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://constructionblog.autodesk.com/types-of-construction-contracts/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "88a4a3",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "RETENTION",
+              "NOVATION",
+              "BOND",
+              "INDEMNITY"
+            ],
+            "category": "Contract Security and Risk Instruments",
+            "color": "yellow",
+            "url": "https://www.designingbuildings.co.uk/wiki/Retention_in_construction_contracts",
+            "description": "Financial and legal mechanisms used to protect parties and manage risk in construction contracts",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.pinsentmasons.com/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "0dc18d",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "VARIATION",
+              "EOT",
+              "CLAIM",
+              "INSTRUCTION"
+            ],
+            "category": "Contract Change Management Terms",
+            "color": "indigo",
+            "url": "https://www.designingbuildings.co.uk/wiki/Variation_in_construction_contracts",
+            "description": "The core mechanisms for managing changes, delays and commercial claims under a construction contract",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fenwickelliott.com/research-insight/annual-review/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "c0af13",
+            "group_set_id": "42daad"
+          }
+        ]
+      ],
+      "game_set_id": "60e6b3"
+    },
+    {
+      "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DETOMIDINE",
+              "ROMIFIDINE",
+              "BUTORPHANOL",
+              "ACEPROMAZINE"
+            ],
+            "category": "Equine Sedation Agents",
+            "color": "blue",
+            "url": "https://www.merckvetmanual.com/pharmacology/anesthetics-and-analgesics/standing-sedation-in-horses",
+            "description": "The core sedation pharmacology every equine vet must know cold — combinations, doses, and when NOT to use ACP",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://beva.org.uk/analgesia-guidelines"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "196989",
+            "group_set_id": "f87ce3"
+          },
+          {
+            "words": [
+              "STANDING MRI",
+              "NUCLEAR SCINTIGRAPHY",
+              "DIGITAL RADIOGRAPHY",
+              "ULTRASONOGRAPHY"
+            ],
+            "category": "Advanced Equine Imaging Modalities",
+            "color": "green",
+            "url": "https://www.hallmarq.net/equine-mri-resources",
+            "description": "The imaging ladder that expert diagnosticians navigate — knowing which modality to reach for and when saves time and money",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.ivis.org/equine-imaging-symposia"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "3b581a",
+            "group_set_id": "f87ce3"
+          },
+          {
+            "words": [
+              "PRP",
+              "IRAP",
+              "STEM CELL",
+              "SHOCKWAVE"
+            ],
+            "category": "Biologic and Regenerative Therapies",
+            "color": "red",
+            "url": "https://www.rvc.ac.uk/equine-regenerative-medicine",
+            "description": "Emerging regenerative treatments that top orthopaedic specialists deploy — separating evidence from hype is a key expert skill",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://aaep.org/guidelines/regenerative-medicine"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "ce77ba",
+            "group_set_id": "f87ce3"
+          },
+          {
+            "words": [
+              "ANASTOMOSIS",
+              "JEJUNOCAECAL",
+              "POST-OP ILEUS",
+              "LIDOCAINE CRI"
+            ],
+            "category": "Expert Colic Surgeon Skills",
+            "color": "yellow",
+            "url": "https://www.ivis.org/equine-surgery-colic",
+            "description": "The techniques that define the upper echelon of colic surgeons — what you need to confidently operate in field conditions",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://vet.osu.edu/vmc/companion/equine-surgery"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "dbd195",
+            "group_set_id": "f87ce3"
+          }
+        ],
+        [
+          {
+            "words": [
+              "EMS",
+              "PPID",
+              "INSULIN DYSREGULATION",
+              "LAMINITIS TRIGGER"
+            ],
+            "category": "Equine Metabolic Syndrome Cluster",
+            "color": "orange",
+            "url": "https://www.merckvetmanual.com/metabolic-disorders/equine-metabolic-syndrome",
+            "description": "The interconnected metabolic triad that expert internists see as a system — not three separate diagnoses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ecir.groups.io/g/main/wiki/"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "6d392b",
+            "group_set_id": "014b7e"
+          },
+          {
+            "words": [
+              "ENDOMETRIAL BIOPSY",
+              "CASLICK'S",
+              "REPEAT BREEDER",
+              "POST-THAW MOTILITY"
+            ],
+            "category": "Reproduction Problem-Solving Skills",
+            "color": "purple",
+            "url": "https://www.ivis.org/equine-reproduction",
+            "description": "The diagnostic and management skills that separate a top stud vet from one who just flushes embryos",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equinerepro.org/resources"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "ba709b",
+            "group_set_id": "014b7e"
+          },
+          {
+            "words": [
+              "STRANGLES QUARANTINE",
+              "EHV BIOSECURITY",
+              "EIA",
+              "ANTHELMINTIC ROTATION"
+            ],
+            "category": "Equine Herd Biosecurity Protocols",
+            "color": "teal",
+            "url": "https://www.beva.org.uk/biosecurity",
+            "description": "Practice-level infectious disease management skills that protect entire yards — experts lead, generalists react",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://aaep.org/guidelines/biosecurity"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "fd6e57",
+            "group_set_id": "014b7e"
+          },
+          {
+            "words": [
+              "PROGNOSIS COMMUNICATION",
+              "REFERRAL DECISION",
+              "MEDICOLEGAL RECORDS",
+              "CASCADE PRESCRIBING"
+            ],
+            "category": "Professional Practice Differentiators",
+            "color": "indigo",
+            "url": "https://www.rcvs.org.uk/setting-standards/advice-and-guidance/code-of-professional-conduct-for-veterinary-surgeons/",
+            "description": "The non-clinical skills that separate trusted expert practitioners — knowing when to refer without losing the client is a hallmark",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/professional-development"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "675cda",
+            "group_set_id": "014b7e"
+          }
+        ]
+      ],
+      "game_set_id": "100afe"
+    },
+    {
+      "theme": "Equine Veterinary Clinical Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "FLEXION",
+              "BLOCK",
+              "HOOF-TESTER",
+              "ASYMMETRY"
+            ],
+            "category": "Lameness Localisation Techniques",
+            "color": "red",
+            "url": "https://www.beva.org.uk/Portals/0/Documents/Resources/Equine%20Lameness%20Assessment.pdf",
+            "description": "Core tools for systematically identifying the source of lameness in a horse",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/lameness-examination",
+              "https://onlinelibrary.wiley.com/journal/20423306"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "d9f2c7",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "SCINTIGRAPHY",
+              "MRI",
+              "CT",
+              "PET"
+            ],
+            "category": "Advanced Equine Imaging Modalities",
+            "color": "blue",
+            "url": "https://avmajournals.avma.org/loi/ajvr",
+            "description": "High-level diagnostic imaging technologies used to evaluate musculoskeletal and soft-tissue pathology",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equinemri.com",
+              "https://www.ivis.org"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "49788c",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "VENTRICULOCORDECTOMY",
+              "LARYNGOPLASTY",
+              "PALATOPLASTY",
+              "ARYTENOIDECTOMY"
+            ],
+            "category": "Upper Airway Surgical Procedures",
+            "color": "green",
+            "url": "https://www.sciencedirect.com/journal/the-veterinary-journal",
+            "description": "Surgical interventions on the equine larynx and palate to correct dynamic airway obstruction",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://pubmed.ncbi.nlm.nih.gov",
+              "https://beva.org.uk"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "be519e",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "EMBRYO-FLUSH",
+              "AI",
+              "FOLLICLE-TRACK",
+              "SEMEN-EVAL"
+            ],
+            "category": "Equine Reproductive Techniques",
+            "color": "yellow",
+            "url": "https://www.iets.org/equine",
+            "description": "Core assisted reproduction procedures in equine stud medicine",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://aaep.org/guidelines/reproduction-guidelines",
+              "https://www.sciencedirect.com/journal/theriogenology"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "fafa1a",
+            "group_set_id": "0cccca"
+          }
+        ],
+        [
+          {
+            "words": [
+              "PPID",
+              "EMS",
+              "LAMINITIS",
+              "HYPERLIPIDEMIA"
+            ],
+            "category": "Equine Endocrine and Metabolic Diseases",
+            "color": "purple",
+            "url": "https://onlinelibrary.wiley.com/journal/19391676",
+            "description": "Metabolic and hormonal conditions commonly managed in equine internal medicine",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ecir.groups.io/g/main",
+              "https://www.ivis.org/books/equine-internal-medicine"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "004068",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "NASOGASTRIC",
+              "TROCARIZE",
+              "ENTEROTOMY",
+              "VOLVULUS"
+            ],
+            "category": "Colic Intervention Toolkit",
+            "color": "teal",
+            "url": "https://www.aaep.org/info/horse-health?publication=856",
+            "description": "Procedures used in the triage and surgical management of equine colic",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.sciencedirect.com/book/9781416035916/equine-surgery",
+              "https://pubmed.ncbi.nlm.nih.gov"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "a4e9f7",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "EOTRH",
+              "WOLF-TOOTH",
+              "INFUNDIBULAR",
+              "POWER-FLOAT"
+            ],
+            "category": "Equine Dental Pathology and Procedures",
+            "color": "orange",
+            "url": "https://www.beva.org.uk/Portals/0/Documents/Dental/BEVA-dental-guidelines.pdf",
+            "description": "Conditions and tools encountered in equine dentistry and oral medicine",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.equinedentistry.com",
+              "https://www.ivis.org/library/equine-dentistry"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "156b7e",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "SEPTICAEMIA",
+              "FPT",
+              "UROPERITONEUM",
+              "PREMATURITY"
+            ],
+            "category": "Neonatal Foal Medicine",
+            "color": "indigo",
+            "url": "https://onlinelibrary.wiley.com/journal/20423306",
+            "description": "Critical conditions and diagnoses in sick foals during the neonatal period",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.ivis.org/books/current-therapy-in-equine-medicine",
+              "https://aaep.org/guidelines/neonatal-care"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "5a5943",
+            "group_set_id": "49e3b5"
+          }
+        ]
+      ],
+      "game_set_id": "a9e4db"
+    },
+    {
+      "theme": "Equine Veterinary: Clinical Skills In Demand",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HOOF TESTERS",
+              "FLEXION TEST",
+              "NERVE BLOCK",
+              "JOINT BLOCK"
+            ],
+            "category": "Lameness Diagnostic Toolkit",
+            "color": "red",
+            "url": "https://www.merckvetmanual.com/musculoskeletal-system/lameness-in-horses",
+            "description": "The four foundational hands-on tools used during a systematic lameness workup before imaging is reached",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/lameness-evaluation"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "ca6741",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "LAMINITIS",
+              "NAVICULAR",
+              "SUSPENSORY",
+              "DDFT"
+            ],
+            "category": "Common Orthopaedic Conditions",
+            "color": "blue",
+            "url": "https://www.rvc.ac.uk/equine/educational-resources",
+            "description": "High-prevalence structural conditions of the equine distal limb that drive the majority of lameness caseload",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/equine-lameness-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "688c55",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "EMBRYO TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION",
+              "OOCYTE TRANSFER"
+            ],
+            "category": "Advanced Equine Reproduction Techniques",
+            "color": "green",
+            "url": "https://www.ivis.org/advances_in_equine_reproduction",
+            "description": "Cutting-edge assisted reproductive technologies separating the best stud vets from competent ones",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.tandfonline.com/toc/yeqv20/current"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "1277b5",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "NASOGASTRIC TUBE",
+              "PERITONEAL TAP",
+              "RECTAL EXAM",
+              "PAIN SCORE"
+            ],
+            "category": "Colic Assessment Essentials",
+            "color": "yellow",
+            "url": "https://aaep.org/guidelines/colic",
+            "description": "The hands-on assessment tools every equine vet must master — failure here means missing a surgical colic",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/digestive-system/colic-in-horses"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "0f3dc6",
+            "group_set_id": "55d62e"
+          }
+        ],
+        [
+          {
+            "words": [
+              "POWER FLOAT",
+              "REPULSION",
+              "EOTRH",
+              "INFUNDIBULAR CARIES"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "purple",
+            "url": "https://www.equinedentistry.com/resources",
+            "description": "Specialised dental skills that are rapidly professionalising and pulling away from GP equine practice",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://beva.org.uk/dentistry-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "d7c1fc",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "LARYNGOPLASTY",
+              "ARTHROSCOPY",
+              "LAPAROTOMY",
+              "ENUCLEATION"
+            ],
+            "category": "Major Equine Surgical Procedures",
+            "color": "teal",
+            "url": "https://www.ivis.org/equine-surgery-resources",
+            "description": "High-skill surgical procedures that define the upper tier of equine surgical competence",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.vet.cornell.edu/hospitals/equine"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "4bf275",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "SEPSIS",
+              "FAILURE OF PASSIVE TRANSFER",
+              "PREMATURITY",
+              "NEONATAL ISOERYTHROLYSIS"
+            ],
+            "category": "Neonatal Foal Critical Presentations",
+            "color": "orange",
+            "url": "https://www.merckvetmanual.com/management-and-nutrition/management-of-the-foal",
+            "description": "High-stakes foal NICU conditions — expert recognition determines life or death in the first hours",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://aaep.org/guidelines/neonatal-care"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "b2693e",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "ATRIAL FIBRILLATION",
+              "VALVULAR REGURGITATION",
+              "ECHOCARDIOGRAPHY",
+              "ARRHYTHMIA"
+            ],
+            "category": "Equine Cardiac Assessment",
+            "color": "indigo",
+            "url": "https://www.vet.upenn.edu/research/centers-laboratories/equine-cardiology",
+            "description": "Cardiac skills separating an equine internist from a generalist — AF is the most common arrhythmia encountered",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/cardiac-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "0b2f92",
+            "group_set_id": "70aaad"
+          }
+        ]
+      ],
+      "game_set_id": "05e2ef"
+    },
+    {
+      "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ULTRASONOGRAPHY",
+              "RADIOGRAPHY",
+              "ENDOSCOPY",
+              "THERMOGRAPHY"
+            ],
+            "category": "Diagnostic Imaging Modalities",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/lameness-diagnosis",
+            "description": "Key imaging technologies used by elite equine vets to visualise soft tissue, bone, airways and abdominal organs",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "248cba",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "FLEXION",
+              "NERVE-BLOCK",
+              "TROT-UP",
+              "FORCE-PLATE"
+            ],
+            "category": "Lameness Evaluation Tools",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/lameness",
+            "description": "Systematic methods used to localise and quantify gait abnormalities in horses, from hands-on flexion tests to inertial sensor technology",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://lameness-locator.com"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "01de1e",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "LAPAROTOMY",
+              "ARTHROSCOPY",
+              "HOBDAY",
+              "CASTRATION"
+            ],
+            "category": "Core Surgical Procedures",
+            "color": "green",
+            "url": "https://www.beva.org.uk/education/surgery",
+            "description": "Fundamental equine surgical competencies ranging from emergency colic surgery to elective orthopaedic and airway procedures",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/colic"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "396abe",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "PPID",
+              "EMS",
+              "RAO",
+              "LYMPHOMA"
+            ],
+            "category": "Complex Medical Conditions",
+            "color": "yellow",
+            "url": "https://www.aaep.org/horsehealth/equine-cushings-disease-ppid",
+            "description": "Chronic and systemic diseases requiring deep internal medicine knowledge; PPID (Cushing's), metabolic syndrome, heaves, and neoplasia",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ker.com/equinews/equine-metabolic-syndrome/"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "0dd8a0",
+            "group_set_id": "4e589c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BSE",
+              "EMBRYO-TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION"
+            ],
+            "category": "Reproductive Technologies",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/reproduction",
+            "description": "Advanced assisted reproduction techniques from breeding soundness evaluation through to embryo and oocyte transfer programs",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/reproduction"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8ed30",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "TRIAMCINOLONE",
+              "HYALURONATE",
+              "PROSTRIDE",
+              "PRP"
+            ],
+            "category": "Intra-articular Medications",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/joint-injections",
+            "description": "Therapeutic agents injected directly into joints; range from corticosteroids to biologic therapies, each with different evidence bases and competition withdrawal profiles",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8158c",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "EOTRH",
+              "WOLF-TOOTH",
+              "POWER-FLOAT",
+              "DENTAL-RADIOGRAPHY"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "orange",
+            "url": "https://www.beva.org.uk/education/dentistry",
+            "description": "Key equine dental skills: identifying pathology like EOTRH in aged horses, performing extractions, and using power instruments and imaging for accurate diagnosis",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/dental-care"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "4ed567",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "DETOMIDINE",
+              "ROMIFIDINE",
+              "BUTORPHANOL",
+              "ACEPROMAZINE"
+            ],
+            "category": "Chemical Restraint Agents",
+            "color": "indigo",
+            "url": "https://www.merckvetmanual.com/pharmacology/sedatives",
+            "description": "Sedative, analgesic, and tranquilliser drugs combined by equine vets for standing sedation and field anaesthesia procedures",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/sedation"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "d58307",
+            "group_set_id": "b847c9"
+          }
+        ]
+      ],
+      "game_set_id": "cd58ff"
+    },
+    {
+      "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "PROGNOSIS",
+              "TRANSPARENCY",
+              "TRUST",
+              "EMPATHY"
+            ],
+            "category": "Client Communication Qualities",
+            "color": "yellow",
+            "url": "https://www.beva.org.uk/education/professional-skills",
+            "description": "Interpersonal and communication competencies that distinguish exceptional equine vets when delivering difficult news under pressure",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/client-communication"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "2c5872",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "COLIC",
+              "CHOKE",
+              "LAMINITIS",
+              "DYSTOCIA"
+            ],
+            "category": "Equine Emergency Presentations",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/colic",
+            "description": "The most time-critical field emergencies requiring rapid triage and decisive intervention; delays cost lives and viability",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/emergency-care"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "68e12e",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "BEVA",
+              "AAEP",
+              "EVJ",
+              "CPD"
+            ],
+            "category": "Professional Development Resources",
+            "color": "green",
+            "url": "https://www.beva.org.uk",
+            "description": "Key professional organisations and publications that top equine vets use to stay current with evidence-based practice and emerging therapies",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org",
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "776715",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "STEM-CELL",
+              "SHOCKWAVE",
+              "PEMF",
+              "PLATELET-RICH-PLASMA"
+            ],
+            "category": "Emerging Regenerative Therapies",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/regenerative-medicine",
+            "description": "Novel biologic and physical therapies with growing evidence bases; the best vets critically appraise RCT data vs anecdote before adoption",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/regenerative"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "49a043",
+            "group_set_id": "db843c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "WITHDRAWAL",
+              "FEI-RULES",
+              "NSAID",
+              "OFF-LABEL"
+            ],
+            "category": "Competition Horse Drug Compliance",
+            "color": "orange",
+            "url": "https://www.fei.org/fei/cleansport/ad",
+            "description": "Regulatory and pharmacological knowledge critical for vets treating competition horses; getting withdrawal times wrong can end an athlete's career",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.bha.co.uk/horse-racing/anti-doping/"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "a275f5",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "EAR-POSITION",
+              "TAIL-WRINGING",
+              "WEIGHT-SHIFTING",
+              "SKIN-TWITCHING"
+            ],
+            "category": "Horse Body Language Signals",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/horse-behavior",
+            "description": "Behavioural cues that skilled vets read to anticipate stress, pain, or aggression before a horse kicks, rears, or bolts during examination",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/horsemanship"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "7d8855",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "SEPTICAEMIA",
+              "FLUID-THERAPY",
+              "ENTERAL-NUTRITION",
+              "NEONATAL-FOAL"
+            ],
+            "category": "Sick Foal Critical Care",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/neonatal-foal",
+            "description": "Intensive care management of the compromised newborn foal requires a specialist skillset distinct from adult equine medicine",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/neonatology"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "cdbb55",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "INVOICING",
+              "SCHEDULING",
+              "MENTORSHIP",
+              "RECORD-KEEPING"
+            ],
+            "category": "Practice Management Competencies",
+            "color": "indigo",
+            "url": "https://www.beva.org.uk/education/practice-management",
+            "description": "Business and operational skills that separate thriving equine practices from struggling ones; technical skill alone does not build a sustainable career",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/practice-management"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "85b15c",
+            "group_set_id": "8f1c63"
+          }
+        ]
+      ],
+      "game_set_id": "971e2b"
+    },
+    {
+      "theme": "Famous BMX Racers — Legends and Pioneers",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "THOMSEN",
+              "ELLIS",
+              "KING",
+              "HERMAN"
+            ],
+            "category": "BMX Hall of Fame Legends",
+            "color": "yellow",
+            "url": "https://www.bmxmuseum.com/hall-of-fame",
+            "description": "Pioneering BMX racers inducted into the Hall of Fame: Stu Thomsen, Gary Ellis, Mike King, David Herman",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing#History"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "c452fb",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "FLOYD",
+              "HILL",
+              "PALMER",
+              "YOUNG"
+            ],
+            "category": "National Champions and BMX Innovators",
+            "color": "blue",
+            "url": "https://www.usabmx.com/site/sections/8",
+            "description": "BMX legends who shaped national racing: Steven Floyd, Greg Hill, James Palmer, Khalen Young",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "3454a4",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "SUPERCROSS",
+              "CRUISER",
+              "MOTOS",
+              "STRIDER"
+            ],
+            "category": "BMX Race Format and Equipment Terms",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/BMX_racing",
+            "description": "Key terms in competitive BMX: Supercross (SX) series, Cruiser class, Motos (qualifying heats), Strider (balance bikes for youngest riders)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.uci.org/bmx-racing/rules"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "23d0d3",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "GATE DROP",
+              "BERM",
+              "TABLETOP",
+              "RHYTHM SECTION"
+            ],
+            "category": "BMX Track Features and Start Mechanics",
+            "color": "red",
+            "url": "https://www.uci.org/bmx-racing/tracks",
+            "description": "Essential BMX track elements: Gate Drop (race start), Berm (banked corner), Tabletop (flat-top jump), Rhythm Section (series of jumps)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "37c85a",
+            "group_set_id": "548068"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BENNETT",
+              "WILLOUGHBY",
+              "GRAVES",
+              "DEAN"
+            ],
+            "category": "Australian and US Elite Crossover Stars",
+            "color": "teal",
+            "url": "https://www.bmxaustralia.com.au",
+            "description": "BMX stars who competed at elite level across UCI and national circuits: Kyle Bennett (USA), Sam Willoughby (AUS), Jared Graves (AUS), Anthony Dean (AUS)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Sam_Willoughby"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "ff4d9a",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "ABA",
+              "NBL",
+              "UCI",
+              "USA BMX"
+            ],
+            "category": "BMX Sanctioning Bodies and Organisations",
+            "color": "purple",
+            "url": "https://www.usabmx.com",
+            "description": "Key organisations governing BMX racing: ABA (American Bicycle Association), NBL (National Bicycle League), UCI (Union Cycliste Internationale), USA BMX",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.uci.org/bmx-racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "97bc45",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "CHAUSSON",
+              "BUCHANAN",
+              "PAJON",
+              "WILLOUGHBY"
+            ],
+            "category": "Women Who Redefined BMX Racing",
+            "color": "orange",
+            "url": "https://www.uci.org/bmx-racing/women",
+            "description": "Female BMX racers who transformed women's competition: Anne-Caroline Chausson, Caroline Buchanan, Mariana Pajon, Alise Willoughby",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Mariana_Paj%C3%B3n"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "c4c841",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "STROMBERGS",
+              "KIMMANN",
+              "VAN GENDT",
+              "DAUDET"
+            ],
+            "category": "European Elite BMX Champions",
+            "color": "indigo",
+            "url": "https://www.uci.org/bmx-racing/europe",
+            "description": "Top BMX racers from Europe who dominated world-level competition: Māris Štrombergs (Latvia), Niek Kimmann (NL), Twan van Gendt (NL), Joris Daudet (France)",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/N%C3%A2ris_%C5%A0trombergs"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "33e335",
+            "group_set_id": "44427d"
+          }
+        ]
+      ],
+      "game_set_id": "ec4483"
+    },
+    {
+      "theme": "Famous BMX Racers — Olympic Champions",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "STROMBERGS",
+              "FIELDS",
+              "PAJON",
+              "KIMMANN"
+            ],
+            "category": "Olympic Gold Medallists",
+            "color": "red",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "BMX racers who won Olympic gold: Māris Štrombergs (2x), Connor Fields, Mariana Pajon (2x), Niek Kimmann",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "c8c1f7",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "CHAUSSON",
+              "WALKER",
+              "WILLOUGHBY",
+              "BUCHANAN"
+            ],
+            "category": "Female BMX Olympic Medallists",
+            "color": "blue",
+            "url": "https://www.uci.org/bmx-racing/history",
+            "description": "Elite women racers who reached the Olympic podium: Anne-Caroline Chausson, Sarah Walker, Alise Willoughby, Caroline Buchanan",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Anne-Caroline_Chausson"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "6f1c51",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "COLOMBIA",
+              "LATVIA",
+              "USA",
+              "NETHERLANDS"
+            ],
+            "category": "Nations That Produced Olympic BMX Champions",
+            "color": "green",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "Countries whose riders won Olympic BMX gold: Colombia (Pajon), Latvia (Štrombergs), USA (Fields), Netherlands (Kimmann)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "b9c91e",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "BEIJING",
+              "LONDON",
+              "RIO",
+              "TOKYO"
+            ],
+            "category": "Olympic Games That Included BMX Racing",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics",
+            "description": "The four Summer Olympics host cities where BMX racing debuted and continued (2008–2020)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.olympic.org/bmx-racing"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "d40ed1",
+            "group_set_id": "513e2c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BENNETT",
+              "CAMERON",
+              "GRAVES",
+              "VAN GENDT"
+            ],
+            "category": "Multiple UCI World Champions",
+            "color": "orange",
+            "url": "https://www.uci.org/bmx-racing/world-championships",
+            "description": "BMX racers who claimed multiple UCI World Championship titles: Kyle Bennett (3x), Donovan Cameron, Jared Graves, Twan van Gendt",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/UCI_BMX_Racing_World_Championships"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "541440",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "AUSTRALIA",
+              "FRANCE",
+              "NEW ZEALAND",
+              "BRITAIN"
+            ],
+            "category": "Nations with Elite Female BMX Champions",
+            "color": "green",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "Countries with top-ranked women BMX racers: Australia (Buchanan, Williams), France (Chausson, Leveque), New Zealand (Walker), Britain (Phillips)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Caroline_Buchanan"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "f387d7",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "DAUDET",
+              "PHILLIPS",
+              "LEVEQUE",
+              "STEVENS"
+            ],
+            "category": "Elite World Championship Circuit Regulars",
+            "color": "indigo",
+            "url": "https://www.uci.org/bmx-racing/elite",
+            "description": "BMX racers who dominated the UCI Elite World Cup circuit: Joris Daudet, Liam Phillips, Laetitia Le Corguille, Felicia Stevens",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Liam_Phillips"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "8cb86a",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "PAJON",
+              "STROMBERGS",
+              "CHAUSSON",
+              "FIELDS"
+            ],
+            "category": "Riders with Back-to-Back Podium Appearances",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics",
+            "description": "BMX racers who earned medals across multiple Olympic cycles: Mariana Pajon, Māris Štrombergs, Anne-Caroline Chausson, Connor Fields",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Mariana_Paj%C3%B3n"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "e9a0d9",
+            "group_set_id": "5e6f95"
+          }
+        ]
+      ],
+      "game_set_id": "3d2cf0"
+    },
+    {
+      "theme": "Famous Fat People: Entertainment & Culture",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "MEAT LOAF",
+              "GABRIEL IGLESIAS",
+              "RALPHIE MAY",
+              "FLUFFY"
+            ],
+            "category": "Big Performers With Big Personalities",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Meat_Loaf",
+            "description": "Entertainers who made their large frames part of their brand — a rock Bat Out of Hell, two comedians (one nicknamed Fluffy), and a stand-up legend",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Gabriel_Iglesias",
+              "https://en.wikipedia.org/wiki/Ralphie_May"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "04e9bd",
+            "group_set_id": "c42771"
+          },
+          {
+            "words": [
+              "TAFT",
+              "LINCOLN",
+              "CLEVELAND",
+              "MCKINLEY"
+            ],
+            "category": "US Presidents Noted for Their Size",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+            "description": "American presidents who were notably large — Taft the heaviest ever, Lincoln among the tallest, Cleveland and McKinley also known for their girth",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Grover_Cleveland",
+              "https://en.wikipedia.org/wiki/William_McKinley"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "b9e995",
+            "group_set_id": "c42771"
+          },
+          {
+            "words": [
+              "BRANDO",
+              "WELLES",
+              "BELUSHI",
+              "FARLEY"
+            ],
+            "category": "Hollywood Talents Who Ballooned",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Marlon_Brando",
+            "description": "Celebrated performers who became notably heavy during their careers — two acting legends, and two comedians who died young",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Orson_Welles",
+              "https://en.wikipedia.org/wiki/John_Belushi"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "4dc0d1",
+            "group_set_id": "c42771"
+          },
+          {
+            "words": [
+              "HENRY VIII",
+              "LOUIS VI",
+              "SANCHO I",
+              "PHYSCON"
+            ],
+            "category": "Royals With Legendary Appetites",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Henry_VIII",
+            "description": "Monarchs across history whose physical excess became as famous as their reigns — English, French, Portuguese, and Egyptian rulers",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+              "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "dd7a97",
+            "group_set_id": "c42771"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FAT ALBERT",
+              "JABBA",
+              "CARTMAN",
+              "PETER GRIFFIN"
+            ],
+            "category": "Iconic Fat Characters in Animation",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Fat_Albert",
+            "description": "Four animated characters defined by their size across different eras — from Saturday morning cartoons to adult animation",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Peter_Griffin",
+              "https://en.wikipedia.org/wiki/Eric_Cartman"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "9e2479",
+            "group_set_id": "041804"
+          },
+          {
+            "words": [
+              "FATS DOMINO",
+              "BARRY WHITE",
+              "MAMA CASS",
+              "MEAT LOAF"
+            ],
+            "category": "Large Voices, Larger Legends",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/Barry_White",
+            "description": "Music icons whose physical presence matched the power of their voices — a rock and roll pioneer, a soul legend, a folk-pop singer, and a rock theatric",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Fats_Domino",
+              "https://en.wikipedia.org/wiki/Mama_Cass"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "213b71",
+            "group_set_id": "041804"
+          },
+          {
+            "words": [
+              "ANDRE THE GIANT",
+              "BIG SHOW",
+              "YOKOZUNA",
+              "RIKISHI"
+            ],
+            "category": "Giants of the Wrestling World",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_the_Giant",
+            "description": "Four wrestling superstars whose massive bodies were their most famous attribute — measured in hundreds of pounds each",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Big_Show",
+              "https://en.wikipedia.org/wiki/Yokozuna_(wrestler)"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "ee62da",
+            "group_set_id": "041804"
+          },
+          {
+            "words": [
+              "JOHN CANDY",
+              "CHRIS FARLEY",
+              "JOHN BELUSHI",
+              "LOUIE ANDERSON"
+            ],
+            "category": "Comedy's Heavyweight Champions",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/John_Candy",
+            "description": "Comedians who brought outsized laughs with outsized frames — a beloved Canadian, an SNL wild man, a Blues Brother, and a Vegas veteran",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Chris_Farley",
+              "https://en.wikipedia.org/wiki/Louie_Anderson"
+            ],
+            "theme": "Famous Fat People: Entertainment & Culture",
+            "group_item_id": "3ee484",
+            "group_set_id": "041804"
+          }
+        ]
+      ],
+      "game_set_id": "64d49f"
+    },
+    {
+      "theme": "Famous Fat People: History & Royalty",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "TAFT",
+              "HENRY VIII",
+              "NERO",
+              "PHYSCON"
+            ],
+            "category": "Rulers Famous For Their Girth",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+            "description": "Heads of state historically noted for their immense size — a US president, an English king, a Roman emperor, and a Pharaoh nicknamed 'Fatty'",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Henry_VIII",
+              "https://en.wikipedia.org/wiki/Ptolemy_VIII_Physcon"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "03ba18",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "LOUIS THE FAT",
+              "SANCHO THE FAT",
+              "ADOLPH FREDRIK",
+              "DIAMOND JIM"
+            ],
+            "category": "Nicknames Earned at the Table",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Louis_VI_of_France",
+            "description": "A French king, a Portuguese king, a Swedish king who ate himself to death, and a Gilded Age financier — all famous for legendary appetites",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Sancho_I_of_Portugal",
+              "https://en.wikipedia.org/wiki/Diamond_Jim_Brady"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "bb6897",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "CHURCHILL",
+              "ORSON WELLES",
+              "MARLON BRANDO",
+              "MAMA CASS"
+            ],
+            "category": "20th-Century Icons Who Grew Large",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/Winston_Churchill",
+            "description": "A British PM, a genius filmmaker/actor, a Hollywood legend, and a pop singer — all became famous for both their talent and their size",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Marlon_Brando",
+              "https://en.wikipedia.org/wiki/Mama_Cass"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "0f0503",
+            "group_set_id": "329366"
+          },
+          {
+            "words": [
+              "FATS DOMINO",
+              "FATS WALLER",
+              "BARRY WHITE",
+              "BIG MAMA THORNTON"
+            ],
+            "category": "Big Names in Music (Literally)",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Fats_Domino",
+            "description": "Musicians whose size was as legendary as their sound — two called 'Fats', a deep-voiced soul giant, and a blues powerhouse",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Fats_Waller",
+              "https://en.wikipedia.org/wiki/Big_Mama_Thornton"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "8daf55",
+            "group_set_id": "329366"
+          }
+        ],
+        [
+          {
+            "words": [
+              "ANDRE THE GIANT",
+              "YOKOZUNA",
+              "RIKISHI",
+              "KING KONG BUNDY"
+            ],
+            "category": "Massive Pro Wrestlers",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_the_Giant",
+            "description": "Four ring giants whose enormous frames were central to their personas — from a sumo-turned-WWE star to the original 8th Wonder of the World",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Yokozuna_(wrestler)",
+              "https://en.wikipedia.org/wiki/King_Kong_Bundy"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "871053",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "JOHN BELUSHI",
+              "CHRIS FARLEY",
+              "JOHN CANDY",
+              "LOUIE ANDERSON"
+            ],
+            "category": "Beloved Large Comedians",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/John_Belushi",
+            "description": "Four comedians who made audiences laugh while being famous for their large frames — two died young, all are icons",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Chris_Farley",
+              "https://en.wikipedia.org/wiki/John_Candy"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "15646a",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "HOMER SIMPSON",
+              "PETER GRIFFIN",
+              "FAT ALBERT",
+              "CARTMAN"
+            ],
+            "category": "Famous Fat Fictional Characters",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Homer_Simpson",
+            "description": "Animated characters beloved for being hilariously large — a nuclear safety inspector, a Rhode Island dad, a Philly kid, and a Colorado schemer",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Peter_Griffin",
+              "https://en.wikipedia.org/wiki/Eric_Cartman"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "559d1e",
+            "group_set_id": "8d087d"
+          },
+          {
+            "words": [
+              "JABBA THE HUTT",
+              "BOSS HOGG",
+              "AUGUSTUS GLOOP",
+              "BIG SHOW"
+            ],
+            "category": "Pop Culture Heavyweights",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Jabba_the_Hutt",
+            "description": "Iconic large characters across sci-fi, TV, literature, and wrestling — a slug gangster, a corrupt sheriff, a greedy boy, and a 7-foot giant",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Boss_Hogg",
+              "https://en.wikipedia.org/wiki/Augustus_Gloop"
+            ],
+            "theme": "Famous Fat People: History & Royalty",
+            "group_item_id": "7afe1f",
+            "group_set_id": "8d087d"
+          }
+        ]
+      ],
+      "game_set_id": "3e6e54"
+    },
+    {
+      "theme": "FastAPI Request Handling",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DEPENDS",
+              "APIKEY",
+              "OAUTH2",
+              "HTTPBEARER"
+            ],
+            "category": "FastAPI Security / Auth primitives",
+            "color": "red",
+            "url": "https://fastapi.tiangolo.com/tutorial/security/",
+            "description": "FastAPI security utilities for authentication and authorization",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/dependencies/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "129f6c",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "PATHPARAM",
+              "QUERYPARAM",
+              "REQUESTBODY",
+              "FORMPARAM"
+            ],
+            "category": "FastAPI parameter sources",
+            "color": "blue",
+            "url": "https://fastapi.tiangolo.com/tutorial/query-params/",
+            "description": "Where FastAPI reads incoming data — path, query string, JSON body, or form fields",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/body/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "5335f5",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "UPLOADFILE",
+              "FILE",
+              "FORM",
+              "SPOOLEDTMPFILE"
+            ],
+            "category": "FastAPI file / multipart upload",
+            "color": "green",
+            "url": "https://fastapi.tiangolo.com/tutorial/request-files/",
+            "description": "Primitives for handling file and multipart/form-data uploads in FastAPI",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/tutorial/request-forms-and-files/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "e37cda",
+            "group_set_id": "d6a060"
+          },
+          {
+            "words": [
+              "LIFESPAN",
+              "STARTUP",
+              "SHUTDOWN",
+              "ASYNCCONTEXTMANAGER"
+            ],
+            "category": "FastAPI app lifecycle hooks",
+            "color": "purple",
+            "url": "https://fastapi.tiangolo.com/advanced/events/",
+            "description": "Tools for running logic at application startup and shutdown in FastAPI",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://docs.python.org/3/library/contextlib.html#contextlib.asynccontextmanager"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "9a1c5a",
+            "group_set_id": "d6a060"
+          }
+        ],
+        [
+          {
+            "words": [
+              "JSONRESPONSE",
+              "STREAMINGRESPONSE",
+              "FILERESPONSE",
+              "HTMLRESPONSE"
+            ],
+            "category": "FastAPI response types",
+            "color": "yellow",
+            "url": "https://fastapi.tiangolo.com/advanced/custom-response/",
+            "description": "Concrete HTTP response classes available in FastAPI / Starlette",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.starlette.io/responses/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "5b1228",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "TESTCLIENT",
+              "HTTPX",
+              "ASYNCCLIENT",
+              "PYTEST"
+            ],
+            "category": "FastAPI testing tools",
+            "color": "teal",
+            "url": "https://fastapi.tiangolo.com/tutorial/testing/",
+            "description": "Libraries and clients used to test FastAPI applications",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.python-httpx.org/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "6ebad0",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "APIROUTER",
+              "INCLUDE_ROUTER",
+              "PREFIX",
+              "TAGS"
+            ],
+            "category": "FastAPI modular routing",
+            "color": "orange",
+            "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications/",
+            "description": "Primitives for splitting a FastAPI app into modular routers with prefixes and tags",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://fastapi.tiangolo.com/reference/apirouter/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "b9701b",
+            "group_set_id": "b90cf7"
+          },
+          {
+            "words": [
+              "CORSM",
+              "GZIPM",
+              "TRUSTEDHOST",
+              "HTTPSREDIRECT"
+            ],
+            "category": "FastAPI / Starlette middleware",
+            "color": "indigo",
+            "url": "https://fastapi.tiangolo.com/tutorial/middleware/",
+            "description": "Common ASGI middleware that can be added to a FastAPI application",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.starlette.io/middleware/"
+            ],
+            "theme": "FastAPI Request Handling",
+            "group_item_id": "de4874",
+            "group_set_id": "b90cf7"
+          }
+        ]
+      ],
+      "game_set_id": "828ddf"
+    },
+    {
+      "theme": "RegTech Key Concerns",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "AML",
+              "SAR",
+              "CDD",
+              "FATF"
+            ],
+            "category": "Anti-Money Laundering Essentials",
+            "color": "red",
+            "url": "https://www.fatf-gafi.org/en/topics/aml-cft.html",
+            "description": "Core concepts in anti-money laundering compliance: AML frameworks, Suspicious Activity Reports, Customer Due Diligence, and FATF global standards",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fincen.gov/resources/statutes-and-regulations/bank-secrecy-act"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "8b25a5",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "KYC",
+              "EDD",
+              "UBO",
+              "PEP"
+            ],
+            "category": "Know Your Customer Deep Dive",
+            "color": "blue",
+            "url": "https://www.wolfsberg-principles.com/standards/kyc-principles",
+            "description": "KYC pillars: Know Your Customer onboarding, Enhanced Due Diligence for high-risk clients, Ultimate Beneficial Owner identification, and Politically Exposed Persons screening",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.bis.org/bcbs/publ/d353.pdf"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "a4f36a",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "GDPR",
+              "SCA",
+              "DORA",
+              "MiCA"
+            ],
+            "category": "EU Regulatory Frameworks",
+            "color": "green",
+            "url": "https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation_en",
+            "description": "Major EU regulatory regimes: GDPR for data privacy, Strong Customer Authentication under PSD2, DORA for digital operational resilience, and MiCA for crypto-assets",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "4261dd",
+            "group_set_id": "08d9b0"
+          },
+          {
+            "words": [
+              "OFAC",
+              "SANCTIONS",
+              "SCREENING",
+              "WATCHLIST"
+            ],
+            "category": "Sanctions Compliance",
+            "color": "yellow",
+            "url": "https://ofac.treasury.gov/",
+            "description": "Sanctions compliance components: OFAC lists, broader sanctions regimes, automated screening processes, and watchlist databases used to block prohibited transactions",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.hm-treasury.gov.uk/fin_crime_sanctions.htm"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "e40ec9",
+            "group_set_id": "08d9b0"
+          }
+        ],
+        [
+          {
+            "words": [
+              "COREP",
+              "FINREP",
+              "XBRL",
+              "NSFR"
+            ],
+            "category": "Regulatory Reporting Formats",
+            "color": "purple",
+            "url": "https://www.eba.europa.eu/risk-analysis-and-data/reporting-frameworks",
+            "description": "Bank regulatory reporting standards: COREP for capital adequacy, FINREP for financial reporting, XBRL for structured data submission, and NSFR for stable funding ratios",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.bis.org/bcbs/publ/d424.htm"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "6feedc",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SPOOFING",
+              "LAYERING",
+              "SURVEILLANCE",
+              "INSIDER"
+            ],
+            "category": "Market Abuse & Trade Surveillance",
+            "color": "teal",
+            "url": "https://www.esma.europa.eu/regulation/trading/market-abuse",
+            "description": "Market conduct violations and detection methods: spoofing and layering manipulations, continuous trade surveillance systems, and insider trading monitoring under MAR/MiFID II",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.sec.gov/divisions/enforce/market-manipulation.shtml"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "0f71d8",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SFDR",
+              "TCFD",
+              "CSRD",
+              "GREENWASHING"
+            ],
+            "category": "ESG & Sustainability Compliance",
+            "color": "orange",
+            "url": "https://finance.ec.europa.eu/sustainable-finance/disclosures/sustainability-related-disclosure-financial-services-sector_en",
+            "description": "ESG regulatory obligations: SFDR for sustainable finance disclosure, TCFD for climate risk reporting, CSRD for corporate sustainability, and prevention of greenwashing",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.fsb-tcfd.org/"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "b0017e",
+            "group_set_id": "bc569b"
+          },
+          {
+            "words": [
+              "SR11-7",
+              "EXPLAINABILITY",
+              "BIAS",
+              "MODEL RISK"
+            ],
+            "category": "AI Governance in Finance",
+            "color": "indigo",
+            "url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm",
+            "description": "AI model risk management concerns: SR 11-7 supervisory guidance, explainability requirements for decisions, bias detection in credit/fraud models, and model validation risk",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.eba.europa.eu/regulation-and-policy/innovation-and-fintech/machine-learning-for-irb-models"
+            ],
+            "theme": "RegTech Key Concerns",
+            "group_item_id": "62f54b",
+            "group_set_id": "bc569b"
+          }
+        ]
+      ],
+      "game_set_id": "4703ec"
+    },
+    {
+      "theme": "RegTech Major Players",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "COMPLYADVANTAGE",
+              "TRULIOO",
+              "ONFIDO",
+              "JUMIO"
+            ],
+            "category": "AI-Native KYC & Identity Platforms",
+            "color": "blue",
+            "url": "https://complyadvantage.com/",
+            "description": "Modern AI-driven identity and compliance challengers: ComplyAdvantage for AML/sanctions, Trulioo for global KYC, Onfido for document verification, Jumio for biometric identity",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.trulioo.com/",
+              "https://onfido.com/",
+              "https://www.jumio.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "4bd962",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "CHAINALYSIS",
+              "ELLIPTIC",
+              "TRM LABS",
+              "COINFIRM"
+            ],
+            "category": "Crypto AML & Blockchain Analytics",
+            "color": "orange",
+            "url": "https://www.chainalysis.com/",
+            "description": "Blockchain intelligence platforms for crypto compliance: Chainalysis and Elliptic for transaction tracing, TRM Labs for crypto risk, Coinfirm for VASP AML obligations under the Travel Rule",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.elliptic.co/",
+              "https://www.trmlabs.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "5f886a",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "NICE ACTIMIZE",
+              "QUANTEXA",
+              "FEATURESPACE",
+              "UNIT21"
+            ],
+            "category": "Financial Crime Detection Engines",
+            "color": "red",
+            "url": "https://www.niceactimize.com/",
+            "description": "Platforms for detecting financial crime at scale: NICE Actimize for AML/fraud, Quantexa for network analytics, Featurespace for ML-based anomaly detection, Unit21 for no-code AML orchestration",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.quantexa.com/",
+              "https://www.featurespace.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "44da3f",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "WOLTERS KLUWER",
+              "REGNOLOGY",
+              "AXIOMSL",
+              "SS&C"
+            ],
+            "category": "Regulatory Reporting Platforms",
+            "color": "green",
+            "url": "https://www.wolterskluwer.com/en/solutions/onesumx",
+            "description": "Enterprise regulatory reporting vendors: Wolters Kluwer OneSumX, Regnology (ex-BearingPoint RegTech), AxiomSL (now Adenza), and SS&C Technologies for fund/prudential reporting",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.regnology.net/",
+              "https://www.axiomsl.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "c4476d",
+            "group_set_id": "6dda3a"
+          }
+        ],
+        [
+          {
+            "words": [
+              "LEXISNEXIS",
+              "DOW JONES",
+              "REFINITIV",
+              "MOODY'S"
+            ],
+            "category": "Risk Data & Screening Providers",
+            "color": "yellow",
+            "url": "https://risk.lexisnexis.com/",
+            "description": "Established risk data vendors: LexisNexis for KYC/adverse media, Dow Jones for sanctions/PEP lists, Refinitiv World-Check for screening, Moody's Analytics for credit and compliance data",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.refinitiv.com/en/financial-crime-insight/world-check-risk-intelligence"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "3975b1",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "BEHAVOX",
+              "STEELEYE",
+              "TRADINGHUB",
+              "B-NEXT"
+            ],
+            "category": "Trade & Communications Surveillance",
+            "color": "teal",
+            "url": "https://www.behavox.com/",
+            "description": "Market conduct and surveillance specialists: Behavox for AI communications monitoring, SteelEye for MiFID II/CFTC trade records, TradingHub for market abuse detection, b-next for surveillance analytics",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.steel-eye.com/",
+              "https://www.tradinghub.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "37764e",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "CORLYTICS",
+              "CLAUSEMATCH",
+              "ASCENT",
+              "THOMSON REUTERS"
+            ],
+            "category": "Regulatory Change Management",
+            "color": "purple",
+            "url": "https://www.corlytics.com/",
+            "description": "Platforms for tracking and managing regulatory change: Corlytics for risk-scored intelligence, Clausematch for policy management, Ascent for AI obligation mapping, Thomson Reuters Regulatory Intelligence",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.clausematch.com/",
+              "https://www.ascentregtech.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "c0d57d",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "FCA",
+              "MAS",
+              "BIS",
+              "ECB"
+            ],
+            "category": "Suptech — Regulators Using Technology",
+            "color": "indigo",
+            "url": "https://www.bis.org/about/bisih/topics/suptech.htm",
+            "description": "Regulators deploying their own technology (suptech): FCA TechSprints, MAS Project Veritas for AI governance, BIS Innovation Hub suptech work, ECB EUCLID analytical platform",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.fca.org.uk/innovation/regtech",
+              "https://www.mas.gov.sg/development/fintech/technologies---regtech"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "2afb85",
+            "group_set_id": "f0ed9e"
+          }
+        ]
+      ],
+      "game_set_id": "07f914"
+    },
+    {
+      "theme": "Rocket Science and Cosmic Extremes",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ION THRUSTER",
+              "HALL-EFFECT",
+              "SOLAR SAIL",
+              "PLASMA DRIVE"
+            ],
+            "category": "Advanced Propulsion Types",
+            "color": "teal",
+            "url": "https://www.nasa.gov/directorates/spacetech/game_changing_development/projects/NEXT-C",
+            "description": "Next-generation spacecraft propulsion technologies beyond chemical rockets",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/",
+              "https://www.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "900b8a",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "STELLAR",
+              "SUPERMASSIVE",
+              "PRIMORDIAL",
+              "INTERMEDIATE-MASS"
+            ],
+            "category": "Black Hole Types by Mass",
+            "color": "red",
+            "url": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-a-black-hole-k4.html",
+            "description": "Classification of black holes based on their formation mechanism and mass range",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.org/",
+              "https://hubblesite.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "875c9f",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "TELEMETRY",
+              "PAYLOAD FAIRING",
+              "ADCS",
+              "RTG"
+            ],
+            "category": "Spacecraft Subsystems",
+            "color": "orange",
+            "url": "https://www.nasa.gov/smallsat-institute/ssc/spacecraft-design/",
+            "description": "Core engineering subsystems found on modern spacecraft",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Operations/",
+              "https://www.jpl.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "7068b2",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "BEKENSTEIN ENTROPY",
+              "SCHWARZSCHILD RADIUS",
+              "LORENTZ FACTOR",
+              "MATCHED FILTERING"
+            ],
+            "category": "Black Hole Mathematics",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Bekenstein-Hawking_entropy",
+            "description": "Key mathematical quantities and techniques in black hole science and gravitational wave astronomy",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.ligo.caltech.edu/page/gw-sources",
+              "https://arxiv.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0e385b",
+            "group_set_id": "667855"
+          }
+        ],
+        [
+          {
+            "words": [
+              "VOYAGER 1",
+              "NEW HORIZONS",
+              "CASSINI",
+              "PARKER SOLAR PROBE"
+            ],
+            "category": "Deep Space Probes",
+            "color": "blue",
+            "url": "https://voyager.jpl.nasa.gov/",
+            "description": "Robotic spacecraft sent to explore the outer solar system and interstellar space",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://pluto.jhuapl.edu/",
+              "https://parkersolarprobe.jhuapl.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "4db816",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "NASA",
+              "ESA",
+              "ROSCOSMOS",
+              "ISRO"
+            ],
+            "category": "Space Agencies",
+            "color": "green",
+            "url": "https://www.nasa.gov/",
+            "description": "National government agencies responsible for space exploration and research",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.int/",
+              "https://www.isro.gov.in/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "6705d2",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "GW150914",
+              "BINARY MERGER",
+              "CHIRP SIGNAL",
+              "RINGDOWN"
+            ],
+            "category": "Gravitational Wave Events",
+            "color": "indigo",
+            "url": "https://www.ligo.caltech.edu/detection",
+            "description": "Stages and signatures of a gravitational wave event from a binary black hole coalescence",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://gwosc.org/",
+              "https://www.ligo.caltech.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0914f3",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "SPACEX",
+              "BLUE ORIGIN",
+              "ROCKET LAB",
+              "AXIOM SPACE"
+            ],
+            "category": "Commercial Space Companies",
+            "color": "yellow",
+            "url": "https://www.spacex.com/",
+            "description": "Private companies driving the new commercial space economy",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.blueorigin.com/",
+              "https://www.rocketlabusa.com/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "c75ea4",
+            "group_set_id": "67825f"
+          }
+        ]
+      ],
+      "game_set_id": "ded23b"
+    },
+    {
+      "theme": "Space Telescopes and Black Hole Anatomy",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HUBBLE",
+              "JWST",
+              "CHANDRA",
+              "TESS"
+            ],
+            "category": "Space Telescopes",
+            "color": "blue",
+            "url": "https://www.nasa.gov/mission_pages/hubble/main/index.html",
+            "description": "NASA space telescopes that observe the universe across different wavelengths",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://webb.nasa.gov/",
+              "https://chandra.harvard.edu/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "2a18df",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "EVENT HORIZON",
+              "SINGULARITY",
+              "ERGOSPHERE",
+              "PHOTON SPHERE"
+            ],
+            "category": "Black Hole Regions",
+            "color": "red",
+            "url": "https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-black-hole-58.html",
+            "description": "Distinct structural zones that define a rotating black hole's anatomy",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Black_hole",
+              "https://www.eso.org/public/news/eso1907/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "95791c",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "HAWKING RADIATION",
+              "ACCRETION DISK",
+              "TIDAL DISRUPTION",
+              "GRAVITATIONAL LENSING"
+            ],
+            "category": "Black Hole Phenomena",
+            "color": "purple",
+            "url": "https://www.scientificamerican.com/article/what-is-hawking-radiation/",
+            "description": "Observable or theoretical effects produced by black holes interacting with surrounding matter and light",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.ligo.caltech.edu/",
+              "https://eventhorizontelescope.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "c6dc95",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "SAGITTARIUS A*",
+              "M87*",
+              "TON 618",
+              "CYGNUS X-1"
+            ],
+            "category": "Famous Black Holes",
+            "color": "orange",
+            "url": "https://eventhorizontelescope.org/",
+            "description": "Named black holes that are landmarks in observational astronomy",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.eso.org/public/news/eso2208/",
+              "https://chandra.harvard.edu/photo/2011/cygx1/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "62df81",
+            "group_set_id": "a119c6"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FALCON 9",
+              "STARSHIP",
+              "ATLAS V",
+              "ARIANE 5"
+            ],
+            "category": "Launch Vehicles",
+            "color": "green",
+            "url": "https://www.spacex.com/vehicles/falcon-9/",
+            "description": "Orbital-class rockets used to launch satellites, spacecraft, and astronauts",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.ulalaunch.com/",
+              "https://www.arianespace.com/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "c0a5b5",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "GENERAL RELATIVITY",
+              "SPACETIME CURVATURE",
+              "GEODESIC",
+              "TIME DILATION"
+            ],
+            "category": "Einsteinian Concepts",
+            "color": "teal",
+            "url": "https://www.einstein-online.info/en/relativity/",
+            "description": "Core concepts from Einstein's theory of general relativity underpinning black hole physics",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.nobelprize.org/prizes/physics/",
+              "https://www.ligo.caltech.edu/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "050dbe",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "LIGO",
+              "VIRGO",
+              "KAGRA",
+              "LISA"
+            ],
+            "category": "Gravitational Wave Detectors",
+            "color": "indigo",
+            "url": "https://www.ligo.caltech.edu/",
+            "description": "Ground-based and planned space-based interferometers that detect gravitational waves from merging black holes",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.virgo-gw.eu/",
+              "https://www.elisascience.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "9edcf9",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "INFORMATION PARADOX",
+              "FIREWALL PARADOX",
+              "HOLOGRAPHIC PRINCIPLE",
+              "PAGE CURVE"
+            ],
+            "category": "Black Hole Quantum Mysteries",
+            "color": "yellow",
+            "url": "https://www.quantamagazine.org/black-hole-information-paradox/",
+            "description": "Unresolved theoretical puzzles at the intersection of quantum mechanics and black hole physics",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://arxiv.org/abs/hep-th/9310026",
+              "https://www.quantamagazine.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "d5e556",
+            "group_set_id": "3d8c0f"
+          }
+        ]
+      ],
+      "game_set_id": "41e2af"
+    },
+    {
+      "theme": "What Sets Expert Equine Vets Apart",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ETHOLOGY",
+              "DESENSITISE",
+              "RESTRAINT",
+              "APPROACH"
+            ],
+            "category": "Horsemanship and Handling Skills",
+            "color": "red",
+            "url": "https://www.bhs.org.uk/horse-care-and-welfare/horse-behaviour",
+            "description": "Non-clinical skills involving reading and safely managing equine behaviour",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.equinebehaviorconference.org",
+              "https://www.ivis.org"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ce0fcf",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "BEVA",
+              "AAEP",
+              "EVJ",
+              "WEVA"
+            ],
+            "category": "Professional Bodies and Leading Journals",
+            "color": "blue",
+            "url": "https://www.beva.org.uk",
+            "description": "Key organisations and publications driving equine veterinary continuing education",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org",
+              "https://onlinelibrary.wiley.com/journal/20423306"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "0dcb66",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "PRP",
+              "IRAP",
+              "MSC",
+              "STEM-CELL"
+            ],
+            "category": "Regenerative Medicine Therapies",
+            "color": "green",
+            "url": "https://www.sciencedirect.com/journal/the-veterinary-journal",
+            "description": "Emerging biologic treatments used to support tendon, ligament and joint healing in horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://pubmed.ncbi.nlm.nih.gov",
+              "https://www.ivis.org"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ca7959",
+            "group_set_id": "1c0555"
+          },
+          {
+            "words": [
+              "PROGNOSIS",
+              "EMPATHY",
+              "AUTHORITY",
+              "CLARITY"
+            ],
+            "category": "Client Communication Under Pressure",
+            "color": "yellow",
+            "url": "https://rcvs.org.uk/setting-standards/assuring-our-standards/professional-conduct",
+            "description": "Interpersonal competencies that distinguish exceptional equine practitioners in high-stakes conversations",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.rcvs.org.uk",
+              "https://bvra.co.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "28a921",
+            "group_set_id": "1c0555"
+          }
+        ],
+        [
+          {
+            "words": [
+              "DETOMIDINE",
+              "BUTORPHANOL",
+              "PHENYLBUTAZONE",
+              "FLUNIXIN"
+            ],
+            "category": "Core Equine Pharmacology Agents",
+            "color": "purple",
+            "url": "https://www.vmd.defra.gov.uk/productinformationdatabase",
+            "description": "Commonly used sedatives, opioids, and NSAIDs in equine clinical practice",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/controlled-substances",
+              "https://beva.org.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "ee3b38",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "WITHDRAWAL",
+              "FEI",
+              "COMPOUNDING",
+              "DOPING"
+            ],
+            "category": "Regulatory and Anti-Doping Pharmacology",
+            "color": "teal",
+            "url": "https://inside.fei.org/fei/cleansport/horses",
+            "description": "Rules and constraints around controlled substances and drug use in competition horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk",
+              "https://www.rcvs.org.uk"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "5632c3",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "BIOMECHANICS",
+              "GAIT-ANALYSIS",
+              "KINETICS",
+              "KINEMATICA"
+            ],
+            "category": "Locomotion Science and Gait Analytics",
+            "color": "orange",
+            "url": "https://onlinelibrary.wiley.com/journal/20423306",
+            "description": "Scientific understanding of how horses move, enabling objective lameness assessment",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://equinegaitanalysis.com",
+              "https://www.sciencedirect.com/journal/the-veterinary-journal"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "911079",
+            "group_set_id": "f56788"
+          },
+          {
+            "words": [
+              "FEE-SCHEDULE",
+              "INSURANCE",
+              "REFERRAL",
+              "RETENTION"
+            ],
+            "category": "Equine Practice Business Management",
+            "color": "indigo",
+            "url": "https://www.beva.org.uk/Business-Resources",
+            "description": "Commercial and operational skills that sustain a successful equine veterinary practice",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.rcvs.org.uk/setting-standards",
+              "https://www.aaep.org/info/practice-management"
+            ],
+            "theme": "What Sets Expert Equine Vets Apart",
+            "group_item_id": "5017c4",
+            "group_set_id": "f56788"
+          }
+        ]
+      ],
+      "game_set_id": "ed65a3"
+    },
+    {
+      "theme": "pydantic-ai Agent Primitives",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "RUN",
+              "RUN_SYNC",
+              "RUN_STREAM",
+              "OUTPUT_TYPE"
+            ],
+            "category": "pydantic-ai Agent execution methods",
+            "color": "blue",
+            "url": "https://ai.pydantic.dev/agents/",
+            "description": "Core methods on a pydantic-ai Agent for invoking the LLM loop synchronously, asynchronously, or streamed",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/agent/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "7d52c3",
+            "group_set_id": "bd077b"
+          },
+          {
+            "words": [
+              "TOOL",
+              "TOOL_PLAIN",
+              "RUNCONTEXT",
+              "TOOLDEFINITION"
+            ],
+            "category": "pydantic-ai tool registration",
+            "color": "green",
+            "url": "https://ai.pydantic.dev/tools/",
+            "description": "Decorators and types for defining LLM-callable tools in pydantic-ai",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/tools/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "75408a",
+            "group_set_id": "bd077b"
+          },
+          {
+            "words": [
+              "MODELRETRY",
+              "UNEXPECTEDMODELBEHAVIOR",
+              "USAGELIMITEXCEEDED",
+              "USERLIMITS"
+            ],
+            "category": "pydantic-ai error and retry types",
+            "color": "red",
+            "url": "https://ai.pydantic.dev/agents/#retries",
+            "description": "Exceptions and limits controlling retry behaviour and failure handling in pydantic-ai",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/exceptions/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "dcbebd",
+            "group_set_id": "bd077b"
+          },
+          {
+            "words": [
+              "OPENAIMODEL",
+              "ANTHROPICMODEL",
+              "GEMINIMODEL",
+              "OLLAMAMODEL"
+            ],
+            "category": "pydantic-ai model backends",
+            "color": "yellow",
+            "url": "https://ai.pydantic.dev/models/",
+            "description": "Pluggable LLM backend classes supported by pydantic-ai out of the box",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/models/openai/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "e4b7e6",
+            "group_set_id": "bd077b"
+          }
+        ],
+        [
+          {
+            "words": [
+              "TESTMODEL",
+              "FUNCTIONMODEL",
+              "FALLBACKMODEL",
+              "MODELSETTINGS"
+            ],
+            "category": "pydantic-ai specialised model types",
+            "color": "purple",
+            "url": "https://ai.pydantic.dev/testing-evals/",
+            "description": "Deterministic, custom, and fallback model implementations for testing and advanced routing",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/models/test/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "5d6371",
+            "group_set_id": "83bddc"
+          },
+          {
+            "words": [
+              "STREAMTEXT",
+              "STREAM_STRUCTURED",
+              "STREAMEDRUNRESULT",
+              "IS_COMPLETE"
+            ],
+            "category": "pydantic-ai streaming API",
+            "color": "teal",
+            "url": "https://ai.pydantic.dev/results/#streaming-results",
+            "description": "Async iterators and flags for consuming streamed text and structured output from pydantic-ai agents",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/result/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "f58900",
+            "group_set_id": "83bddc"
+          },
+          {
+            "words": [
+              "BASENODE",
+              "GRAPHRUNCONTEXT",
+              "HANDOFF",
+              "ENDNODE"
+            ],
+            "category": "pydantic-ai-graph multi-agent workflow",
+            "color": "orange",
+            "url": "https://ai.pydantic.dev/multi-agent-applications/",
+            "description": "Graph primitives for building stateful multi-agent pipelines in pydantic-ai",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://ai.pydantic.dev/graph/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "0b3b9c",
+            "group_set_id": "83bddc"
+          },
+          {
+            "words": [
+              "LOGFIRE",
+              "USAGELIMITS",
+              "USAGE",
+              "RUNRESULT"
+            ],
+            "category": "pydantic-ai observability and accounting",
+            "color": "indigo",
+            "url": "https://ai.pydantic.dev/logfire/",
+            "description": "Tools for tracing, token counting, and result introspection in pydantic-ai",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ai.pydantic.dev/api/usage/"
+            ],
+            "theme": "pydantic-ai Agent Primitives",
+            "group_item_id": "0bc42a",
+            "group_set_id": "83bddc"
+          }
+        ]
+      ],
+      "game_set_id": "d68138"
+    }
+  ]
+}

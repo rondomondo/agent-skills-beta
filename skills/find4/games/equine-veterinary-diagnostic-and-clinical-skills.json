@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-best.json",
+    "modified_at": "2026-06-28T01:04:30.510220",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "cd58ff"
+      ],
+      "group_set_ids": [
+        "4e589c",
+        "b847c9"
+      ],
+      "group_item_ids": [
+        "248cba",
+        "01de1e",
+        "396abe",
+        "0dd8a0",
+        "c8ed30",
+        "c8158c",
+        "4ed567",
+        "d58307"
+      ]
+    },
+    "id": "Qt-d2MSlbkpHIE8X",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-28T01:04:43.516012+00:00",
+      "parent_id": "Qt-d2MSlbkpHIE8X",
+      "parent_file": "/output/games/equine-veterinary-best.json",
+      "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+      "slug": "equine-veterinary-diagnostic-and-clinical-skills"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ULTRASONOGRAPHY",
+              "RADIOGRAPHY",
+              "ENDOSCOPY",
+              "THERMOGRAPHY"
+            ],
+            "category": "Diagnostic Imaging Modalities",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/lameness-diagnosis",
+            "description": "Key imaging technologies used by elite equine vets to visualise soft tissue, bone, airways and abdominal organs",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "248cba",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "FLEXION",
+              "NERVE-BLOCK",
+              "TROT-UP",
+              "FORCE-PLATE"
+            ],
+            "category": "Lameness Evaluation Tools",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/lameness",
+            "description": "Systematic methods used to localise and quantify gait abnormalities in horses, from hands-on flexion tests to inertial sensor technology",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://lameness-locator.com"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "01de1e",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "LAPAROTOMY",
+              "ARTHROSCOPY",
+              "HOBDAY",
+              "CASTRATION"
+            ],
+            "category": "Core Surgical Procedures",
+            "color": "green",
+            "url": "https://www.beva.org.uk/education/surgery",
+            "description": "Fundamental equine surgical competencies ranging from emergency colic surgery to elective orthopaedic and airway procedures",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/colic"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "396abe",
+            "group_set_id": "4e589c"
+          },
+          {
+            "words": [
+              "PPID",
+              "EMS",
+              "RAO",
+              "LYMPHOMA"
+            ],
+            "category": "Complex Medical Conditions",
+            "color": "yellow",
+            "url": "https://www.aaep.org/horsehealth/equine-cushings-disease-ppid",
+            "description": "Chronic and systemic diseases requiring deep internal medicine knowledge; PPID (Cushing's), metabolic syndrome, heaves, and neoplasia",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ker.com/equinews/equine-metabolic-syndrome/"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "0dd8a0",
+            "group_set_id": "4e589c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BSE",
+              "EMBRYO-TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION"
+            ],
+            "category": "Reproductive Technologies",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/reproduction",
+            "description": "Advanced assisted reproduction techniques from breeding soundness evaluation through to embryo and oocyte transfer programs",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/reproduction"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8ed30",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "TRIAMCINOLONE",
+              "HYALURONATE",
+              "PROSTRIDE",
+              "PRP"
+            ],
+            "category": "Intra-articular Medications",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/joint-injections",
+            "description": "Therapeutic agents injected directly into joints; range from corticosteroids to biologic therapies, each with different evidence bases and competition withdrawal profiles",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "c8158c",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "EOTRH",
+              "WOLF-TOOTH",
+              "POWER-FLOAT",
+              "DENTAL-RADIOGRAPHY"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "orange",
+            "url": "https://www.beva.org.uk/education/dentistry",
+            "description": "Key equine dental skills: identifying pathology like EOTRH in aged horses, performing extractions, and using power instruments and imaging for accurate diagnosis",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/dental-care"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "4ed567",
+            "group_set_id": "b847c9"
+          },
+          {
+            "words": [
+              "DETOMIDINE",
+              "ROMIFIDINE",
+              "BUTORPHANOL",
+              "ACEPROMAZINE"
+            ],
+            "category": "Chemical Restraint Agents",
+            "color": "indigo",
+            "url": "https://www.merckvetmanual.com/pharmacology/sedatives",
+            "description": "Sedative, analgesic, and tranquilliser drugs combined by equine vets for standing sedation and field anaesthesia procedures",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/sedation"
+            ],
+            "theme": "Equine Veterinary: Diagnostic & Clinical Skills",
+            "group_item_id": "d58307",
+            "group_set_id": "b847c9"
+          }
+        ]
+      ],
+      "game_set_id": "cd58ff"
+    }
+  ]
+}

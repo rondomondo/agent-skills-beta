@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "famous-bmx-racers.json",
+    "modified_at": "2026-06-27T15:41:33.730860",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "ec4483"
+      ],
+      "group_set_ids": [
+        "548068",
+        "44427d"
+      ],
+      "group_item_ids": [
+        "c452fb",
+        "3454a4",
+        "23d0d3",
+        "37c85a",
+        "ff4d9a",
+        "97bc45",
+        "c4c841",
+        "33e335"
+      ]
+    },
+    "id": "VEXKxx6SHyVuhL0t",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T15:41:50.483275+00:00",
+      "parent_id": "VEXKxx6SHyVuhL0t",
+      "parent_file": "output/games/famous-bmx-racers.json",
+      "theme": "Famous BMX Racers — Legends and Pioneers",
+      "slug": "famous-bmx-racers-legends-and-pioneers"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Famous BMX Racers — Legends and Pioneers",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "THOMSEN",
+              "ELLIS",
+              "KING",
+              "HERMAN"
+            ],
+            "category": "BMX Hall of Fame Legends",
+            "color": "yellow",
+            "url": "https://www.bmxmuseum.com/hall-of-fame",
+            "description": "Pioneering BMX racers inducted into the Hall of Fame: Stu Thomsen, Gary Ellis, Mike King, David Herman",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing#History"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "c452fb",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "FLOYD",
+              "HILL",
+              "PALMER",
+              "YOUNG"
+            ],
+            "category": "National Champions and BMX Innovators",
+            "color": "blue",
+            "url": "https://www.usabmx.com/site/sections/8",
+            "description": "BMX legends who shaped national racing: Steven Floyd, Greg Hill, James Palmer, Khalen Young",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "3454a4",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "SUPERCROSS",
+              "CRUISER",
+              "MOTOS",
+              "STRIDER"
+            ],
+            "category": "BMX Race Format and Equipment Terms",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/BMX_racing",
+            "description": "Key terms in competitive BMX: Supercross (SX) series, Cruiser class, Motos (qualifying heats), Strider (balance bikes for youngest riders)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.uci.org/bmx-racing/rules"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "23d0d3",
+            "group_set_id": "548068"
+          },
+          {
+            "words": [
+              "GATE DROP",
+              "BERM",
+              "TABLETOP",
+              "RHYTHM SECTION"
+            ],
+            "category": "BMX Track Features and Start Mechanics",
+            "color": "red",
+            "url": "https://www.uci.org/bmx-racing/tracks",
+            "description": "Essential BMX track elements: Gate Drop (race start), Berm (banked corner), Tabletop (flat-top jump), Rhythm Section (series of jumps)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "37c85a",
+            "group_set_id": "548068"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BENNETT",
+              "WILLOUGHBY",
+              "GRAVES",
+              "DEAN"
+            ],
+            "category": "Australian and US Elite Crossover Stars",
+            "color": "teal",
+            "url": "https://www.bmxaustralia.com.au",
+            "description": "BMX stars who competed at elite level across UCI and national circuits: Kyle Bennett (USA), Sam Willoughby (AUS), Jared Graves (AUS), Anthony Dean (AUS)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Sam_Willoughby"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "ff4d9a",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "ABA",
+              "NBL",
+              "UCI",
+              "USA BMX"
+            ],
+            "category": "BMX Sanctioning Bodies and Organisations",
+            "color": "purple",
+            "url": "https://www.usabmx.com",
+            "description": "Key organisations governing BMX racing: ABA (American Bicycle Association), NBL (National Bicycle League), UCI (Union Cycliste Internationale), USA BMX",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.uci.org/bmx-racing"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "97bc45",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "CHAUSSON",
+              "BUCHANAN",
+              "PAJON",
+              "WILLOUGHBY"
+            ],
+            "category": "Women Who Redefined BMX Racing",
+            "color": "orange",
+            "url": "https://www.uci.org/bmx-racing/women",
+            "description": "Female BMX racers who transformed women's competition: Anne-Caroline Chausson, Caroline Buchanan, Mariana Pajon, Alise Willoughby",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Mariana_Paj%C3%B3n"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "c4c841",
+            "group_set_id": "44427d"
+          },
+          {
+            "words": [
+              "STROMBERGS",
+              "KIMMANN",
+              "VAN GENDT",
+              "DAUDET"
+            ],
+            "category": "European Elite BMX Champions",
+            "color": "indigo",
+            "url": "https://www.uci.org/bmx-racing/europe",
+            "description": "Top BMX racers from Europe who dominated world-level competition: Māris Štrombergs (Latvia), Niek Kimmann (NL), Twan van Gendt (NL), Joris Daudet (France)",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/N%C3%A2ris_%C5%A0trombergs"
+            ],
+            "theme": "Famous BMX Racers — Legends and Pioneers",
+            "group_item_id": "33e335",
+            "group_set_id": "44427d"
+          }
+        ]
+      ],
+      "game_set_id": "ec4483"
+    }
+  ]
+}

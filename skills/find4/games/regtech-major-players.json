@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-29T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "regtech-key-concerns-and-players.json",
+    "modified_at": "2026-06-29T21:23:15.312705",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "07f914"
+      ],
+      "group_set_ids": [
+        "6dda3a",
+        "f0ed9e"
+      ],
+      "group_item_ids": [
+        "4bd962",
+        "5f886a",
+        "44da3f",
+        "c4476d",
+        "3975b1",
+        "37764e",
+        "c0d57d",
+        "2afb85"
+      ]
+    },
+    "id": "-2m33h7tu7vo28hv",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-29T21:23:21.497687+00:00",
+      "parent_id": "-2m33h7tu7vo28hv",
+      "parent_file": "/home/claude/output/games/regtech-key-concerns-and-players.json",
+      "theme": "RegTech Major Players",
+      "slug": "regtech-major-players"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "RegTech Major Players",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "COMPLYADVANTAGE",
+              "TRULIOO",
+              "ONFIDO",
+              "JUMIO"
+            ],
+            "category": "AI-Native KYC & Identity Platforms",
+            "color": "blue",
+            "url": "https://complyadvantage.com/",
+            "description": "Modern AI-driven identity and compliance challengers: ComplyAdvantage for AML/sanctions, Trulioo for global KYC, Onfido for document verification, Jumio for biometric identity",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.trulioo.com/",
+              "https://onfido.com/",
+              "https://www.jumio.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "4bd962",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "CHAINALYSIS",
+              "ELLIPTIC",
+              "TRM LABS",
+              "COINFIRM"
+            ],
+            "category": "Crypto AML & Blockchain Analytics",
+            "color": "orange",
+            "url": "https://www.chainalysis.com/",
+            "description": "Blockchain intelligence platforms for crypto compliance: Chainalysis and Elliptic for transaction tracing, TRM Labs for crypto risk, Coinfirm for VASP AML obligations under the Travel Rule",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.elliptic.co/",
+              "https://www.trmlabs.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "5f886a",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "NICE ACTIMIZE",
+              "QUANTEXA",
+              "FEATURESPACE",
+              "UNIT21"
+            ],
+            "category": "Financial Crime Detection Engines",
+            "color": "red",
+            "url": "https://www.niceactimize.com/",
+            "description": "Platforms for detecting financial crime at scale: NICE Actimize for AML/fraud, Quantexa for network analytics, Featurespace for ML-based anomaly detection, Unit21 for no-code AML orchestration",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.quantexa.com/",
+              "https://www.featurespace.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "44da3f",
+            "group_set_id": "6dda3a"
+          },
+          {
+            "words": [
+              "WOLTERS KLUWER",
+              "REGNOLOGY",
+              "AXIOMSL",
+              "SS&C"
+            ],
+            "category": "Regulatory Reporting Platforms",
+            "color": "green",
+            "url": "https://www.wolterskluwer.com/en/solutions/onesumx",
+            "description": "Enterprise regulatory reporting vendors: Wolters Kluwer OneSumX, Regnology (ex-BearingPoint RegTech), AxiomSL (now Adenza), and SS&C Technologies for fund/prudential reporting",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.regnology.net/",
+              "https://www.axiomsl.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "c4476d",
+            "group_set_id": "6dda3a"
+          }
+        ],
+        [
+          {
+            "words": [
+              "LEXISNEXIS",
+              "DOW JONES",
+              "REFINITIV",
+              "MOODY'S"
+            ],
+            "category": "Risk Data & Screening Providers",
+            "color": "yellow",
+            "url": "https://risk.lexisnexis.com/",
+            "description": "Established risk data vendors: LexisNexis for KYC/adverse media, Dow Jones for sanctions/PEP lists, Refinitiv World-Check for screening, Moody's Analytics for credit and compliance data",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.refinitiv.com/en/financial-crime-insight/world-check-risk-intelligence"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "3975b1",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "BEHAVOX",
+              "STEELEYE",
+              "TRADINGHUB",
+              "B-NEXT"
+            ],
+            "category": "Trade & Communications Surveillance",
+            "color": "teal",
+            "url": "https://www.behavox.com/",
+            "description": "Market conduct and surveillance specialists: Behavox for AI communications monitoring, SteelEye for MiFID II/CFTC trade records, TradingHub for market abuse detection, b-next for surveillance analytics",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.steel-eye.com/",
+              "https://www.tradinghub.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "37764e",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "CORLYTICS",
+              "CLAUSEMATCH",
+              "ASCENT",
+              "THOMSON REUTERS"
+            ],
+            "category": "Regulatory Change Management",
+            "color": "purple",
+            "url": "https://www.corlytics.com/",
+            "description": "Platforms for tracking and managing regulatory change: Corlytics for risk-scored intelligence, Clausematch for policy management, Ascent for AI obligation mapping, Thomson Reuters Regulatory Intelligence",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.clausematch.com/",
+              "https://www.ascentregtech.com/"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "c0d57d",
+            "group_set_id": "f0ed9e"
+          },
+          {
+            "words": [
+              "FCA",
+              "MAS",
+              "BIS",
+              "ECB"
+            ],
+            "category": "Suptech — Regulators Using Technology",
+            "color": "indigo",
+            "url": "https://www.bis.org/about/bisih/topics/suptech.htm",
+            "description": "Regulators deploying their own technology (suptech): FCA TechSprints, MAS Project Veritas for AI governance, BIS Innovation Hub suptech work, ECB EUCLID analytical platform",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.fca.org.uk/innovation/regtech",
+              "https://www.mas.gov.sg/development/fintech/technologies---regtech"
+            ],
+            "theme": "RegTech Major Players",
+            "group_item_id": "2afb85",
+            "group_set_id": "f0ed9e"
+          }
+        ]
+      ],
+      "game_set_id": "07f914"
+    }
+  ]
+}

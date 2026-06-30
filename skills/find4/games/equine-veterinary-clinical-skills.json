@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-skills.json",
+    "modified_at": "2026-06-27T23:46:07.982531",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "a9e4db"
+      ],
+      "group_set_ids": [
+        "0cccca",
+        "49e3b5"
+      ],
+      "group_item_ids": [
+        "d9f2c7",
+        "49788c",
+        "be519e",
+        "fafa1a",
+        "004068",
+        "a4e9f7",
+        "156b7e",
+        "5a5943"
+      ]
+    },
+    "id": "wCkDJANKiegVlA11",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T23:46:15.781349+00:00",
+      "parent_id": "wCkDJANKiegVlA11",
+      "parent_file": "/home/claude/output/games/equine-veterinary-skills.json",
+      "theme": "Equine Veterinary Clinical Skills",
+      "slug": "equine-veterinary-clinical-skills"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary Clinical Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "FLEXION",
+              "BLOCK",
+              "HOOF-TESTER",
+              "ASYMMETRY"
+            ],
+            "category": "Lameness Localisation Techniques",
+            "color": "red",
+            "url": "https://www.beva.org.uk/Portals/0/Documents/Resources/Equine%20Lameness%20Assessment.pdf",
+            "description": "Core tools for systematically identifying the source of lameness in a horse",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/lameness-examination",
+              "https://onlinelibrary.wiley.com/journal/20423306"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "d9f2c7",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "SCINTIGRAPHY",
+              "MRI",
+              "CT",
+              "PET"
+            ],
+            "category": "Advanced Equine Imaging Modalities",
+            "color": "blue",
+            "url": "https://avmajournals.avma.org/loi/ajvr",
+            "description": "High-level diagnostic imaging technologies used to evaluate musculoskeletal and soft-tissue pathology",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equinemri.com",
+              "https://www.ivis.org"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "49788c",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "VENTRICULOCORDECTOMY",
+              "LARYNGOPLASTY",
+              "PALATOPLASTY",
+              "ARYTENOIDECTOMY"
+            ],
+            "category": "Upper Airway Surgical Procedures",
+            "color": "green",
+            "url": "https://www.sciencedirect.com/journal/the-veterinary-journal",
+            "description": "Surgical interventions on the equine larynx and palate to correct dynamic airway obstruction",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://pubmed.ncbi.nlm.nih.gov",
+              "https://beva.org.uk"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "be519e",
+            "group_set_id": "0cccca"
+          },
+          {
+            "words": [
+              "EMBRYO-FLUSH",
+              "AI",
+              "FOLLICLE-TRACK",
+              "SEMEN-EVAL"
+            ],
+            "category": "Equine Reproductive Techniques",
+            "color": "yellow",
+            "url": "https://www.iets.org/equine",
+            "description": "Core assisted reproduction procedures in equine stud medicine",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://aaep.org/guidelines/reproduction-guidelines",
+              "https://www.sciencedirect.com/journal/theriogenology"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "fafa1a",
+            "group_set_id": "0cccca"
+          }
+        ],
+        [
+          {
+            "words": [
+              "PPID",
+              "EMS",
+              "LAMINITIS",
+              "HYPERLIPIDEMIA"
+            ],
+            "category": "Equine Endocrine and Metabolic Diseases",
+            "color": "purple",
+            "url": "https://onlinelibrary.wiley.com/journal/19391676",
+            "description": "Metabolic and hormonal conditions commonly managed in equine internal medicine",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ecir.groups.io/g/main",
+              "https://www.ivis.org/books/equine-internal-medicine"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "004068",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "NASOGASTRIC",
+              "TROCARIZE",
+              "ENTEROTOMY",
+              "VOLVULUS"
+            ],
+            "category": "Colic Intervention Toolkit",
+            "color": "teal",
+            "url": "https://www.aaep.org/info/horse-health?publication=856",
+            "description": "Procedures used in the triage and surgical management of equine colic",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.sciencedirect.com/book/9781416035916/equine-surgery",
+              "https://pubmed.ncbi.nlm.nih.gov"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "a4e9f7",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "EOTRH",
+              "WOLF-TOOTH",
+              "INFUNDIBULAR",
+              "POWER-FLOAT"
+            ],
+            "category": "Equine Dental Pathology and Procedures",
+            "color": "orange",
+            "url": "https://www.beva.org.uk/Portals/0/Documents/Dental/BEVA-dental-guidelines.pdf",
+            "description": "Conditions and tools encountered in equine dentistry and oral medicine",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.equinedentistry.com",
+              "https://www.ivis.org/library/equine-dentistry"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "156b7e",
+            "group_set_id": "49e3b5"
+          },
+          {
+            "words": [
+              "SEPTICAEMIA",
+              "FPT",
+              "UROPERITONEUM",
+              "PREMATURITY"
+            ],
+            "category": "Neonatal Foal Medicine",
+            "color": "indigo",
+            "url": "https://onlinelibrary.wiley.com/journal/20423306",
+            "description": "Critical conditions and diagnoses in sick foals during the neonatal period",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.ivis.org/books/current-therapy-in-equine-medicine",
+              "https://aaep.org/guidelines/neonatal-care"
+            ],
+            "theme": "Equine Veterinary Clinical Skills",
+            "group_item_id": "5a5943",
+            "group_set_id": "49e3b5"
+          }
+        ]
+      ],
+      "game_set_id": "a9e4db"
+    }
+  ]
+}

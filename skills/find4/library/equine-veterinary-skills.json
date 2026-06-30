@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-skills.json",
+    "modified_at": "2026-06-28T00:18:53.670257",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "group_set_ids": [
+        "d00e70",
+        "69267a",
+        "8bc638",
+        "90b25a"
+      ],
+      "game_set_ids": [
+        "1fb8ea",
+        "58c4c2"
+      ],
+      "group_item_ids": [
+        "adf2ea",
+        "dd0038",
+        "949b6c",
+        "6313f5",
+        "88f063",
+        "04ba05",
+        "6935e4",
+        "0b2f92",
+        "8e04eb",
+        "d6456b",
+        "c7835f",
+        "c5f4db",
+        "6d392b",
+        "e01280",
+        "5781bc",
+        "5492b6"
+      ]
+    },
+    "id": "dgEHFmkfd-mPjC8L"
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary: Clinical Skills In Demand",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HOOF TESTERS",
+              "FLEXION TEST",
+              "NERVE BLOCK",
+              "JOINT BLOCK"
+            ],
+            "category": "Lameness Diagnostic Toolkit",
+            "color": "red",
+            "url": "https://aaep.org/guidelines/lameness-evaluation",
+            "description": "The four hands-on tools that form the systematic foundation of every lameness workup before imaging is reached",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/musculoskeletal-system/lameness-in-horses"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "adf2ea",
+            "group_set_id": "d00e70"
+          },
+          {
+            "words": [
+              "LAMINITIS",
+              "NAVICULAR",
+              "SUSPENSORY",
+              "DDFT"
+            ],
+            "category": "High-Prevalence Distal Limb Conditions",
+            "color": "blue",
+            "url": "https://www.merckvetmanual.com/musculoskeletal-system/lameness-in-horses/overview-of-lameness-in-horses",
+            "description": "Structural conditions of the equine distal limb that drive the majority of lameness caseload",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/equine-lameness-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "dd0038",
+            "group_set_id": "d00e70"
+          },
+          {
+            "words": [
+              "EMBRYO TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION",
+              "OOCYTE TRANSFER"
+            ],
+            "category": "Advanced Assisted Reproduction",
+            "color": "green",
+            "url": "https://www.ivis.org/advances_in_equine_reproduction",
+            "description": "Cutting-edge ART techniques that separate top stud vets from competent ones",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.tandfonline.com/toc/yeqv20/current"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "949b6c",
+            "group_set_id": "d00e70"
+          },
+          {
+            "words": [
+              "NASOGASTRIC TUBE",
+              "PERITONEAL TAP",
+              "RECTAL EXAM",
+              "PAIN SCORING"
+            ],
+            "category": "Colic Assessment Essentials",
+            "color": "yellow",
+            "url": "https://aaep.org/guidelines/colic",
+            "description": "Hands-on assessment tools every equine vet must master \u2014 missing a surgical colic is the critical failure mode",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/digestive-system/colic-in-horses"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "6313f5",
+            "group_set_id": "d00e70"
+          }
+        ],
+        [
+          {
+            "words": [
+              "POWER FLOAT",
+              "REPULSION",
+              "EOTRH",
+              "INFUNDIBULAR CARIES"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "purple",
+            "url": "https://www.beva.org.uk/dentistry-resources",
+            "description": "Specialised dental skills rapidly professionalising away from general equine practice",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/dentistry/dentistry-in-horses"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "88f063",
+            "group_set_id": "69267a"
+          },
+          {
+            "words": [
+              "LARYNGOPLASTY",
+              "ARTHROSCOPY",
+              "LAPAROTOMY",
+              "ENUCLEATION"
+            ],
+            "category": "Major Surgical Procedures",
+            "color": "teal",
+            "url": "https://www.ivis.org/equine-surgery-resources",
+            "description": "High-skill procedures defining the upper tier of equine surgical competence",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.vet.cornell.edu/hospitals/equine"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "04ba05",
+            "group_set_id": "69267a"
+          },
+          {
+            "words": [
+              "SEPSIS",
+              "PASSIVE TRANSFER FAILURE",
+              "PREMATURITY",
+              "NEONATAL ISOERYTHROLYSIS"
+            ],
+            "category": "Critical Neonatal Foal Presentations",
+            "color": "orange",
+            "url": "https://aaep.org/guidelines/neonatal-care",
+            "description": "High-stakes foal NICU conditions where expert recognition determines survival in the first hours",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/management-and-nutrition/management-of-the-foal"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "6935e4",
+            "group_set_id": "69267a"
+          },
+          {
+            "words": [
+              "ATRIAL FIBRILLATION",
+              "ECHOCARDIOGRAPHY",
+              "VALVULAR REGURGITATION",
+              "ARRHYTHMIA"
+            ],
+            "category": "Equine Cardiac Assessment",
+            "color": "indigo",
+            "url": "https://www.vet.upenn.edu/research/centers-laboratories/equine-cardiology",
+            "description": "Cardiac skills separating an equine internist from a generalist \u2014 AF is the most common arrhythmia encountered",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/cardiac-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "0b2f92",
+            "group_set_id": "69267a"
+          }
+        ]
+      ],
+      "game_set_id": "1fb8ea"
+    },
+    {
+      "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DETOMIDINE",
+              "ROMIFIDINE",
+              "BUTORPHANOL",
+              "ACEPROMAZINE"
+            ],
+            "category": "Equine Sedation Pharmacology",
+            "color": "blue",
+            "url": "https://www.merckvetmanual.com/pharmacology/anesthetics-and-analgesics/standing-sedation-in-horses",
+            "description": "Core sedation agents every equine vet must know cold \u2014 combinations, doses, and when NOT to use ACP",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/analgesia-guidelines"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "8e04eb",
+            "group_set_id": "8bc638"
+          },
+          {
+            "words": [
+              "STANDING MRI",
+              "NUCLEAR SCINTIGRAPHY",
+              "DIGITAL RADIOGRAPHY",
+              "ULTRASONOGRAPHY"
+            ],
+            "category": "Advanced Diagnostic Imaging",
+            "color": "green",
+            "url": "https://www.hallmarq.net/equine-mri-resources",
+            "description": "The imaging ladder expert diagnosticians navigate \u2014 knowing which modality to reach for and when saves time and money",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.ivis.org/equine-imaging-symposia"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "d6456b",
+            "group_set_id": "8bc638"
+          },
+          {
+            "words": [
+              "PRP",
+              "IRAP",
+              "STEM CELL",
+              "SHOCKWAVE"
+            ],
+            "category": "Regenerative and Biologic Therapies",
+            "color": "red",
+            "url": "https://aaep.org/guidelines/regenerative-medicine",
+            "description": "Emerging treatments where top orthopaedic specialists separate evidence from hype",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.rvc.ac.uk/equine-regenerative-medicine"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "c7835f",
+            "group_set_id": "8bc638"
+          },
+          {
+            "words": [
+              "ANASTOMOSIS",
+              "JEJUNOCAECAL",
+              "LIDOCAINE CRI",
+              "POST-OP ILEUS"
+            ],
+            "category": "Expert Colic Surgeon Skills",
+            "color": "yellow",
+            "url": "https://www.ivis.org/equine-surgery-colic",
+            "description": "Techniques defining the upper echelon of colic surgeons \u2014 what you need to operate confidently in field conditions",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://vet.osu.edu/vmc/companion/equine-surgery"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "c5f4db",
+            "group_set_id": "8bc638"
+          }
+        ],
+        [
+          {
+            "words": [
+              "EMS",
+              "PPID",
+              "INSULIN DYSREGULATION",
+              "LAMINITIS TRIGGER"
+            ],
+            "category": "Equine Metabolic Syndrome Cluster",
+            "color": "orange",
+            "url": "https://www.merckvetmanual.com/metabolic-disorders/equine-metabolic-syndrome",
+            "description": "The interconnected metabolic triad that expert internists see as a system \u2014 not three separate diagnoses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://ecir.groups.io/g/main/wiki/"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "6d392b",
+            "group_set_id": "90b25a"
+          },
+          {
+            "words": [
+              "ENDOMETRIAL BIOPSY",
+              "CASLICK'S",
+              "REPEAT BREEDER",
+              "POST-THAW MOTILITY"
+            ],
+            "category": "Reproduction Problem-Solving",
+            "color": "purple",
+            "url": "https://www.ivis.org/equine-reproduction",
+            "description": "Skills separating a top stud vet from one who just flushes embryos",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equinerepro.org/resources"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "e01280",
+            "group_set_id": "90b25a"
+          },
+          {
+            "words": [
+              "STRANGLES QUARANTINE",
+              "EHV BIOSECURITY",
+              "EIA",
+              "ANTHELMINTIC ROTATION"
+            ],
+            "category": "Herd Biosecurity Protocols",
+            "color": "teal",
+            "url": "https://www.beva.org.uk/biosecurity",
+            "description": "Infectious disease management skills that protect entire yards \u2014 experts lead, generalists react",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://aaep.org/guidelines/biosecurity"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "5781bc",
+            "group_set_id": "90b25a"
+          },
+          {
+            "words": [
+              "PROGNOSIS COMMUNICATION",
+              "REFERRAL DECISION",
+              "MEDICOLEGAL RECORDS",
+              "CASCADE PRESCRIBING"
+            ],
+            "category": "Professional Practice Differentiators",
+            "color": "indigo",
+            "url": "https://www.rcvs.org.uk/setting-standards/advice-and-guidance/code-of-professional-conduct-for-veterinary-surgeons/",
+            "description": "Non-clinical skills that separate trusted expert practitioners \u2014 knowing when to refer without losing the client is a hallmark",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/professional-development"
+            ],
+            "theme": "Equine Vet Expert Differentiators: What Sets the Best Apart",
+            "group_item_id": "5492b6",
+            "group_set_id": "90b25a"
+          }
+        ]
+      ],
+      "game_set_id": "58c4c2"
+    }
+  ]
+}

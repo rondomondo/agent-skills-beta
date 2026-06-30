@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-skills.json",
+    "modified_at": "2026-06-27T23:50:03.740411",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "05e2ef"
+      ],
+      "group_set_ids": [
+        "55d62e",
+        "70aaad"
+      ],
+      "group_item_ids": [
+        "ca6741",
+        "688c55",
+        "1277b5",
+        "0f3dc6",
+        "d7c1fc",
+        "4bf275",
+        "b2693e",
+        "0b2f92"
+      ]
+    },
+    "id": "L59T56prFLuhgoqk",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T23:50:08.961964+00:00",
+      "parent_id": "L59T56prFLuhgoqk",
+      "parent_file": "/home/claude/output/games/equine-veterinary-skills.json",
+      "theme": "Equine Veterinary: Clinical Skills In Demand",
+      "slug": "equine-veterinary-clinical-skills-in-demand"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary: Clinical Skills In Demand",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HOOF TESTERS",
+              "FLEXION TEST",
+              "NERVE BLOCK",
+              "JOINT BLOCK"
+            ],
+            "category": "Lameness Diagnostic Toolkit",
+            "color": "red",
+            "url": "https://www.merckvetmanual.com/musculoskeletal-system/lameness-in-horses",
+            "description": "The four foundational hands-on tools used during a systematic lameness workup before imaging is reached",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://aaep.org/guidelines/lameness-evaluation"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "ca6741",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "LAMINITIS",
+              "NAVICULAR",
+              "SUSPENSORY",
+              "DDFT"
+            ],
+            "category": "Common Orthopaedic Conditions",
+            "color": "blue",
+            "url": "https://www.rvc.ac.uk/equine/educational-resources",
+            "description": "High-prevalence structural conditions of the equine distal limb that drive the majority of lameness caseload",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/equine-lameness-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "688c55",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "EMBRYO TRANSFER",
+              "ICSI",
+              "CRYOPRESERVATION",
+              "OOCYTE TRANSFER"
+            ],
+            "category": "Advanced Equine Reproduction Techniques",
+            "color": "green",
+            "url": "https://www.ivis.org/advances_in_equine_reproduction",
+            "description": "Cutting-edge assisted reproductive technologies separating the best stud vets from competent ones",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.tandfonline.com/toc/yeqv20/current"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "1277b5",
+            "group_set_id": "55d62e"
+          },
+          {
+            "words": [
+              "NASOGASTRIC TUBE",
+              "PERITONEAL TAP",
+              "RECTAL EXAM",
+              "PAIN SCORE"
+            ],
+            "category": "Colic Assessment Essentials",
+            "color": "yellow",
+            "url": "https://aaep.org/guidelines/colic",
+            "description": "The hands-on assessment tools every equine vet must master — failure here means missing a surgical colic",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/digestive-system/colic-in-horses"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "0f3dc6",
+            "group_set_id": "55d62e"
+          }
+        ],
+        [
+          {
+            "words": [
+              "POWER FLOAT",
+              "REPULSION",
+              "EOTRH",
+              "INFUNDIBULAR CARIES"
+            ],
+            "category": "Equine Dentistry Procedures",
+            "color": "purple",
+            "url": "https://www.equinedentistry.com/resources",
+            "description": "Specialised dental skills that are rapidly professionalising and pulling away from GP equine practice",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://beva.org.uk/dentistry-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "d7c1fc",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "LARYNGOPLASTY",
+              "ARTHROSCOPY",
+              "LAPAROTOMY",
+              "ENUCLEATION"
+            ],
+            "category": "Major Equine Surgical Procedures",
+            "color": "teal",
+            "url": "https://www.ivis.org/equine-surgery-resources",
+            "description": "High-skill surgical procedures that define the upper tier of equine surgical competence",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.vet.cornell.edu/hospitals/equine"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "4bf275",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "SEPSIS",
+              "FAILURE OF PASSIVE TRANSFER",
+              "PREMATURITY",
+              "NEONATAL ISOERYTHROLYSIS"
+            ],
+            "category": "Neonatal Foal Critical Presentations",
+            "color": "orange",
+            "url": "https://www.merckvetmanual.com/management-and-nutrition/management-of-the-foal",
+            "description": "High-stakes foal NICU conditions — expert recognition determines life or death in the first hours",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://aaep.org/guidelines/neonatal-care"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "b2693e",
+            "group_set_id": "70aaad"
+          },
+          {
+            "words": [
+              "ATRIAL FIBRILLATION",
+              "VALVULAR REGURGITATION",
+              "ECHOCARDIOGRAPHY",
+              "ARRHYTHMIA"
+            ],
+            "category": "Equine Cardiac Assessment",
+            "color": "indigo",
+            "url": "https://www.vet.upenn.edu/research/centers-laboratories/equine-cardiology",
+            "description": "Cardiac skills separating an equine internist from a generalist — AF is the most common arrhythmia encountered",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/cardiac-resources"
+            ],
+            "theme": "Equine Veterinary: Clinical Skills In Demand",
+            "group_item_id": "0b2f92",
+            "group_set_id": "70aaad"
+          }
+        ]
+      ],
+      "game_set_id": "05e2ef"
+    }
+  ]
+}

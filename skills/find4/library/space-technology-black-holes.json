@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T10:00:00Z",
+    "source": "stdin",
+    "suggested_name": "space-technology-black-holes.json",
+    "modified_at": "2026-06-27T15:02:16.284355",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "group_set_ids": [
+        "a119c6",
+        "3d8c0f",
+        "667855",
+        "67825f"
+      ],
+      "game_set_ids": [
+        "41e2af",
+        "ded23b"
+      ],
+      "group_item_ids": [
+        "2a18df",
+        "95791c",
+        "c6dc95",
+        "62df81",
+        "c0a5b5",
+        "050dbe",
+        "9edcf9",
+        "d5e556",
+        "900b8a",
+        "875c9f",
+        "7068b2",
+        "0e385b",
+        "4db816",
+        "6705d2",
+        "0914f3",
+        "c75ea4"
+      ]
+    },
+    "id": "bRxKDJLJi3k23u3B",
+    "split_info": {
+      "role": "combined",
+      "split_at": "2026-06-27T15:02:22.457131+00:00",
+      "source_file": "output/games/space-technology-black-holes.json"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Space Telescopes and Black Hole Anatomy",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HUBBLE",
+              "JWST",
+              "CHANDRA",
+              "TESS"
+            ],
+            "category": "Space Telescopes",
+            "color": "blue",
+            "url": "https://www.nasa.gov/mission_pages/hubble/main/index.html",
+            "description": "NASA space telescopes that observe the universe across different wavelengths",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://webb.nasa.gov/",
+              "https://chandra.harvard.edu/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "2a18df",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "EVENT HORIZON",
+              "SINGULARITY",
+              "ERGOSPHERE",
+              "PHOTON SPHERE"
+            ],
+            "category": "Black Hole Regions",
+            "color": "red",
+            "url": "https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-a-black-hole-58.html",
+            "description": "Distinct structural zones that define a rotating black hole's anatomy",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Black_hole",
+              "https://www.eso.org/public/news/eso1907/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "95791c",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "HAWKING RADIATION",
+              "ACCRETION DISK",
+              "TIDAL DISRUPTION",
+              "GRAVITATIONAL LENSING"
+            ],
+            "category": "Black Hole Phenomena",
+            "color": "purple",
+            "url": "https://www.scientificamerican.com/article/what-is-hawking-radiation/",
+            "description": "Observable or theoretical effects produced by black holes interacting with surrounding matter and light",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.ligo.caltech.edu/",
+              "https://eventhorizontelescope.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "c6dc95",
+            "group_set_id": "a119c6"
+          },
+          {
+            "words": [
+              "SAGITTARIUS A*",
+              "M87*",
+              "TON 618",
+              "CYGNUS X-1"
+            ],
+            "category": "Famous Black Holes",
+            "color": "orange",
+            "url": "https://eventhorizontelescope.org/",
+            "description": "Named black holes that are landmarks in observational astronomy",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.eso.org/public/news/eso2208/",
+              "https://chandra.harvard.edu/photo/2011/cygx1/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "62df81",
+            "group_set_id": "a119c6"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FALCON 9",
+              "STARSHIP",
+              "ATLAS V",
+              "ARIANE 5"
+            ],
+            "category": "Launch Vehicles",
+            "color": "green",
+            "url": "https://www.spacex.com/vehicles/falcon-9/",
+            "description": "Orbital-class rockets used to launch satellites, spacecraft, and astronauts",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.ulalaunch.com/",
+              "https://www.arianespace.com/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "c0a5b5",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "GENERAL RELATIVITY",
+              "SPACETIME CURVATURE",
+              "GEODESIC",
+              "TIME DILATION"
+            ],
+            "category": "Einsteinian Concepts",
+            "color": "teal",
+            "url": "https://www.einstein-online.info/en/relativity/",
+            "description": "Core concepts from Einstein's theory of general relativity underpinning black hole physics",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.nobelprize.org/prizes/physics/",
+              "https://www.ligo.caltech.edu/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "050dbe",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "LIGO",
+              "VIRGO",
+              "KAGRA",
+              "LISA"
+            ],
+            "category": "Gravitational Wave Detectors",
+            "color": "indigo",
+            "url": "https://www.ligo.caltech.edu/",
+            "description": "Ground-based and planned space-based interferometers that detect gravitational waves from merging black holes",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.virgo-gw.eu/",
+              "https://www.elisascience.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "9edcf9",
+            "group_set_id": "3d8c0f"
+          },
+          {
+            "words": [
+              "INFORMATION PARADOX",
+              "FIREWALL PARADOX",
+              "HOLOGRAPHIC PRINCIPLE",
+              "PAGE CURVE"
+            ],
+            "category": "Black Hole Quantum Mysteries",
+            "color": "yellow",
+            "url": "https://www.quantamagazine.org/black-hole-information-paradox/",
+            "description": "Unresolved theoretical puzzles at the intersection of quantum mechanics and black hole physics",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://arxiv.org/abs/hep-th/9310026",
+              "https://www.quantamagazine.org/"
+            ],
+            "theme": "Space Telescopes and Black Hole Anatomy",
+            "group_item_id": "d5e556",
+            "group_set_id": "3d8c0f"
+          }
+        ]
+      ],
+      "game_set_id": "41e2af"
+    },
+    {
+      "theme": "Rocket Science and Cosmic Extremes",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "ION THRUSTER",
+              "HALL-EFFECT",
+              "SOLAR SAIL",
+              "PLASMA DRIVE"
+            ],
+            "category": "Advanced Propulsion Types",
+            "color": "teal",
+            "url": "https://www.nasa.gov/directorates/spacetech/game_changing_development/projects/NEXT-C",
+            "description": "Next-generation spacecraft propulsion technologies beyond chemical rockets",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/",
+              "https://www.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "900b8a",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "STELLAR",
+              "SUPERMASSIVE",
+              "PRIMORDIAL",
+              "INTERMEDIATE-MASS"
+            ],
+            "category": "Black Hole Types by Mass",
+            "color": "red",
+            "url": "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-a-black-hole-k4.html",
+            "description": "Classification of black holes based on their formation mechanism and mass range",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.org/",
+              "https://hubblesite.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "875c9f",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "TELEMETRY",
+              "PAYLOAD FAIRING",
+              "ADCS",
+              "RTG"
+            ],
+            "category": "Spacecraft Subsystems",
+            "color": "orange",
+            "url": "https://www.nasa.gov/smallsat-institute/ssc/spacecraft-design/",
+            "description": "Core engineering subsystems found on modern spacecraft",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.esa.int/Enabling_Support/Operations/",
+              "https://www.jpl.nasa.gov/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "7068b2",
+            "group_set_id": "667855"
+          },
+          {
+            "words": [
+              "BEKENSTEIN ENTROPY",
+              "SCHWARZSCHILD RADIUS",
+              "LORENTZ FACTOR",
+              "MATCHED FILTERING"
+            ],
+            "category": "Black Hole Mathematics",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Bekenstein-Hawking_entropy",
+            "description": "Key mathematical quantities and techniques in black hole science and gravitational wave astronomy",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.ligo.caltech.edu/page/gw-sources",
+              "https://arxiv.org/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0e385b",
+            "group_set_id": "667855"
+          }
+        ],
+        [
+          {
+            "words": [
+              "VOYAGER 1",
+              "NEW HORIZONS",
+              "CASSINI",
+              "PARKER SOLAR PROBE"
+            ],
+            "category": "Deep Space Probes",
+            "color": "blue",
+            "url": "https://voyager.jpl.nasa.gov/",
+            "description": "Robotic spacecraft sent to explore the outer solar system and interstellar space",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://pluto.jhuapl.edu/",
+              "https://parkersolarprobe.jhuapl.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "4db816",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "NASA",
+              "ESA",
+              "ROSCOSMOS",
+              "ISRO"
+            ],
+            "category": "Space Agencies",
+            "color": "green",
+            "url": "https://www.nasa.gov/",
+            "description": "National government agencies responsible for space exploration and research",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.esa.int/",
+              "https://www.isro.gov.in/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "6705d2",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "GW150914",
+              "BINARY MERGER",
+              "CHIRP SIGNAL",
+              "RINGDOWN"
+            ],
+            "category": "Gravitational Wave Events",
+            "color": "indigo",
+            "url": "https://www.ligo.caltech.edu/detection",
+            "description": "Stages and signatures of a gravitational wave event from a binary black hole coalescence",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://gwosc.org/",
+              "https://www.ligo.caltech.edu/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "0914f3",
+            "group_set_id": "67825f"
+          },
+          {
+            "words": [
+              "SPACEX",
+              "BLUE ORIGIN",
+              "ROCKET LAB",
+              "AXIOM SPACE"
+            ],
+            "category": "Commercial Space Companies",
+            "color": "yellow",
+            "url": "https://www.spacex.com/",
+            "description": "Private companies driving the new commercial space economy",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.blueorigin.com/",
+              "https://www.rocketlabusa.com/"
+            ],
+            "theme": "Rocket Science and Cosmic Extremes",
+            "group_item_id": "c75ea4",
+            "group_set_id": "67825f"
+          }
+        ]
+      ],
+      "game_set_id": "ded23b"
+    }
+  ]
+}

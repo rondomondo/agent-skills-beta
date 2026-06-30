@@ -1,0 +1,986 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-26T19:08:16",
+    "library_version": "2026-06-26T19:08:16",
+    "trigger": "manual",
+    "source": "library/themes.json",
+    "game_set_count": 6,
+    "missing_count": 0,
+    "source_hashes": {
+      "b62191": "5824faa146e73c3b7a9374c29c59e9241c4ca3644814a7746f3396f297a30630",
+      "1dd082": "a7f8e22256cab4b4f3d3f9c2f703bd09725fe80bd9ac973d544941131d945f70",
+      "632211": "056c50e782a831aa90fdde9083993c9fc85556e6c5c31c2930f10c25c4b5921d",
+      "c1a013": "0da9e20d9bc62a4da15d2272c2e0436d851757705fba13315f7944e2e676f760",
+      "575844": "be60ec90d8c0335fe1f47a50638f960ee70d374167470b11638ff529936b58f9",
+      "dd7e91": "7cc38c4114b3876bb9c1728b38f0ebcda3dce4a372d174c5e3626b63ad2ad376"
+    },
+    "content_hash": "b8735455126b807412187e4652141000136b131f4475f49d147e29cb86168a8b",
+    "metadata_fingerprint": "6c9fff0d8e4c954d"
+  },
+  "game_sets": [
+    {
+      "theme": "Australian Horses and Snakes",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DROVING",
+              "MUSTERING",
+              "EQUESTRIAN",
+              "STOCKWHIP"
+            ],
+            "category": "Australian Horsemanship Skills & Activities",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Droving_in_Australia",
+            "description": "Skills and activities associated with working horses in the Australian outback and equestrian sport",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Stockman_(Australia)",
+              "https://en.wikipedia.org/wiki/Equestrian_at_the_Summer_Olympics"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "8a9ed0",
+            "group_set_id": "826372"
+          },
+          {
+            "words": [
+              "KINGSTON TOWN",
+              "TULLOCH",
+              "BERNBOROUGH",
+              "KINGSTON RULE"
+            ],
+            "category": "Classic Australian Champion Racehorses",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Kingston_Town_(horse)",
+            "description": "Historic Australian racehorses celebrated for their dominance in their eras",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Tulloch_(horse)",
+              "https://en.wikipedia.org/wiki/Bernborough"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "d3299c",
+            "group_set_id": "826372"
+          },
+          {
+            "words": [
+              "STEVE IRWIN",
+              "AUSTRALIAN REPTILE PARK",
+              "CSL",
+              "MUSEUM VICTORIA"
+            ],
+            "category": "Australian Snake Conservation & Antivenom",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/Steve_Irwin",
+            "description": "People, institutions, and organisations central to Australian snake handling, conservation, and antivenom production",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Australian_Reptile_Park",
+              "https://en.wikipedia.org/wiki/Seqirus"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "aa877c",
+            "group_set_id": "826372"
+          },
+          {
+            "words": [
+              "QUEENSLAND",
+              "TASMANIA",
+              "NULLARBOR",
+              "KIMBERLEYS"
+            ],
+            "category": "Australian Regions Known for Snake Habitat",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Nullarbor_Plain",
+            "description": "Australian geographical regions particularly associated with venomous snake populations",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Kimberley_(Western_Australia)",
+              "https://en.wikipedia.org/wiki/Reptiles_of_Australia"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "3c8dc9",
+            "group_set_id": "826372"
+          }
+        ],
+        [
+          {
+            "words": [
+              "OVIPAROUS",
+              "CRYPTIC",
+              "LOREAL PIT",
+              "AMBUSH"
+            ],
+            "category": "How Australian Snakes Hunt and Reproduce",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Oviparity",
+            "description": "Terms describing the hunting strategies and reproductive biology of Australian snakes",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Ambush_predator",
+              "https://en.wikipedia.org/wiki/Pit_organ"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "2467d6",
+            "group_set_id": "cc1ad0"
+          },
+          {
+            "words": [
+              "PALOMINO",
+              "PONY",
+              "GREY",
+              "CHESTNUT"
+            ],
+            "category": "Horse Coat Colours & Types",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Palomino",
+            "description": "Common horse coat colour classifications seen across Australian breeds",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Equine_coat_color",
+              "https://en.wikipedia.org/wiki/Chestnut_(coat)"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "a4c653",
+            "group_set_id": "cc1ad0"
+          },
+          {
+            "words": [
+              "ROUGH-SCALED SNAKE",
+              "SMALL-EYED SNAKE",
+              "SPOTTED BLACK SNAKE",
+              "STEPHENS' BANDED SNAKE"
+            ],
+            "category": "Lesser-Known Venomous Australian Snakes",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Tropidechis_carinatus",
+            "description": "Venomous Australian snakes less commonly known but still dangerous, found in eastern Australia",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Rhinoplocephalus_nigrescens",
+              "https://en.wikipedia.org/wiki/Hoplocephalus_stephensii"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "d4ca3f",
+            "group_set_id": "cc1ad0"
+          },
+          {
+            "words": [
+              "SNOWY RIVER",
+              "MAN FROM SNOWY RIVER",
+              "BANJO PATERSON",
+              "OUTBACK"
+            ],
+            "category": "Australian Horse Folklore & Literature",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/The_Man_from_Snowy_River",
+            "description": "Legendary Australian bush poetry, places, and literature tied to the horse and outback culture",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Banjo_Paterson",
+              "https://en.wikipedia.org/wiki/Snowy_River"
+            ],
+            "theme": "Australian Horses and Snakes",
+            "group_item_id": "51363b",
+            "group_set_id": "cc1ad0"
+          }
+        ]
+      ],
+      "game_set_id": "b62191"
+    },
+    {
+      "theme": "Dogs and Horses - Commands, Gear and Body",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DOWN",
+              "COME",
+              "SHAKE",
+              "SPEAK"
+            ],
+            "category": "Dog Training Commands",
+            "color": "yellow",
+            "url": "https://www.akc.org/expert-advice/training/basic-dog-commands/",
+            "description": "Common obedience commands taught to pet dogs",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Dog_training"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "049376",
+            "group_set_id": "07f404"
+          },
+          {
+            "words": [
+              "BIT",
+              "GIRTH",
+              "MARTINGALE",
+              "SNAFFLE"
+            ],
+            "category": "Horse Tack and Equipment",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/Tack_(horse)",
+            "description": "Specialised equipment used to ride and control a horse",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.equestriancoach.com/tack-guide"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "765805",
+            "group_set_id": "07f404"
+          },
+          {
+            "words": [
+              "DEWCLAW",
+              "FLEWS",
+              "HACKLES",
+              "STIFLE"
+            ],
+            "category": "Dog Anatomy Terms",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Dog_anatomy",
+            "description": "Specific anatomical features and terms used for dogs",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/dog-anatomy"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "c29d3c",
+            "group_set_id": "07f404"
+          },
+          {
+            "words": [
+              "POLL",
+              "CROUP",
+              "GASKIN",
+              "CANNON"
+            ],
+            "category": "Horse Anatomy Terms",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Horse_anatomy",
+            "description": "Anatomical regions found specifically on a horse's body",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equinow.com/horse-anatomy"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "b345ae",
+            "group_set_id": "07f404"
+          }
+        ],
+        [
+          {
+            "words": [
+              "SNIFFER DOG",
+              "RESCUE DOG",
+              "THERAPY DOG",
+              "TRUFFLE DOG"
+            ],
+            "category": "Specialist Working Dog Roles",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/Working_dog",
+            "description": "Dogs trained for highly specific detection and support tasks",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.dogguides.com/working-dogs"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "3cf8c9",
+            "group_set_id": "a0bb10"
+          },
+          {
+            "words": [
+              "SHOW JUMPER",
+              "DRESSAGE HORSE",
+              "POLO PONY",
+              "CATTLE HORSE"
+            ],
+            "category": "Specialist Horse Roles",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Horse_use",
+            "description": "Horses bred and trained for specific competitive or working disciplines",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Working_horse"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "c8750a",
+            "group_set_id": "a0bb10"
+          },
+          {
+            "words": [
+              "WITHERS",
+              "HOCK",
+              "PASTERN",
+              "FETLOCK"
+            ],
+            "category": "Shared Dog and Horse Anatomy",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Horse_anatomy",
+            "description": "Anatomical terms used for both dogs and horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.merckvetmanual.com/dog-anatomy"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "afaf3e",
+            "group_set_id": "a0bb10"
+          },
+          {
+            "words": [
+              "WHOA",
+              "GEE",
+              "HAW",
+              "CANTER ON"
+            ],
+            "category": "Horse Commands",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Horse_training",
+            "description": "Verbal cues used to direct horses during work and riding",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equestriancoach.com/horse-commands"
+            ],
+            "theme": "Dogs and Horses - Commands, Gear and Body",
+            "group_item_id": "7dd32d",
+            "group_set_id": "a0bb10"
+          }
+        ]
+      ],
+      "game_set_id": "1dd082"
+    },
+    {
+      "theme": "Dogs and Horses - Roles and Gear",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "DACHSHUND",
+              "CHIHUAHUA",
+              "CORGI",
+              "POODLE"
+            ],
+            "category": "Small to Medium Dog Breeds",
+            "color": "red",
+            "url": "https://www.akc.org/dog-breeds/",
+            "description": "Smaller dog breeds popular as companions worldwide",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Dog_breed"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "b3d80e",
+            "group_set_id": "9726ed"
+          },
+          {
+            "words": [
+              "SHADOWFAX",
+              "TRIGGER",
+              "BLACK BEAUTY",
+              "SILVER"
+            ],
+            "category": "Famous Fictional Horses",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/Fictional_horses",
+            "description": "Iconic horses from film, TV, and literature",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.imdb.com/list/famous-movie-horses"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "2b8bf5",
+            "group_set_id": "9726ed"
+          },
+          {
+            "words": [
+              "GUIDE DOG",
+              "SLED DOG",
+              "HERDING DOG",
+              "POLICE DOG"
+            ],
+            "category": "Working Dog Roles",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Working_dog",
+            "description": "Roles in which dogs serve humans through trained tasks",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.dogguides.com/working-dogs"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "40b9c9",
+            "group_set_id": "9726ed"
+          },
+          {
+            "words": [
+              "RACEHORSE",
+              "WARHORSE",
+              "POLO PONY",
+              "DRAFT HORSE"
+            ],
+            "category": "Horse Roles",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Horse_use",
+            "description": "Specialist purposes for which horses have been bred and trained",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Working_horse"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "89088e",
+            "group_set_id": "9726ed"
+          }
+        ],
+        [
+          {
+            "words": [
+              "SNOOPY",
+              "SCOOBY",
+              "LASSIE",
+              "PLUTO"
+            ],
+            "category": "Famous Fictional Dogs",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/List_of_fictional_dogs",
+            "description": "Beloved dogs from cartoons, film, and television",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Snoopy"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "6da693",
+            "group_set_id": "c0146e"
+          },
+          {
+            "words": [
+              "MANE",
+              "FORELOCK",
+              "FROG",
+              "FEATHERS"
+            ],
+            "category": "Horse Anatomy Features",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Horse_anatomy",
+            "description": "Distinctive anatomical features found specifically on horses",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.equinow.com/horse-anatomy"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "4d9e7f",
+            "group_set_id": "c0146e"
+          },
+          {
+            "words": [
+              "LEASH",
+              "MUZZLE",
+              "HARNESS",
+              "COLLAR"
+            ],
+            "category": "Dog Equipment",
+            "color": "purple",
+            "url": "https://www.akc.org/expert-advice/training/dog-gear-guide/",
+            "description": "Common gear and accessories used with pet dogs",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Dog_collar"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "02bb8c",
+            "group_set_id": "c0146e"
+          },
+          {
+            "words": [
+              "WHOA",
+              "GEE",
+              "HAW",
+              "CANTER ON"
+            ],
+            "category": "Horse Commands",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Horse_training",
+            "description": "Verbal cues and commands used to direct horses",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.equestriancoach.com/horse-commands"
+            ],
+            "theme": "Dogs and Horses - Roles and Gear",
+            "group_item_id": "5a7492",
+            "group_set_id": "c0146e"
+          }
+        ]
+      ],
+      "game_set_id": "632211"
+    },
+    {
+      "theme": "FIFA World Cup Football",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "BRAZIL",
+              "GERMANY",
+              "ITALY",
+              "FRANCE"
+            ],
+            "category": "Most World Cup Titles",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+            "description": "Nations that have won the FIFA World Cup four or more times",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "2efa13",
+            "group_set_id": "07d6dd"
+          },
+          {
+            "words": [
+              "PELÉ",
+              "MARADONA",
+              "RONALDO",
+              "MESSI"
+            ],
+            "category": "World Cup Legends",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_records_and_statistics",
+            "description": "Iconic players who defined their era at the World Cup",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/players"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "3fde50",
+            "group_set_id": "07d6dd"
+          },
+          {
+            "words": [
+              "GOLDEN BOOT",
+              "GOLDEN BALL",
+              "GOLDEN GLOVE",
+              "YOUNG PLAYER"
+            ],
+            "category": "World Cup Awards",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_awards",
+            "description": "Individual prizes awarded at the end of each World Cup tournament",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/awards"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "6c4eb3",
+            "group_set_id": "07d6dd"
+          },
+          {
+            "words": [
+              "GROUP STAGE",
+              "ROUND OF 16",
+              "QUARTER-FINAL",
+              "SEMI-FINAL"
+            ],
+            "category": "Tournament Rounds",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup#Format",
+            "description": "Successive knockout and group phases of a World Cup tournament",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.fifaindex.com/teams/type/worldcup/"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "3532eb",
+            "group_set_id": "07d6dd"
+          }
+        ],
+        [
+          {
+            "words": [
+              "VAR",
+              "OFFSIDE",
+              "PENALTY SHOOTOUT",
+              "EXTRA TIME"
+            ],
+            "category": "Match Rules & Tech",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Video_assistant_referee",
+            "description": "Modern and traditional rules that decide tight World Cup matches",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fifaindex.com/teams/type/worldcup/"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "fae7bd",
+            "group_set_id": "7087e7"
+          },
+          {
+            "words": [
+              "MEXICO",
+              "QATAR",
+              "RUSSIA",
+              "SOUTH AFRICA"
+            ],
+            "category": "Recent Host Nations",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_hosts",
+            "description": "Countries that have hosted the World Cup in recent decades",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/history"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "891544",
+            "group_set_id": "7087e7"
+          },
+          {
+            "words": [
+              "HAT-TRICK",
+              "PANENKA",
+              "BICYCLE KICK",
+              "CHIP"
+            ],
+            "category": "Iconic Goal Types",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Hat-trick",
+            "description": "Types of spectacular goals or techniques celebrated at the World Cup",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/highlights"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "d003e8",
+            "group_set_id": "7087e7"
+          },
+          {
+            "words": [
+              "ZIDANE",
+              "MBAPPÉ",
+              "PLATINI",
+              "HENRY"
+            ],
+            "category": "French World Cup Stars",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/France_national_football_team_at_the_FIFA_World_Cup",
+            "description": "Legendary French players who have shone on the World Cup stage",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Michel_Platini"
+            ],
+            "theme": "FIFA World Cup Football",
+            "group_item_id": "9840e9",
+            "group_set_id": "7087e7"
+          }
+        ]
+      ],
+      "game_set_id": "c1a013"
+    },
+    {
+      "theme": "FIFA World Cup History & Records",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "MARACANA",
+              "AZTECA",
+              "WEMBLEY",
+              "LUZHNIKI"
+            ],
+            "category": "Legendary Stadiums",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup#Venues",
+            "description": "Iconic football stadiums that have hosted World Cup finals or key matches",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Maracan%C3%A3"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "1c28b5",
+            "group_set_id": "2830d6"
+          },
+          {
+            "words": [
+              "JULES RIMET",
+              "BECKENBAUER",
+              "CRUYFF",
+              "EUSÉBIO"
+            ],
+            "category": "Classic Era Icons",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Jules_Rimet",
+            "description": "Legendary figures from the first five decades of World Cup history",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Johan_Cruyff"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "b0f0bd",
+            "group_set_id": "2830d6"
+          },
+          {
+            "words": [
+              "ITALY",
+              "ARGENTINA",
+              "URUGUAY",
+              "ENGLAND"
+            ],
+            "category": "One-Time Host & Champion",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_records_and_statistics",
+            "description": "Nations that both hosted and won the World Cup in the same year",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/history"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "789b4e",
+            "group_set_id": "2830d6"
+          },
+          {
+            "words": [
+              "HAND OF GOD",
+              "MIRACLE OF BERNE",
+              "ZIDANE HEADBUTT",
+              "PANENKA FINAL"
+            ],
+            "category": "Unforgettable Moments",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Hand_of_God_(Maradona)",
+            "description": "Iconic incidents and moments that have defined World Cup history",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Final"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "33cdc7",
+            "group_set_id": "2830d6"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FONTAINE",
+              "KLOSE",
+              "RONALDO",
+              "MÜLLER"
+            ],
+            "category": "All-Time Top Scorers",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_records_and_statistics#Top_goalscorers",
+            "description": "Players who rank among the highest scorers in World Cup history",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Miroslav_Klose"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "2a9c26",
+            "group_set_id": "d6a7e2"
+          },
+          {
+            "words": [
+              "OFFSIDE TRAP",
+              "PRESSING",
+              "CATENACCIO",
+              "TOTAL FOOTBALL"
+            ],
+            "category": "Tactical Philosophies",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Catenaccio",
+            "description": "Famous football tactical systems and styles seen at World Cups",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Total_football"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "2cf6f7",
+            "group_set_id": "d6a7e2"
+          },
+          {
+            "words": [
+              "CAFU",
+              "LAHM",
+              "ROBERTO CARLOS",
+              "MALDINI"
+            ],
+            "category": "Defensive Greats",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup_records_and_statistics",
+            "description": "World-class defenders and full-backs celebrated at the World Cup",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Paolo_Maldini"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "3be5f2",
+            "group_set_id": "d6a7e2"
+          },
+          {
+            "words": [
+              "USA",
+              "FRANCE",
+              "JAPAN",
+              "SOUTH KOREA"
+            ],
+            "category": "2002 & 2026 Co-Hosts",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+            "description": "Nations involved in co-hosted World Cup tournaments in 2002 and 2026",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+            ],
+            "theme": "FIFA World Cup History & Records",
+            "group_item_id": "cf87e2",
+            "group_set_id": "d6a7e2"
+          }
+        ]
+      ],
+      "game_set_id": "575844"
+    },
+    {
+      "theme": "Movie Trivia — Characters and Festivals",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "NEESON",
+              "HANKS",
+              "STREEP",
+              "BRANDO"
+            ],
+            "category": "Multiple Oscar-Winning Actors",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor",
+            "description": "Actors or actresses recognised multiple times at the Academy Awards",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "f7c68e",
+            "group_set_id": "34f44a"
+          },
+          {
+            "words": [
+              "MATRIX",
+              "INCEPTION",
+              "INTERSTELLAR",
+              "MEMENTO"
+            ],
+            "category": "Mind-Bending Sci-Fi / Thriller Films",
+            "color": "blue",
+            "url": "https://en.wikipedia.org/wiki/Science_fiction_film",
+            "description": "Films known for complex narratives, non-linear storytelling or philosophical depth",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "7caa54",
+            "group_set_id": "34f44a"
+          },
+          {
+            "words": [
+              "FRANCHISE",
+              "SEQUEL",
+              "REBOOT",
+              "PREQUEL"
+            ],
+            "category": "Film Series Terminology",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Film_series",
+            "description": "Terms used to describe related films within a broader cinematic universe or series",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "12ecf0",
+            "group_set_id": "34f44a"
+          },
+          {
+            "words": [
+              "DOLBY",
+              "IMAX",
+              "PANAVISION",
+              "TECHNICOLOR"
+            ],
+            "category": "Film Technology Brands",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Film_technology",
+            "description": "Brands and formats that shaped how films are captured, presented and heard",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "c411bd",
+            "group_set_id": "34f44a"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BOND",
+              "ROCKY",
+              "INDIANA",
+              "TERMINATOR"
+            ],
+            "category": "Iconic Action Movie Characters",
+            "color": "orange",
+            "url": "https://en.wikipedia.org/wiki/Action_film",
+            "description": "Instantly recognisable fictional heroes or anti-heroes from action film franchises",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "ef7b10",
+            "group_set_id": "84f039"
+          },
+          {
+            "words": [
+              "JUMP CUT",
+              "DISSOLVE",
+              "WIPE",
+              "SMASH"
+            ],
+            "category": "Film Editing Transitions",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Film_editing",
+            "description": "Editing techniques used to transition between scenes or shots",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "fcaf5b",
+            "group_set_id": "84f039"
+          },
+          {
+            "words": [
+              "CANNES",
+              "SUNDANCE",
+              "VENICE",
+              "BERLIN"
+            ],
+            "category": "Prestigious Film Festivals",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Film_festival",
+            "description": "World-renowned annual film festivals that premiere and celebrate cinema",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "409e0d",
+            "group_set_id": "84f039"
+          },
+          {
+            "words": [
+              "PARAMOUNT",
+              "WARNER",
+              "UNIVERSAL",
+              "COLUMBIA"
+            ],
+            "category": "Hollywood Major Studios",
+            "color": "indigo",
+            "url": "https://en.wikipedia.org/wiki/Major_film_studios",
+            "description": "The original Hollywood 'Big Five' major film studios still active today",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Movie Trivia — Characters and Festivals",
+            "group_item_id": "18c703",
+            "group_set_id": "84f039"
+          }
+        ]
+      ],
+      "game_set_id": "dd7e91"
+    }
+  ]
+}

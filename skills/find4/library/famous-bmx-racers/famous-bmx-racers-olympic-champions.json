@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "famous-bmx-racers.json",
+    "modified_at": "2026-06-27T15:41:33.730860",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "3d2cf0"
+      ],
+      "group_set_ids": [
+        "513e2c",
+        "5e6f95"
+      ],
+      "group_item_ids": [
+        "c8c1f7",
+        "6f1c51",
+        "b9c91e",
+        "d40ed1",
+        "541440",
+        "f387d7",
+        "8cb86a",
+        "e9a0d9"
+      ]
+    },
+    "id": "VEXKxx6SHyVuhL0t",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T15:41:50.483275+00:00",
+      "parent_id": "VEXKxx6SHyVuhL0t",
+      "parent_file": "output/games/famous-bmx-racers.json",
+      "theme": "Famous BMX Racers — Olympic Champions",
+      "slug": "famous-bmx-racers-olympic-champions"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Famous BMX Racers — Olympic Champions",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "STROMBERGS",
+              "FIELDS",
+              "PAJON",
+              "KIMMANN"
+            ],
+            "category": "Olympic Gold Medallists",
+            "color": "red",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "BMX racers who won Olympic gold: Māris Štrombergs (2x), Connor Fields, Mariana Pajon (2x), Niek Kimmann",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "c8c1f7",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "CHAUSSON",
+              "WALKER",
+              "WILLOUGHBY",
+              "BUCHANAN"
+            ],
+            "category": "Female BMX Olympic Medallists",
+            "color": "blue",
+            "url": "https://www.uci.org/bmx-racing/history",
+            "description": "Elite women racers who reached the Olympic podium: Anne-Caroline Chausson, Sarah Walker, Alise Willoughby, Caroline Buchanan",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Anne-Caroline_Chausson"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "6f1c51",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "COLOMBIA",
+              "LATVIA",
+              "USA",
+              "NETHERLANDS"
+            ],
+            "category": "Nations That Produced Olympic BMX Champions",
+            "color": "green",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "Countries whose riders won Olympic BMX gold: Colombia (Pajon), Latvia (Štrombergs), USA (Fields), Netherlands (Kimmann)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/BMX_racing"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "b9c91e",
+            "group_set_id": "513e2c"
+          },
+          {
+            "words": [
+              "BEIJING",
+              "LONDON",
+              "RIO",
+              "TOKYO"
+            ],
+            "category": "Olympic Games That Included BMX Racing",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics",
+            "description": "The four Summer Olympics host cities where BMX racing debuted and continued (2008–2020)",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.olympic.org/bmx-racing"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "d40ed1",
+            "group_set_id": "513e2c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BENNETT",
+              "CAMERON",
+              "GRAVES",
+              "VAN GENDT"
+            ],
+            "category": "Multiple UCI World Champions",
+            "color": "orange",
+            "url": "https://www.uci.org/bmx-racing/world-championships",
+            "description": "BMX racers who claimed multiple UCI World Championship titles: Kyle Bennett (3x), Donovan Cameron, Jared Graves, Twan van Gendt",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/UCI_BMX_Racing_World_Championships"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "541440",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "AUSTRALIA",
+              "FRANCE",
+              "NEW ZEALAND",
+              "BRITAIN"
+            ],
+            "category": "Nations with Elite Female BMX Champions",
+            "color": "green",
+            "url": "https://www.uci.org/bmx-racing",
+            "description": "Countries with top-ranked women BMX racers: Australia (Buchanan, Williams), France (Chausson, Leveque), New Zealand (Walker), Britain (Phillips)",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Caroline_Buchanan"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "f387d7",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "DAUDET",
+              "PHILLIPS",
+              "LEVEQUE",
+              "STEVENS"
+            ],
+            "category": "Elite World Championship Circuit Regulars",
+            "color": "indigo",
+            "url": "https://www.uci.org/bmx-racing/elite",
+            "description": "BMX racers who dominated the UCI Elite World Cup circuit: Joris Daudet, Liam Phillips, Laetitia Le Corguille, Felicia Stevens",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Liam_Phillips"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "8cb86a",
+            "group_set_id": "5e6f95"
+          },
+          {
+            "words": [
+              "PAJON",
+              "STROMBERGS",
+              "CHAUSSON",
+              "FIELDS"
+            ],
+            "category": "Riders with Back-to-Back Podium Appearances",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/BMX_at_the_Summer_Olympics",
+            "description": "BMX racers who earned medals across multiple Olympic cycles: Mariana Pajon, Māris Štrombergs, Anne-Caroline Chausson, Connor Fields",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Mariana_Paj%C3%B3n"
+            ],
+            "theme": "Famous BMX Racers — Olympic Champions",
+            "group_item_id": "e9a0d9",
+            "group_set_id": "5e6f95"
+          }
+        ]
+      ],
+      "game_set_id": "3d2cf0"
+    }
+  ]
+}

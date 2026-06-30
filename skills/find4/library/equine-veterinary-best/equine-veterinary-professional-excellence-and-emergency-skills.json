@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-28T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "equine-veterinary-best.json",
+    "modified_at": "2026-06-28T01:04:30.510220",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "971e2b"
+      ],
+      "group_set_ids": [
+        "db843c",
+        "8f1c63"
+      ],
+      "group_item_ids": [
+        "2c5872",
+        "68e12e",
+        "776715",
+        "49a043",
+        "a275f5",
+        "7d8855",
+        "cdbb55",
+        "85b15c"
+      ]
+    },
+    "id": "Qt-d2MSlbkpHIE8X",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-28T01:04:43.516012+00:00",
+      "parent_id": "Qt-d2MSlbkpHIE8X",
+      "parent_file": "/output/games/equine-veterinary-best.json",
+      "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+      "slug": "equine-veterinary-professional-excellence-and-emergency-skills"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "PROGNOSIS",
+              "TRANSPARENCY",
+              "TRUST",
+              "EMPATHY"
+            ],
+            "category": "Client Communication Qualities",
+            "color": "yellow",
+            "url": "https://www.beva.org.uk/education/professional-skills",
+            "description": "Interpersonal and communication competencies that distinguish exceptional equine vets when delivering difficult news under pressure",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/horsehealth/client-communication"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "2c5872",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "COLIC",
+              "CHOKE",
+              "LAMINITIS",
+              "DYSTOCIA"
+            ],
+            "category": "Equine Emergency Presentations",
+            "color": "red",
+            "url": "https://www.aaep.org/horsehealth/colic",
+            "description": "The most time-critical field emergencies requiring rapid triage and decisive intervention; delays cost lives and viability",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/emergency-care"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "68e12e",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "BEVA",
+              "AAEP",
+              "EVJ",
+              "CPD"
+            ],
+            "category": "Professional Development Resources",
+            "color": "green",
+            "url": "https://www.beva.org.uk",
+            "description": "Key professional organisations and publications that top equine vets use to stay current with evidence-based practice and emerging therapies",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org",
+              "https://evj.co.uk"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "776715",
+            "group_set_id": "db843c"
+          },
+          {
+            "words": [
+              "STEM-CELL",
+              "SHOCKWAVE",
+              "PEMF",
+              "PLATELET-RICH-PLASMA"
+            ],
+            "category": "Emerging Regenerative Therapies",
+            "color": "blue",
+            "url": "https://www.aaep.org/horsehealth/regenerative-medicine",
+            "description": "Novel biologic and physical therapies with growing evidence bases; the best vets critically appraise RCT data vs anecdote before adoption",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/regenerative"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "49a043",
+            "group_set_id": "db843c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "WITHDRAWAL",
+              "FEI-RULES",
+              "NSAID",
+              "OFF-LABEL"
+            ],
+            "category": "Competition Horse Drug Compliance",
+            "color": "orange",
+            "url": "https://www.fei.org/fei/cleansport/ad",
+            "description": "Regulatory and pharmacological knowledge critical for vets treating competition horses; getting withdrawal times wrong can end an athlete's career",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://www.bha.co.uk/horse-racing/anti-doping/"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "a275f5",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "EAR-POSITION",
+              "TAIL-WRINGING",
+              "WEIGHT-SHIFTING",
+              "SKIN-TWITCHING"
+            ],
+            "category": "Horse Body Language Signals",
+            "color": "purple",
+            "url": "https://www.aaep.org/horsehealth/horse-behavior",
+            "description": "Behavioural cues that skilled vets read to anticipate stress, pain, or aggression before a horse kicks, rears, or bolts during examination",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.beva.org.uk/education/horsemanship"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "7d8855",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "SEPTICAEMIA",
+              "FLUID-THERAPY",
+              "ENTERAL-NUTRITION",
+              "NEONATAL-FOAL"
+            ],
+            "category": "Sick Foal Critical Care",
+            "color": "teal",
+            "url": "https://www.aaep.org/horsehealth/neonatal-foal",
+            "description": "Intensive care management of the compromised newborn foal requires a specialist skillset distinct from adult equine medicine",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://evj.co.uk/neonatology"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "cdbb55",
+            "group_set_id": "8f1c63"
+          },
+          {
+            "words": [
+              "INVOICING",
+              "SCHEDULING",
+              "MENTORSHIP",
+              "RECORD-KEEPING"
+            ],
+            "category": "Practice Management Competencies",
+            "color": "indigo",
+            "url": "https://www.beva.org.uk/education/practice-management",
+            "description": "Business and operational skills that separate thriving equine practices from struggling ones; technical skill alone does not build a sustainable career",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.aaep.org/practice-management"
+            ],
+            "theme": "Equine Veterinary: Professional Excellence & Emergency Skills",
+            "group_item_id": "85b15c",
+            "group_set_id": "8f1c63"
+          }
+        ]
+      ],
+      "game_set_id": "971e2b"
+    }
+  ]
+}

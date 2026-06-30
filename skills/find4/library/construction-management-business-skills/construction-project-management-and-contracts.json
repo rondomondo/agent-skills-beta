@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "generated_at": "2026-06-27T23:05:00Z",
+    "source": "stdin",
+    "suggested_name": "construction-management-business-skills.json",
+    "modified_at": "2026-06-27T23:02:11.285013",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "60e6b3"
+      ],
+      "group_set_ids": [
+        "866b92",
+        "42daad"
+      ],
+      "group_item_ids": [
+        "2da9b2",
+        "e0a956",
+        "4ef367",
+        "8f2978",
+        "653105",
+        "88a4a3",
+        "0dc18d",
+        "c0af13"
+      ]
+    },
+    "id": "XDBrcar4AupFd_qx",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-06-27T23:02:18.679626+00:00",
+      "parent_id": "XDBrcar4AupFd_qx",
+      "parent_file": "/home/claude/output/games/construction-management-business-skills.json",
+      "theme": "Construction Project Management and Contracts",
+      "slug": "construction-project-management-and-contracts"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Construction Project Management and Contracts",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "CPM",
+              "FLOAT",
+              "MILESTONE",
+              "LOOKAHEAD"
+            ],
+            "category": "Schedule Management Concepts",
+            "color": "blue",
+            "url": "https://www.pmi.org/learning/library/critical-path-method-scheduling-9746",
+            "description": "Core scheduling tools and concepts used to plan and control construction timelines",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.procore.com/jobsite/critical-path-method/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "2da9b2",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "EVM",
+              "WBS",
+              "BASELINE",
+              "VARIANCE"
+            ],
+            "category": "Project Cost Control Tools",
+            "color": "green",
+            "url": "https://www.pmi.org/learning/library/earned-value-management-systems-7563",
+            "description": "Earned value and scope management techniques for tracking project performance against plan",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.cips.org/knowledge/procurement-topics-and-skills/project-procurement/earned-value/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "e0a956",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "FIDIC",
+              "NEC",
+              "JCT",
+              "AS4000"
+            ],
+            "category": "Standard Construction Contract Forms",
+            "color": "orange",
+            "url": "https://fidic.org/",
+            "description": "Internationally and nationally recognised standard form contracts governing construction projects",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.neccontract.com/",
+              "https://www.jctltd.co.uk/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "4ef367",
+            "group_set_id": "866b92"
+          },
+          {
+            "words": [
+              "ADJUDICATION",
+              "ARBITRATION",
+              "MEDIATION",
+              "LITIGATION"
+            ],
+            "category": "Construction Dispute Resolution Methods",
+            "color": "red",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/dispute-resolution/",
+            "description": "Escalating methods for resolving commercial and contractual disputes on construction projects",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.techassist.co.uk/construction-adjudication/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "8f2978",
+            "group_set_id": "866b92"
+          }
+        ],
+        [
+          {
+            "words": [
+              "BOQ",
+              "TAKE-OFF",
+              "LEVELLING",
+              "MARGIN"
+            ],
+            "category": "Estimating and Tender Process",
+            "color": "teal",
+            "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/construction/new-rules-of-measurement/",
+            "description": "Quantity surveying and bid preparation fundamentals for pricing construction work competitively",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.ciob.org/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "653105",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "GMP",
+              "LUMP-SUM",
+              "COST-PLUS",
+              "UNIT-PRICE"
+            ],
+            "category": "Construction Contract Pricing Types",
+            "color": "purple",
+            "url": "https://www.levelset.com/blog/types-of-construction-contracts/",
+            "description": "The main commercial pricing structures used to define how a contractor is compensated for work",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://constructionblog.autodesk.com/types-of-construction-contracts/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "88a4a3",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "RETENTION",
+              "NOVATION",
+              "BOND",
+              "INDEMNITY"
+            ],
+            "category": "Contract Security and Risk Instruments",
+            "color": "yellow",
+            "url": "https://www.designingbuildings.co.uk/wiki/Retention_in_construction_contracts",
+            "description": "Financial and legal mechanisms used to protect parties and manage risk in construction contracts",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://www.pinsentmasons.com/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "0dc18d",
+            "group_set_id": "42daad"
+          },
+          {
+            "words": [
+              "VARIATION",
+              "EOT",
+              "CLAIM",
+              "INSTRUCTION"
+            ],
+            "category": "Contract Change Management Terms",
+            "color": "indigo",
+            "url": "https://www.designingbuildings.co.uk/wiki/Variation_in_construction_contracts",
+            "description": "The core mechanisms for managing changes, delays and commercial claims under a construction contract",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.fenwickelliott.com/research-insight/annual-review/"
+            ],
+            "theme": "Construction Project Management and Contracts",
+            "group_item_id": "c0af13",
+            "group_set_id": "42daad"
+          }
+        ]
+      ],
+      "game_set_id": "60e6b3"
+    }
+  ]
+}
