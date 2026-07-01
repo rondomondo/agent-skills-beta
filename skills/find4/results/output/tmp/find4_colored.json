@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-01T00:00:00Z",
+    "source": "sushi omakase menu photo (user upload)",
+    "suggested_name": "sushi-omakase-menu.json"
+  },
+  "game_sets": [
+    {
+      "theme": "Sushi Menu Terms",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HOSOMAKI",
+              "FUTOMAKI",
+              "TEMAKI",
+              "NORIMAKI"
+            ],
+            "category": "Types of Sushi Rolls",
+            "color": "red",
+            "url": "",
+            "description": "Different styles of rolled sushi listed on the menu",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "NIGIRI",
+              "SASHIMI",
+              "GUNKAN",
+              "OMAKASE"
+            ],
+            "category": "Sushi Preparation Styles",
+            "color": "blue",
+            "url": "",
+            "description": "Ways sushi and fish are served or presented, including chef's choice",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "SALMON",
+              "TUNA",
+              "HAMACHI",
+              "EBI"
+            ],
+            "category": "Fish and Seafood Used",
+            "color": "green",
+            "url": "",
+            "description": "Seafood ingredients appearing across the combination sets",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "BODAN",
+              "NAMI",
+              "KIYOMI",
+              "MATSU"
+            ],
+            "category": "Named Sushi Selections",
+            "color": "yellow",
+            "url": "",
+            "description": "Named Chef's Sushi Selection dishes (peony, wave, pure beauty, pine tree)",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          }
+        ],
+        [
+          {
+            "words": [
+              "GLUTEN",
+              "CRUSTACEANS",
+              "EGGS",
+              "SOYBEANS"
+            ],
+            "category": "Listed Allergens",
+            "color": "purple",
+            "url": "",
+            "description": "Allergens flagged in the menu's ingredient list",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "SESAME",
+              "MUSTARD",
+              "CELERY",
+              "LUPIN"
+            ],
+            "category": "More Listed Allergens",
+            "color": "teal",
+            "url": "",
+            "description": "Additional allergens flagged in the menu's ingredient list",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "GYOZA",
+              "ABURI",
+              "KATSU",
+              "ORIZUME"
+            ],
+            "category": "Omakase Box Components",
+            "color": "orange",
+            "url": "",
+            "description": "Preparations and box style featured in the Zakura Omakase sets",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          },
+          {
+            "words": [
+              "ZAKURA",
+              "PEONY",
+              "WAVE",
+              "PINE"
+            ],
+            "category": "Selection Names Decoded",
+            "color": "indigo",
+            "url": "",
+            "description": "English meanings and series name behind the Japanese selection titles",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms"
+          }
+        ]
+      ]
+    },
+    {
+      "theme": "Sushi Combination Sets",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "C3",
+              "C4",
+              "C5",
+              "C6"
+            ],
+            "category": "Lower-Priced Sushi Selections",
+            "color": "red",
+            "url": "",
+            "description": "Combination codes priced EUR16.00 to EUR18.50",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "C7",
+              "C8",
+              "C9",
+              "C10"
+            ],
+            "category": "Mid-Priced Sushi Selections",
+            "color": "blue",
+            "url": "",
+            "description": "Combination codes priced EUR17.50 to EUR58.00",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "SIXTEEN",
+              "FIFTY",
+              "SIXTY",
+              "TWENTY"
+            ],
+            "category": "Rounded Price Digits (euro whole numbers)",
+            "color": "green",
+            "url": "",
+            "description": "Whole-euro amounts appearing in menu prices (16, 50, 60, 20)",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "CLASSIC",
+              "DELUXE",
+              "KINGS",
+              "PLATTER"
+            ],
+            "category": "Words in the Zakura Set Names",
+            "color": "yellow",
+            "url": "",
+            "description": "Descriptive words used to name the three Zakura Omakase tiers",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FISH",
+              "MOLLUSCS",
+              "PEANUTS",
+              "NUTS"
+            ],
+            "category": "Allergen Categories on the Menu",
+            "color": "purple",
+            "url": "",
+            "description": "Allergen groups from the numbered ingredient key",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "ALMONDS",
+              "CASHEW",
+              "WALNUT",
+              "PISTACHIO"
+            ],
+            "category": "Nut Sub-Types Listed",
+            "color": "teal",
+            "url": "",
+            "description": "Specific nuts broken out under the Nuts allergen category",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "FOUR",
+              "FIVE",
+              "TEN",
+              "TWELVE"
+            ],
+            "category": "Piece Counts Featured on the Menu",
+            "color": "orange",
+            "url": "",
+            "description": "Numbers of pieces called out across various selections",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          },
+          {
+            "words": [
+              "WHEAT",
+              "SPELT",
+              "OATS",
+              "KHORASAN"
+            ],
+            "category": "Gluten Sub-Types Listed",
+            "color": "indigo",
+            "url": "",
+            "description": "Specific grains broken out under the Gluten allergen category",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets"
+          }
+        ]
+      ]
+    }
+  ]
+}

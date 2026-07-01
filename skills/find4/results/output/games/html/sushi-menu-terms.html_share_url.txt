@@ -1,0 +1,18 @@
+{
+  "source": "/home/claude/run/output/tmp/find4_final/sushi-menu-terms.json",
+  "slug": "sushi-menu-terms",
+  "stats": {
+    "game_sets": 1,
+    "group_sets": 2,
+    "items": 32,
+    "themes": [
+      "Sushi Menu Terms"
+    ]
+  },
+  "compression": {
+    "raw_bytes": 3244,
+    "enc_bytes": 1155,
+    "ratio": "36%"
+  },
+  "share_url": "https://find4.org/#game=zZZtb-I4EMe_ipU3t6uDLi0ECu9Cm225FqgI3KqcEDLJJHjXxJHttMtW_e43diBLaen1pO7ppEq48dPMb_4z4wdnBZpGVFOn8-AkkIKkGqI51U7HOamdNKu1VrV2PK7VOvZv6lQcJXIZAs6rXC0ZESv6jSogK0hzki2FFuRDrkCSPOOCRh_NjjxJQJlzU7oqd1Y3O6tm59FXJVJcuhIRi9kLFhw3O_WTjts4Om206vXj0o45i_6VKRoyXB-zlHL2A-al-xWHRXMJCVNari0MNHWuQOMFyun85TQaYRw3nFnFSaTIs90pWmu36yEeUT92T9vuzzVMw2q7CBatNnVxUVhvt5tmtQvuwm3goBFBrVXHQTuqL1qAg9NWTJtNs6bWjtonOKgBhO7CmT0aQ9GDr_O021u61bacJu7x6Nb4lnGGNqWxMPZLwS1q87GcfIlqvVOrH524p-5p83cbZFydUQmpnh-6aTMdM3uFyHWW6096lX1CrlFjbuluI6qXYGMe2BD1TWjGIFfK2MTzpFSDCVpV25lHdHKL37B7eO2QMhpmJS69F7IAfjkMhn3vqodrPk_G2-HY3wwGw1HPDjFaIYo-ESbuznidgSIiJsVVI8G5uSUUXEiclhDhf7nkOMZBBCqULNMMXe045yyOwZAhSq95cQyGgUNECoFyZrKAiJSgQ1amhsI3xvmcwx2YQ7sowRTTECdoFDFzMuXzQuvGrVnln2FsZIdLStHtaha_bxT7WNnhNehd9EaGTOAFl72-GV1MBlfeAAeGnhf4e6wKA24koB6osZQE1u8dXguew2FgX-habdDQNCIxU0uC0iKYs3eGkySZBIVAIaoQloY8j1iakHAJ8W8KfwQL4RnBXmpUBBFDQ9-HYpmxb6AYeNf9oUE2ngw8_Ln0-t7ZpYHpd_e19tn6i44HQGMhIjJRVl5beIkESA_T2-5CJChLhpgUoVkGVBpINJRCKSu0UKwWmJI2QjZRfq3oyrr2Blzd4bkV2MCzgrvq3Q7toO-Ng8kergGWhGiTlwFwCI2du2JbA-fi_jCw4oCzQj1755AIg4Ep-yEDka4r5J7eQYVkOapxATTX-CljKRCNMfn4DKAX3dE0tMF7B4BlPzgAcFbZrXMX15OxbxiejSbB2DvzvUFg5HZxYX6C4W3XfnnK8rqoRB4WJ4ltf5ci-pzxV5K23ENiTrGxGwGW9QzB_pSjrXf_QX6WbXOP16YdP81PP_D6vlGYgTU6N9z8a9-2tevJTW-wB6ovUAGv0NJA-SusSucI_d9hKx8Zb8B2cTucmnLmdSe2R1zZ_MTGMOpNJ_39xjDcPMS64js5E6tMpKY47VATkqbJKxrb6SnKVsgFnmSbKomBaszKEt-UfsslJdsrX6xv_vcMpH6n6rZ9kb2B2tS7mowMtht_ODAK--L9abSHMnvWS8tCZKqUIucQiuhJN8CnFUvEYWZ-mnDTUFZAUxRTwQ07KcPTzLsb69gSz7DQ_qAZTcHi2l6rmS5a96-sbJtX7EF4s1ll9-FtamHx7H6cPf4N"
+}

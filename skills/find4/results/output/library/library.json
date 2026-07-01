@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-01T16:33:27",
+    "library_version": "2026-07-01T16:33:27",
+    "trigger": "find4-skill",
+    "source": "output/library/themes.json",
+    "game_set_count": 2,
+    "missing_count": 0,
+    "source_hashes": {
+      "b44be0": "6beefb9c6e97f7dd99bf650acc6bbadbd327f9da43241c7c060fa91a1780c4a5",
+      "44cff4": "45c9150cf982d34c4647c439898b6cd3a88624fb03d163093a5d61c8d55dfda0"
+    },
+    "content_hash": "39a3026a1de0bf4b9c8d722a493b7638d13b8a1fe67018143de65b6514286717",
+    "metadata_fingerprint": "3d4e05570c0d7b2d"
+  },
+  "game_sets": [
+    {
+      "theme": "Sushi Combination Sets",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "C3",
+              "C4",
+              "C5",
+              "C6"
+            ],
+            "category": "Lower-Priced Sushi Selections",
+            "color": "red",
+            "url": "",
+            "description": "Combination codes priced EUR16.00 to EUR18.50",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "aab695",
+            "group_set_id": "cc7529"
+          },
+          {
+            "words": [
+              "C7",
+              "C8",
+              "C9",
+              "C10"
+            ],
+            "category": "Mid-Priced Sushi Selections",
+            "color": "blue",
+            "url": "",
+            "description": "Combination codes priced EUR17.50 to EUR58.00",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "510f00",
+            "group_set_id": "cc7529"
+          },
+          {
+            "words": [
+              "SIXTEEN",
+              "FIFTY",
+              "SIXTY",
+              "TWENTY"
+            ],
+            "category": "Rounded Price Digits (euro whole numbers)",
+            "color": "green",
+            "url": "",
+            "description": "Whole-euro amounts appearing in menu prices (16, 50, 60, 20)",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "57736c",
+            "group_set_id": "cc7529"
+          },
+          {
+            "words": [
+              "CLASSIC",
+              "DELUXE",
+              "KINGS",
+              "PLATTER"
+            ],
+            "category": "Words in the Zakura Set Names",
+            "color": "yellow",
+            "url": "",
+            "description": "Descriptive words used to name the three Zakura Omakase tiers",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "a49f76",
+            "group_set_id": "cc7529"
+          }
+        ],
+        [
+          {
+            "words": [
+              "FISH",
+              "MOLLUSCS",
+              "PEANUTS",
+              "NUTS"
+            ],
+            "category": "Allergen Categories on the Menu",
+            "color": "purple",
+            "url": "",
+            "description": "Allergen groups from the numbered ingredient key",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "1f98f9",
+            "group_set_id": "c67638"
+          },
+          {
+            "words": [
+              "ALMONDS",
+              "CASHEW",
+              "WALNUT",
+              "PISTACHIO"
+            ],
+            "category": "Nut Sub-Types Listed",
+            "color": "teal",
+            "url": "",
+            "description": "Specific nuts broken out under the Nuts allergen category",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "5ca1ac",
+            "group_set_id": "c67638"
+          },
+          {
+            "words": [
+              "FOUR",
+              "FIVE",
+              "TEN",
+              "TWELVE"
+            ],
+            "category": "Piece Counts Featured on the Menu",
+            "color": "orange",
+            "url": "",
+            "description": "Numbers of pieces called out across various selections",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "0a4edd",
+            "group_set_id": "c67638"
+          },
+          {
+            "words": [
+              "WHEAT",
+              "SPELT",
+              "OATS",
+              "KHORASAN"
+            ],
+            "category": "Gluten Sub-Types Listed",
+            "color": "indigo",
+            "url": "",
+            "description": "Specific grains broken out under the Gluten allergen category",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Combination Sets",
+            "group_item_id": "a39224",
+            "group_set_id": "c67638"
+          }
+        ]
+      ],
+      "game_set_id": "b44be0"
+    },
+    {
+      "theme": "Sushi Menu Terms",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "HOSOMAKI",
+              "FUTOMAKI",
+              "TEMAKI",
+              "NORIMAKI"
+            ],
+            "category": "Types of Sushi Rolls",
+            "color": "red",
+            "url": "",
+            "description": "Different styles of rolled sushi listed on the menu",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "eb79a5",
+            "group_set_id": "a0993c"
+          },
+          {
+            "words": [
+              "NIGIRI",
+              "SASHIMI",
+              "GUNKAN",
+              "OMAKASE"
+            ],
+            "category": "Sushi Preparation Styles",
+            "color": "blue",
+            "url": "",
+            "description": "Ways sushi and fish are served or presented, including chef's choice",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "c3996c",
+            "group_set_id": "a0993c"
+          },
+          {
+            "words": [
+              "SALMON",
+              "TUNA",
+              "HAMACHI",
+              "EBI"
+            ],
+            "category": "Fish and Seafood Used",
+            "color": "green",
+            "url": "",
+            "description": "Seafood ingredients appearing across the combination sets",
+            "skill_level": "Beginner",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "5e5b54",
+            "group_set_id": "a0993c"
+          },
+          {
+            "words": [
+              "BODAN",
+              "NAMI",
+              "KIYOMI",
+              "MATSU"
+            ],
+            "category": "Named Sushi Selections",
+            "color": "yellow",
+            "url": "",
+            "description": "Named Chef's Sushi Selection dishes (peony, wave, pure beauty, pine tree)",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "4de073",
+            "group_set_id": "a0993c"
+          }
+        ],
+        [
+          {
+            "words": [
+              "GLUTEN",
+              "CRUSTACEANS",
+              "EGGS",
+              "SOYBEANS"
+            ],
+            "category": "Listed Allergens",
+            "color": "purple",
+            "url": "",
+            "description": "Allergens flagged in the menu's ingredient list",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "9d3b7e",
+            "group_set_id": "315895"
+          },
+          {
+            "words": [
+              "SESAME",
+              "MUSTARD",
+              "CELERY",
+              "LUPIN"
+            ],
+            "category": "More Listed Allergens",
+            "color": "teal",
+            "url": "",
+            "description": "Additional allergens flagged in the menu's ingredient list",
+            "skill_level": "Intermediate",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "87fa66",
+            "group_set_id": "315895"
+          },
+          {
+            "words": [
+              "GYOZA",
+              "ABURI",
+              "KATSU",
+              "ORIZUME"
+            ],
+            "category": "Omakase Box Components",
+            "color": "orange",
+            "url": "",
+            "description": "Preparations and box style featured in the Zakura Omakase sets",
+            "skill_level": "Expert",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "509d92",
+            "group_set_id": "315895"
+          },
+          {
+            "words": [
+              "ZAKURA",
+              "PEONY",
+              "WAVE",
+              "PINE"
+            ],
+            "category": "Selection Names Decoded",
+            "color": "indigo",
+            "url": "",
+            "description": "English meanings and series name behind the Japanese selection titles",
+            "skill_level": "Advanced",
+            "additional_sources": [],
+            "theme": "Sushi Menu Terms",
+            "group_item_id": "0eec5b",
+            "group_set_id": "315895"
+          }
+        ]
+      ],
+      "game_set_id": "44cff4"
+    }
+  ]
+}

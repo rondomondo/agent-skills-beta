@@ -1,0 +1,18 @@
+{
+  "source": "/home/claude/run/output/tmp/find4_final/sushi-combination-sets.json",
+  "slug": "sushi-combination-sets",
+  "stats": {
+    "game_sets": 1,
+    "group_sets": 2,
+    "items": 32,
+    "themes": [
+      "Sushi Combination Sets"
+    ]
+  },
+  "compression": {
+    "raw_bytes": 3283,
+    "enc_bytes": 1133,
+    "ratio": "35%"
+  },
+  "share_url": "https://find4.org/#game=vZZtb-I4EMe_ipVXWx2w4SHh4V02TbdoU6gIPfZ6QsgkJnibxJHjtNur-t1vJoFsypYud6pWAmLi8Xj8m7_HftJipmhAFdVGT1rIEiapYsGKKm2kdfSO2dT7Tb091_VR8bnVGlomcukz6M_ybMuJiOkdzRiJWZKTdCuUIB_yjEmSp5GgwRmOyMOQZeg3oXE1srkb2cSRrW-ZSMA0FgHf8FciaJujbmdk9FqDXr_bbVdxrHjwn0JRLAX7DU9oxP9hq2r5DY0HK8lCnin5WMCAUFcZUzBBpo3-1ta93prp2rKhhVLkab3L9_tGZwgufLNvdgc_bLhi8d6I0rU5NMDIaOsbXcdGv981fWjQ3nDTN6HR3gwHG3Rk-LRNsUunPRYEaNMddjo9bfmMgcIKvq2ST-Ot0RzK29Boz_7CtaURh5iSjcD4pYgK1Piy6nyNanekd1sdY2AMzD-KJIN1SiVL1OrYTLvuDS-mELlKc_VRxelH4Br0VgXdfUbVlhU594oU2SJeQ6_iIiEeUxlGFuVhpQn_R38zw_5nWPA-Fcjx6dcOq_ygPQx4ELJMgd2FXruHP5gI28RM-SD4UGDONVc8MNm8ltxnASndeyxiPjpHx76IhAQ7yTAjuYygDY2AZb7kKVrBi3pAvoA-kpYOnZtZ22zpOgFZYnvQMhB1dsejaBWxe4buPoECE9iFmPEg4OiFRqtS6riGZePU9e-0B4aV8urChfc72T436oj6CGaAP6hDu60fMLriwQmE1lHO_ieiPmDZITIGLf1nRONEMRmzgENQ74mp2pcnYPLGX-eOMwHji_HFHLcEvsHnfOFMoPES2kzkSQDrK8CRcx5ylZEPLJeCPGxhn5Ikj9dMZmc1hKFkLDnOcIHjmoULGoN7cEjTlFHJk5DwZFcDcT6YqW02iKE3iAnfjn72E1Lne8qkeleY-9p2iuZcy_PGNhifO-7NVwcaX8aTzx48r11rPndmBzgXOBIXCWGRW3qXS4pxkAnUiboKH1kUiYfjDM_3_-4ZKaIhcFoEKD48pwrvagtp2M8x3Z0vikOufpsuq9PhCMplo17jLsbeJdheTV33xrMLho41uZljq3i8RGlFEZNw7hO7fMdBLqIEewUKqsFMc5lGb2zqylMRZkY2UsSFn1LbwBWUCQ8OJwe5Y4-_pfRVB-ohu_KgfiFDy72aTs6Rk215l84CGgvLBWbIcOzNLftyPD3AN8kVlMF1c_6YAjiX4yWnxkwxGh0n5qXMh8uOD4Rg966luAN6cJgSLBayYDfBHronW018iM4K7mniF1O_3w7eX0FOQHcxvZkVtfBP3LzzojBCIXTh70te15xBAbTLenXBqMpRGK8LTkiahG8IblLWTCI2JEW3GfABUkGBkPpSZBm5h3oo8oxk9UPq92zb6uZ2Ar_FpWOhzLxrx8Xn1Cr265fL6czyrMkBxM9RrkANb-gObmE8FCcoL5SUJ0e0t5vm1-p7_9Njd9k9ym65bNTv53jhKG_nz8vnfwE="
+}
