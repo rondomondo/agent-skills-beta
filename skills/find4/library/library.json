@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-06-29T21:25:22",
-    "library_version": "2026-06-29T21:25:22",
-    "trigger": "rondomondo via Publish find4 games to github - workflow call run 28403693358",
+    "generated_at": "2026-07-01T16:34:33",
+    "library_version": "2026-07-01T16:34:33",
+    "trigger": "rondomondo via Publish find4 games to github - workflow call run 28532730869",
     "source": "library/themes.json",
-    "game_set_count": 18,
-    "missing_count": 0,
+    "game_set_count": 16,
+    "missing_count": 2,
     "source_hashes": {
       "cd251c": "02451d4bb156ca16ad8947eb8b22ee0bc796136a22fc1bf787a2486c214fc5ba",
       "60e6b3": "c219217d7b16c138b8189592f448c3fe4d8f74ac147a52b26e6a99fbed1876ed",
@@ -18,16 +18,14 @@
       "3d2cf0": "ae419746c1b9cf6f63c7a2f841c7b571ebc6c3ac0e31546fb67d94cf9d7aa665",
       "64d49f": "47bc872e9ec0b6a4edd9c0c0b09f0129cb9b524f926450bf1540dd18fa048716",
       "3e6e54": "c018b1feb2d9e4f7ef1dc2dae68b1924a846db53ddbf794dd4e9ba5602ce0072",
-      "828ddf": "fccc342a6089ea3f0991dacaa6513312c285b5b1c3a2f5a5092370e8c46ee033",
       "4703ec": "c3a6ef07ccdbe6b5ef3dedf6769d8ea144f3f1e144573e9ca9bdd78bd66f4d0e",
       "07f914": "0bf2d353527140f2db6375702034b22fc10c65856bf5d6c528162b03a4fb0d50",
       "ded23b": "3f3a1e8b4b8e9d23c6fc833e4a0e1db69b2ea3252c305b25b181d12f9f64fbcc",
       "41e2af": "1b88e9292484038afce6be9786e8ca40067edf9c9ccbc0ebbfabe42626f7c71a",
-      "ed65a3": "12f8b814c7f57d7d8351cacfde611b691ec746d7b588b289a63f512278a2ade7",
-      "d68138": "5b67b913409a527d67274892f2a8c2050f496fb43b83a3f9bb0f0d2d14eec41c"
+      "ed65a3": "12f8b814c7f57d7d8351cacfde611b691ec746d7b588b289a63f512278a2ade7"
     },
-    "content_hash": "566eadb22181563c544aacd03e7f3714a82b75208ca8a8367004f2fadfb9c657",
-    "metadata_fingerprint": "c0ece4d7a66bbdc3"
+    "content_hash": "5ed748b61259c583560def9b80587fc69d446ef85afecc9c94dfd4142fb4f3ad",
+    "metadata_fingerprint": "a65d0ef6153adda8"
   },
   "game_sets": [
     {
@@ -1841,168 +1839,6 @@
       "game_set_id": "3e6e54"
     },
     {
-      "theme": "FastAPI Request Handling",
-      "group_sets": [
-        [
-          {
-            "words": [
-              "DEPENDS",
-              "APIKEY",
-              "OAUTH2",
-              "HTTPBEARER"
-            ],
-            "category": "FastAPI Security / Auth primitives",
-            "color": "red",
-            "url": "https://fastapi.tiangolo.com/tutorial/security/",
-            "description": "FastAPI security utilities for authentication and authorization",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://fastapi.tiangolo.com/tutorial/dependencies/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "129f6c",
-            "group_set_id": "d6a060"
-          },
-          {
-            "words": [
-              "PATHPARAM",
-              "QUERYPARAM",
-              "REQUESTBODY",
-              "FORMPARAM"
-            ],
-            "category": "FastAPI parameter sources",
-            "color": "blue",
-            "url": "https://fastapi.tiangolo.com/tutorial/query-params/",
-            "description": "Where FastAPI reads incoming data — path, query string, JSON body, or form fields",
-            "skill_level": "Beginner",
-            "additional_sources": [
-              "https://fastapi.tiangolo.com/tutorial/body/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "5335f5",
-            "group_set_id": "d6a060"
-          },
-          {
-            "words": [
-              "UPLOADFILE",
-              "FILE",
-              "FORM",
-              "SPOOLEDTMPFILE"
-            ],
-            "category": "FastAPI file / multipart upload",
-            "color": "green",
-            "url": "https://fastapi.tiangolo.com/tutorial/request-files/",
-            "description": "Primitives for handling file and multipart/form-data uploads in FastAPI",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://fastapi.tiangolo.com/tutorial/request-forms-and-files/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "e37cda",
-            "group_set_id": "d6a060"
-          },
-          {
-            "words": [
-              "LIFESPAN",
-              "STARTUP",
-              "SHUTDOWN",
-              "ASYNCCONTEXTMANAGER"
-            ],
-            "category": "FastAPI app lifecycle hooks",
-            "color": "purple",
-            "url": "https://fastapi.tiangolo.com/advanced/events/",
-            "description": "Tools for running logic at application startup and shutdown in FastAPI",
-            "skill_level": "Advanced",
-            "additional_sources": [
-              "https://docs.python.org/3/library/contextlib.html#contextlib.asynccontextmanager"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "9a1c5a",
-            "group_set_id": "d6a060"
-          }
-        ],
-        [
-          {
-            "words": [
-              "JSONRESPONSE",
-              "STREAMINGRESPONSE",
-              "FILERESPONSE",
-              "HTMLRESPONSE"
-            ],
-            "category": "FastAPI response types",
-            "color": "yellow",
-            "url": "https://fastapi.tiangolo.com/advanced/custom-response/",
-            "description": "Concrete HTTP response classes available in FastAPI / Starlette",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://www.starlette.io/responses/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "5b1228",
-            "group_set_id": "b90cf7"
-          },
-          {
-            "words": [
-              "TESTCLIENT",
-              "HTTPX",
-              "ASYNCCLIENT",
-              "PYTEST"
-            ],
-            "category": "FastAPI testing tools",
-            "color": "teal",
-            "url": "https://fastapi.tiangolo.com/tutorial/testing/",
-            "description": "Libraries and clients used to test FastAPI applications",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://www.python-httpx.org/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "6ebad0",
-            "group_set_id": "b90cf7"
-          },
-          {
-            "words": [
-              "APIROUTER",
-              "INCLUDE_ROUTER",
-              "PREFIX",
-              "TAGS"
-            ],
-            "category": "FastAPI modular routing",
-            "color": "orange",
-            "url": "https://fastapi.tiangolo.com/tutorial/bigger-applications/",
-            "description": "Primitives for splitting a FastAPI app into modular routers with prefixes and tags",
-            "skill_level": "Beginner",
-            "additional_sources": [
-              "https://fastapi.tiangolo.com/reference/apirouter/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "b9701b",
-            "group_set_id": "b90cf7"
-          },
-          {
-            "words": [
-              "CORSM",
-              "GZIPM",
-              "TRUSTEDHOST",
-              "HTTPSREDIRECT"
-            ],
-            "category": "FastAPI / Starlette middleware",
-            "color": "indigo",
-            "url": "https://fastapi.tiangolo.com/tutorial/middleware/",
-            "description": "Common ASGI middleware that can be added to a FastAPI application",
-            "skill_level": "Advanced",
-            "additional_sources": [
-              "https://www.starlette.io/middleware/"
-            ],
-            "theme": "FastAPI Request Handling",
-            "group_item_id": "de4874",
-            "group_set_id": "b90cf7"
-          }
-        ]
-      ],
-      "game_set_id": "828ddf"
-    },
-    {
       "theme": "RegTech Key Concerns",
       "group_sets": [
         [
@@ -2843,168 +2679,6 @@
         ]
       ],
       "game_set_id": "ed65a3"
-    },
-    {
-      "theme": "pydantic-ai Agent Primitives",
-      "group_sets": [
-        [
-          {
-            "words": [
-              "RUN",
-              "RUN_SYNC",
-              "RUN_STREAM",
-              "OUTPUT_TYPE"
-            ],
-            "category": "pydantic-ai Agent execution methods",
-            "color": "blue",
-            "url": "https://ai.pydantic.dev/agents/",
-            "description": "Core methods on a pydantic-ai Agent for invoking the LLM loop synchronously, asynchronously, or streamed",
-            "skill_level": "Beginner",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/agent/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "7d52c3",
-            "group_set_id": "bd077b"
-          },
-          {
-            "words": [
-              "TOOL",
-              "TOOL_PLAIN",
-              "RUNCONTEXT",
-              "TOOLDEFINITION"
-            ],
-            "category": "pydantic-ai tool registration",
-            "color": "green",
-            "url": "https://ai.pydantic.dev/tools/",
-            "description": "Decorators and types for defining LLM-callable tools in pydantic-ai",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/tools/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "75408a",
-            "group_set_id": "bd077b"
-          },
-          {
-            "words": [
-              "MODELRETRY",
-              "UNEXPECTEDMODELBEHAVIOR",
-              "USAGELIMITEXCEEDED",
-              "USERLIMITS"
-            ],
-            "category": "pydantic-ai error and retry types",
-            "color": "red",
-            "url": "https://ai.pydantic.dev/agents/#retries",
-            "description": "Exceptions and limits controlling retry behaviour and failure handling in pydantic-ai",
-            "skill_level": "Advanced",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/exceptions/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "dcbebd",
-            "group_set_id": "bd077b"
-          },
-          {
-            "words": [
-              "OPENAIMODEL",
-              "ANTHROPICMODEL",
-              "GEMINIMODEL",
-              "OLLAMAMODEL"
-            ],
-            "category": "pydantic-ai model backends",
-            "color": "yellow",
-            "url": "https://ai.pydantic.dev/models/",
-            "description": "Pluggable LLM backend classes supported by pydantic-ai out of the box",
-            "skill_level": "Beginner",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/models/openai/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "e4b7e6",
-            "group_set_id": "bd077b"
-          }
-        ],
-        [
-          {
-            "words": [
-              "TESTMODEL",
-              "FUNCTIONMODEL",
-              "FALLBACKMODEL",
-              "MODELSETTINGS"
-            ],
-            "category": "pydantic-ai specialised model types",
-            "color": "purple",
-            "url": "https://ai.pydantic.dev/testing-evals/",
-            "description": "Deterministic, custom, and fallback model implementations for testing and advanced routing",
-            "skill_level": "Advanced",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/models/test/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "5d6371",
-            "group_set_id": "83bddc"
-          },
-          {
-            "words": [
-              "STREAMTEXT",
-              "STREAM_STRUCTURED",
-              "STREAMEDRUNRESULT",
-              "IS_COMPLETE"
-            ],
-            "category": "pydantic-ai streaming API",
-            "color": "teal",
-            "url": "https://ai.pydantic.dev/results/#streaming-results",
-            "description": "Async iterators and flags for consuming streamed text and structured output from pydantic-ai agents",
-            "skill_level": "Intermediate",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/result/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "f58900",
-            "group_set_id": "83bddc"
-          },
-          {
-            "words": [
-              "BASENODE",
-              "GRAPHRUNCONTEXT",
-              "HANDOFF",
-              "ENDNODE"
-            ],
-            "category": "pydantic-ai-graph multi-agent workflow",
-            "color": "orange",
-            "url": "https://ai.pydantic.dev/multi-agent-applications/",
-            "description": "Graph primitives for building stateful multi-agent pipelines in pydantic-ai",
-            "skill_level": "Expert",
-            "additional_sources": [
-              "https://ai.pydantic.dev/graph/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "0b3b9c",
-            "group_set_id": "83bddc"
-          },
-          {
-            "words": [
-              "LOGFIRE",
-              "USAGELIMITS",
-              "USAGE",
-              "RUNRESULT"
-            ],
-            "category": "pydantic-ai observability and accounting",
-            "color": "indigo",
-            "url": "https://ai.pydantic.dev/logfire/",
-            "description": "Tools for tracing, token counting, and result introspection in pydantic-ai",
-            "skill_level": "Advanced",
-            "additional_sources": [
-              "https://ai.pydantic.dev/api/usage/"
-            ],
-            "theme": "pydantic-ai Agent Primitives",
-            "group_item_id": "0bc42a",
-            "group_set_id": "83bddc"
-          }
-        ]
-      ],
-      "game_set_id": "d68138"
     }
   ]
 }
