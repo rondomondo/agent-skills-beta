@@ -1,0 +1,82 @@
+short_link: ff-623ada80 short_path: games/space-telescopes-and-black-hole-anatomy.json config_file: library/space-technology-black-holes/space-telescopes-and-black-hole-anatomy.json
+short_link: ff-83f24f80 short_path: games/equine-vet-expert-differentiators-what-sets-the-best-apart.json config_file: library/equine-veterinary-skills/equine-vet-expert-differentiators-what-sets-the-best-apart.json
+short_link: ff-4b1b0e1d short_path: games/equine-veterinary-clinical-skills-in-demand.json config_file: library/equine-veterinary-skills/equine-veterinary-clinical-skills-in-demand.json
+short_link: ff-ea09cb0e short_path: games/famous-fat-people-entertainment-and-culture.json config_file: library/famous-fat-people/famous-fat-people-entertainment-and-culture.json
+short_link: ff-10d92c1b short_path: games/fastapi-request-handling.json config_file: library/find4_final/fastapi-request-handling.json
+short_link: ff-e97d9e94 short_path: games/famous-bmx-racers-olympic-champions.json config_file: library/famous-bmx-racers/famous-bmx-racers-olympic-champions.json
+short_link: ff-a5be4d01 short_path: games/rocket-science-and-cosmic-extremes.json config_file: library/space-technology-black-holes/rocket-science-and-cosmic-extremes.json
+short_link: ff-045036b5 short_path: games/equine-veterinary-clinical-skills.json config_file: library/equine-veterinary-skills/equine-veterinary-clinical-skills.json
+short_link: ff-a93ca6d2 short_path: games/famous-fat-people-history-and-royalty.json config_file: library/famous-fat-people/famous-fat-people-history-and-royalty.json
+short_link: ff-455ab155 short_path: games/regtech-key-concerns.json config_file: library/regtech-key-concerns-and-players/regtech-key-concerns.json
+short_link: ff-c1f59e01 short_path: games/equine-veterinary-diagnostic-and-clinical-skills.json config_file: library/equine-veterinary-best/equine-veterinary-diagnostic-and-clinical-skills.json
+short_link: ff-9653263e short_path: games/regtech-major-players.json config_file: library/regtech-key-concerns-and-players/regtech-major-players.json
+short_link: ff-1ced5b86 short_path: games/equine-veterinary-professional-excellence-and-emergency-skills.json config_file: library/equine-veterinary-best/equine-veterinary-professional-excellence-and-emergency-skills.json
+short_link: ff-2fd674fb short_path: games/pydantic-ai-agent-primitives.json config_file: library/find4_final/pydantic-ai-agent-primitives.json
+short_link: ff-4d156524 short_path: games/famous-bmx-racers-legends-and-pioneers.json config_file: library/famous-bmx-racers/famous-bmx-racers-legends-and-pioneers.json
+short_link: ff-8a507662 short_path: games/construction-project-management-and-contracts.json config_file: library/construction-management-business-skills/construction-project-management-and-contracts.json
+short_link: ff-94b8b29e short_path: games/construction-business-and-site-delivery.json config_file: library/construction-management-business-skills/construction-business-and-site-delivery.json
+short_link: ff-3c4e6f48 short_path: games/what-sets-expert-equine-vets-apart.json config_file: library/equine-veterinary-skills/what-sets-expert-equine-vets-apart.json
+  OK   cd251c: Construction Business and Site Delivery
+  OK   60e6b3: Construction Project Management and Contracts
+  OK   100afe: Equine Vet Expert Differentiators: What Sets the Best Apart
+  OK   a9e4db: Equine Veterinary Clinical Skills
+  OK   05e2ef: Equine Veterinary: Clinical Skills In Demand
+  OK   cd58ff: Equine Veterinary: Diagnostic & Clinical Skills
+  OK   971e2b: Equine Veterinary: Professional Excellence & Emergency Skills
+  OK   ec4483: Famous BMX Racers — Legends and Pioneers
+  OK   3d2cf0: Famous BMX Racers — Olympic Champions
+  OK   64d49f: Famous Fat People: Entertainment & Culture
+  OK   3e6e54: Famous Fat People: History & Royalty
+  SKIP 828ddf: config_file not found (library/find4_final/fastapi-request-handling.json)
+  OK   4703ec: RegTech Key Concerns
+  OK   07f914: RegTech Major Players
+  OK   ded23b: Rocket Science and Cosmic Extremes
+  OK   41e2af: Space Telescopes and Black Hole Anatomy
+  OK   ed65a3: What Sets Expert Equine Vets Apart
+  SKIP d68138: config_file not found (library/find4_final/pydantic-ai-agent-primitives.json)
+
+Warning: 2 game set(s) could not be resolved: ['828ddf', 'd68138']
+
+Validation Report:
+--------------------------------------------------------------------------------
+No validation errors found.
+
+Duplicate Analysis:
+
+Processed 41 files
+Found 18 unique game sets
+
+Theme Index Summary:
+------------------------------------------------------------------------------------------------------------------------
+Theme                          Game Set ID     Words    Groups   Vers    File
+------------------------------------------------------------------------------------------------------------------------
+Construction Business and Site cd251c          32       8        1   [v] construction-business-and-site-delivery.json
+Construction Project Managemen 60e6b3          32       8        1   [v] construction-project-management-and-contracts.json
+Equine Vet Expert Differentiat 100afe          32       8        1   [v] equine-vet-expert-differentiators-what-sets-the-best-apart.json
+Equine Veterinary Clinical Ski a9e4db          32       8        1   [v] equine-veterinary-clinical-skills.json
+Equine Veterinary: Clinical Sk 05e2ef          32       8        1   [v] equine-veterinary-clinical-skills-in-demand.json
+Equine Veterinary: Diagnostic  cd58ff          32       8        1   [v] equine-veterinary-diagnostic-and-clinical-skills.json
+Equine Veterinary: Professiona 971e2b          32       8        1   [v] equine-veterinary-professional-excellence-and-emergency-skills.json
+Famous BMX Racers — Legends an ec4483          32       8        1   [v] famous-bmx-racers-legends-and-pioneers.json
+Famous BMX Racers — Olympic Ch 3d2cf0          32       8        1   [v] famous-bmx-racers-olympic-champions.json
+Famous Fat People: Entertainme 64d49f          32       8        1   [v] famous-fat-people-entertainment-and-culture.json
+Famous Fat People: History & R 3e6e54          32       8        1   [v] famous-fat-people-history-and-royalty.json
+FastAPI Request Handling       828ddf          32       8        1   [v] fastapi-request-handling.json
+RegTech Key Concerns           4703ec          32       8        1   [v] regtech-key-concerns.json
+RegTech Major Players          07f914          32       8        1   [v] regtech-major-players.json
+Rocket Science and Cosmic Extr ded23b          32       8        1   [v] rocket-science-and-cosmic-extremes.json
+Space Telescopes and Black Hol 41e2af          32       8        1   [v] space-telescopes-and-black-hole-anatomy.json
+What Sets Expert Equine Vets A ed65a3          32       8        1   [v] what-sets-expert-equine-vets-apart.json
+pydantic-ai Agent Primitives   d68138          32       8        1   [v] pydantic-ai-agent-primitives.json
+------------------------------------------------------------------------------------------------------------------------
+
+Theme index saved to library/themes.json
+
+Building library.json from library/themes.json ...
+
+Done.
+  game_sets : 16
+  missing   : 2
+  hash      : 5ed748b61259c583...
+  fingerprint: b94f2c6f79b92194
+  output    : library/library.json
