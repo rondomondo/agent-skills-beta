@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-02T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "paper-plane-facts.json"
+  },
+  "game_sets": [
+    {
+      "theme": "Paper Plane Facts: Aerodynamics & Design",
+      "group_sets": [
+        [
+          {
+            "words": ["LIFT", "DRAG", "THRUST", "GRAVITY"],
+            "category": "Four Forces of Flight",
+            "color": "blue",
+            "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/forces.html",
+            "description": "The four fundamental forces acting on any aircraft, including paper planes",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Flight"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["DART", "GLIDER", "HAMMERHEAD", "STEALTH"],
+            "category": "Paper Plane Types",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane",
+            "description": "Classic categories of paper plane designs, each optimised for different flight characteristics",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://www.paperairplanes.co.uk/types.php"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["DIHEDRAL", "CAMBER", "STALL", "REYNOLDS"],
+            "category": "Aerodynamics Terms",
+            "color": "orange",
+            "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/bernnew.html",
+            "description": "Key aerodynamic concepts that affect how a paper plane behaves in the air",
+            "skill_level": "Advanced",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Aerodynamics"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["NAKAMURA", "SUZANNE", "HARRIER", "CONCORDE"],
+            "category": "Famous Paper Plane Designs",
+            "color": "purple",
+            "url": "https://www.thepaperairplaneguy.com",
+            "description": "Well-known named paper plane designs with distinct folding techniques and flight styles",
+            "skill_level": "Intermediate",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Paper_plane#Notable_designs"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          }
+        ],
+        [
+          {
+            "words": ["OVERHAND", "FLAT", "SPIN", "NOSE-DOWN"],
+            "category": "Throwing Techniques",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane#Throwing_techniques",
+            "description": "Different release methods used when throwing a paper plane, each affecting flight path",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://www.paperairplanes.co.uk/throw.php"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["DISTANCE", "TIME", "AEROBATICS", "ACCURACY"],
+            "category": "Competition Categories",
+            "color": "teal",
+            "url": "https://www.redbull.com/int-en/tags/red-bull-paper-wings",
+            "description": "The main judging categories in paper plane competitions such as Red Bull Paper Wings",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Paper_plane#Competitions"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["80GSM", "100GSM", "ORIGAMI", "FOIL-BACKED"],
+            "category": "Paper Types for Planes",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Origami_paper",
+            "description": "Different paper weights and materials that affect a paper plane's performance and durability",
+            "skill_level": "Intermediate",
+            "additional_sources": ["https://www.paperairplanes.co.uk/paper.php"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          },
+          {
+            "words": ["BERNOULLI", "CENTRE-OF-GRAVITY", "ANGLE-OF-ATTACK", "TURBULENCE"],
+            "category": "Physics Principles",
+            "color": "indigo",
+            "url": "https://www.physicsclassroom.com/class/newtlaws/Lesson-4/Newton-s-Third-Law",
+            "description": "Fundamental physics concepts that explain why and how paper planes fly",
+            "skill_level": "Expert",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Bernoulli%27s_principle"],
+            "theme": "Paper Plane Facts: Aerodynamics & Design"
+          }
+        ]
+      ]
+    },
+    {
+      "theme": "Paper Plane Facts: Records, History & Competitions",
+      "group_sets": [
+        [
+          {
+            "words": ["TODA", "AYOOB", "COLLINS", "DA-VINCI"],
+            "category": "Famous Names in Paper Planes",
+            "color": "blue",
+            "url": "https://www.guinnessworldrecords.com/world-records/longest-paper-airplane-flight",
+            "description": "Notable individuals associated with paper plane records, design, and history",
+            "skill_level": "Intermediate",
+            "additional_sources": ["https://en.wikipedia.org/wiki/John_Collins_(paper_airplane)"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["29.2-SECONDS", "69.14-METRES", "30KM", "226-FEET"],
+            "category": "World Record Figures",
+            "color": "red",
+            "url": "https://www.guinnessworldrecords.com/world-records/paper-airplane",
+            "description": "Official record-breaking measurements from paper plane world records",
+            "skill_level": "Intermediate",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Paper_plane#Records"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["CHINA", "WWII", "NASA", "JAPAN"],
+            "category": "Paper Plane History Milestones",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane#History",
+            "description": "Countries and eras connected to key moments in paper plane history",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://www.thepaperairplaneguy.com/history"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["RED-BULL", "SEATTLE", "ORIGAMI-ASSOCIATION", "WORLD-CHAMPIONSHIP"],
+            "category": "Paper Plane Competitions & Orgs",
+            "color": "orange",
+            "url": "https://www.redbull.com/int-en/tags/red-bull-paper-wings",
+            "description": "Well-known competitions and organisations dedicated to competitive paper plane flying",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Paper_plane#Competitions"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          }
+        ],
+        [
+          {
+            "words": ["LOCK", "FOLD", "CREASE", "TUCK"],
+            "category": "Paper Folding Actions",
+            "color": "purple",
+            "url": "https://en.wikipedia.org/wiki/Origami",
+            "description": "Core physical actions involved in folding a paper plane from a flat sheet",
+            "skill_level": "Beginner",
+            "additional_sources": ["https://www.paperairplanes.co.uk/folds.php"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["LOOP", "ROLL", "GLIDE", "STUNT"],
+            "category": "Paper Plane Manoeuvres",
+            "color": "teal",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane#Aerobatics",
+            "description": "Flight manoeuvres that paper planes can be designed to perform",
+            "skill_level": "Intermediate",
+            "additional_sources": ["https://www.paperairplanes.co.uk/aerobatics.php"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["WHITE-DOVE", "F-15-EAGLE", "INTERCEPTOR", "SUZANNE"],
+            "category": "Named Glider Variants",
+            "color": "yellow",
+            "url": "https://www.thepaperairplaneguy.com/designs",
+            "description": "Specific named paper plane designs known for distinctive shapes or performance traits",
+            "skill_level": "Advanced",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Paper_plane#Designs"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          },
+          {
+            "words": ["MOMENTUM", "STABILITY", "SYMMETRY", "BALANCE"],
+            "category": "Flight Quality Factors",
+            "color": "indigo",
+            "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/guided.htm",
+            "description": "Physical properties that determine whether a paper plane flies smoothly or erratically",
+            "skill_level": "Advanced",
+            "additional_sources": ["https://en.wikipedia.org/wiki/Flight_dynamics"],
+            "theme": "Paper Plane Facts: Records, History & Competitions"
+          }
+        ]
+      ]
+    }
+  ]
+}

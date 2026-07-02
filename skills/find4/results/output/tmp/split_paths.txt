@@ -1,0 +1,2 @@
+output/tmp/find4_final/paper-plane-facts-aerodynamics-and-design.json
+output/tmp/find4_final/paper-plane-facts-records-history-and-competitions.json

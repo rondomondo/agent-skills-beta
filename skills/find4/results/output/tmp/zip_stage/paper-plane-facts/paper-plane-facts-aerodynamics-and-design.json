@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-02T00:00:00Z",
+    "source": "stdin",
+    "suggested_name": "paper-plane-facts.json",
+    "modified_at": "2026-07-02T15:08:54.324352",
+    "source_id": "stdin",
+    "step": "finalize_metadata",
+    "id_registry": {
+      "game_set_ids": [
+        "db5d50"
+      ],
+      "group_set_ids": [
+        "389986",
+        "ae6d53"
+      ],
+      "group_item_ids": [
+        "aef6c1",
+        "0a9c4e",
+        "32c316",
+        "c40aa8",
+        "b19b80",
+        "17b8ba",
+        "93840e",
+        "24624c"
+      ]
+    },
+    "id": "TeQHxJHuPUZcOEEr",
+    "split_info": {
+      "role": "split",
+      "split_at": "2026-07-02T15:09:01.541848+00:00",
+      "parent_id": "TeQHxJHuPUZcOEEr",
+      "parent_file": "output/tmp/find4_final.json",
+      "theme": "Paper Plane Facts: Aerodynamics & Design",
+      "slug": "paper-plane-facts-aerodynamics-and-design"
+    }
+  },
+  "game_sets": [
+    {
+      "theme": "Paper Plane Facts: Aerodynamics & Design",
+      "group_sets": [
+        [
+          {
+            "words": [
+              "LIFT",
+              "DRAG",
+              "THRUST",
+              "GRAVITY"
+            ],
+            "category": "Four Forces of Flight",
+            "color": "blue",
+            "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/forces.html",
+            "description": "The four fundamental forces acting on any aircraft, including paper planes",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Flight"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "aef6c1",
+            "group_set_id": "389986"
+          },
+          {
+            "words": [
+              "DART",
+              "GLIDER",
+              "HAMMERHEAD",
+              "STEALTH"
+            ],
+            "category": "Paper Plane Types",
+            "color": "green",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane",
+            "description": "Classic categories of paper plane designs, each optimised for different flight characteristics",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.paperairplanes.co.uk/types.php"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "0a9c4e",
+            "group_set_id": "389986"
+          },
+          {
+            "words": [
+              "DIHEDRAL",
+              "CAMBER",
+              "STALL",
+              "REYNOLDS"
+            ],
+            "category": "Aerodynamics Terms",
+            "color": "orange",
+            "url": "https://www.grc.nasa.gov/WWW/K-12/airplane/bernnew.html",
+            "description": "Key aerodynamic concepts that affect how a paper plane behaves in the air",
+            "skill_level": "Advanced",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Aerodynamics"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "32c316",
+            "group_set_id": "389986"
+          },
+          {
+            "words": [
+              "NAKAMURA",
+              "SUZANNE",
+              "HARRIER",
+              "CONCORDE"
+            ],
+            "category": "Famous Paper Plane Designs",
+            "color": "purple",
+            "url": "https://www.thepaperairplaneguy.com",
+            "description": "Well-known named paper plane designs with distinct folding techniques and flight styles",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Paper_plane#Notable_designs"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "c40aa8",
+            "group_set_id": "389986"
+          }
+        ],
+        [
+          {
+            "words": [
+              "OVERHAND",
+              "FLAT",
+              "SPIN",
+              "NOSE-DOWN"
+            ],
+            "category": "Throwing Techniques",
+            "color": "red",
+            "url": "https://en.wikipedia.org/wiki/Paper_plane#Throwing_techniques",
+            "description": "Different release methods used when throwing a paper plane, each affecting flight path",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://www.paperairplanes.co.uk/throw.php"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "b19b80",
+            "group_set_id": "ae6d53"
+          },
+          {
+            "words": [
+              "DISTANCE",
+              "TIME",
+              "AEROBATICS",
+              "ACCURACY"
+            ],
+            "category": "Competition Categories",
+            "color": "teal",
+            "url": "https://www.redbull.com/int-en/tags/red-bull-paper-wings",
+            "description": "The main judging categories in paper plane competitions such as Red Bull Paper Wings",
+            "skill_level": "Beginner",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Paper_plane#Competitions"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "17b8ba",
+            "group_set_id": "ae6d53"
+          },
+          {
+            "words": [
+              "80GSM",
+              "100GSM",
+              "ORIGAMI",
+              "FOIL-BACKED"
+            ],
+            "category": "Paper Types for Planes",
+            "color": "yellow",
+            "url": "https://en.wikipedia.org/wiki/Origami_paper",
+            "description": "Different paper weights and materials that affect a paper plane's performance and durability",
+            "skill_level": "Intermediate",
+            "additional_sources": [
+              "https://www.paperairplanes.co.uk/paper.php"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "93840e",
+            "group_set_id": "ae6d53"
+          },
+          {
+            "words": [
+              "BERNOULLI",
+              "CENTRE-OF-GRAVITY",
+              "ANGLE-OF-ATTACK",
+              "TURBULENCE"
+            ],
+            "category": "Physics Principles",
+            "color": "indigo",
+            "url": "https://www.physicsclassroom.com/class/newtlaws/Lesson-4/Newton-s-Third-Law",
+            "description": "Fundamental physics concepts that explain why and how paper planes fly",
+            "skill_level": "Expert",
+            "additional_sources": [
+              "https://en.wikipedia.org/wiki/Bernoulli%27s_principle"
+            ],
+            "theme": "Paper Plane Facts: Aerodynamics & Design",
+            "group_item_id": "24624c",
+            "group_set_id": "ae6d53"
+          }
+        ]
+      ],
+      "game_set_id": "db5d50"
+    }
+  ]
+}
